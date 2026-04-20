@@ -1,0 +1,229 @@
+{
+    "events": [
+        {
+            "id": "76246671",
+            "title": "\nSalle 20RT, 20 rue de Toul\n\nManagerial Ethics\nRATTRAPAGE_SURV\n08:00 - 10:00\nMs GRIGNON",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211716",
+            "title": "\nSalle 20RT, 20 rue de Toul\nHoraire TT : 8h00-10h40\nOperations research\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr DELEPLANQUE",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211738",
+            "title": "\nSalle 20RT, 20 rue de Toul\n\nWith calculator\n\nPower electronics\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr CAPRON",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75405170",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n08:30 - 12:00\nMr N'KONOU",
+            "start": "2026-04-20T08:30:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75404353",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n13:30 - 17:00\nMr N'KONOU",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76211805",
+            "title": "\nSalle 20RT, 20 rue de Toul\nCalculatrice autorisée\nAdvanced Statistical Analysis\nRATTRAPAGE_SURV\n08:00 - 09:00\nMs WINDAL",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211770",
+            "title": "\nDocuments non autorisés, calculatrice autorisée, compas et règle obligatoires.\nSalle 20RT, 20 rue de Toul\n\nRF Circuits \nRATTRAPAGE_SURV\n08:00 - 10:00\nMr FLAMENT",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211743",
+            "title": "\nOral avec M. IHADDADENE\n\nQuality-Driven Software Development\nRATTRAPAGE\n08:00 - 10:00\nMr SAMOUT",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211765",
+            "title": "\nSalle 20RT, 20 rue de Toul\n\nAdvanced machine learning\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr GUETARNI",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75405183",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n08:30 - 12:00\nMr N'KONOU",
+            "start": "2026-04-21T08:30:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75404366",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n13:30 - 17:00\nMr N'KONOU",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76211932",
+            "title": "\nDocuments et calculatrice non autorisés.\nSalle C854, IC2, 41 Bvd Vauban\nInfrastructures for application deployment\nRATTRAPAGE_SURV\n08:00 - 09:00\nMr LANGLOIS",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211905",
+            "title": "\nOral avec M. IHADDADENE\nWeb Technologies\nRATTRAPAGE\n08:00 - 10:00\nMr GALLET",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211927",
+            "title": "\nSalle C854, IC2, 41 Bvd Vauban\nLinux script programming\nRATTRAPAGE_SURV\n08:00 - 09:00\nMr CAPIOD",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211900",
+            "title": "\nOral avec Mme ZAYDI\nPentesting\nRATTRAPAGE\n08:00 - 10:00\nMr CHÊNEVERT",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211895",
+            "title": "IC2 A622_2TAB\nMerci de prendre contact avec Mme ZAYDI pour définir votre créneau de passage\nComputer Forensics\nRATTRAPAGE\n08:00 - 10:00\nMs ZAYDI",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211846",
+            "title": "\nSalle C854, IC2, 41 Bvd Vauban\nHoraire TT : 7h30-10h10\n\nCalculatrice non programmable autorisée\nBlockchain and applications\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr CHÊNEVERT",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211820",
+            "title": "\nDocuments et calculatrice non autorisés.\nSalle C854, IC2, 41 Bvd Vauban\nBioinformatics\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr CALAFIORE",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76211825",
+            "title": "\nAvec calculatrice – with calculator\nSalle C854, IC2, 41 Bvd Vauban\n\nWireless Technology and Applications\nRATTRAPAGE_SURV\n08:00 - 10:00\nMr STEFANELLI",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75405196",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n08:30 - 12:00\nMr N'KONOU",
+            "start": "2026-04-22T08:30:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75404379",
+            "title": "\n\nResearch and Development Project S8\nPROJET\n13:30 - 17:00\nMr N'KONOU",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74940413",
+            "title": "IC1_220\n\nResearch and Development Project S8\nSOUTENANCE\n08:00 - 12:15\nMr N'KONOU",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74940451",
+            "title": "IC1_120\n\nResearch and Development Project S8\nSOUTENANCE\n13:30 - 18:00\nMr N'KONOU",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74940480",
+            "title": "IC1_217\n\nResearch and Development Project S8\nSOUTENANCE\n08:00 - 14:00\nMr N'KONOU",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T14:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "76212183",
+            "title": "\nCalculatrice autorisée\nCalculator allowed\nSalle B304, IC2, 41 Bvd Vauban\nProject management\nRATTRAPAGE_SURV\n15:00 - 16:00\nMs WATINE",
+            "start": "2026-04-24T15:00:00+0200",
+            "end": "2026-04-24T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        }
+    ]
+}

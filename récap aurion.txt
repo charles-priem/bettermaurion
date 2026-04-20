@@ -29,54 +29,49 @@ Erreur:
   - Status !== 200 et !== 302 = Login échoué
 
 
-📅 RÉCUPÉRER LES ÉVÉNEMENTS
+📅 RÉCUPÉRER LES ÉVÉNEMENTS (MÉTHODE HTTP CLASSIQUE - TRÈS FRAGILE)
 ================================================================================
+⚠️ ATTENTION : Cette méthode est déconseillée pour scrapper plusieurs classes en 
+même temps à cause de la gestion stricte de l'état (ViewState) par PrimeFaces.
 
 1️⃣ GET Planning page pour extraire ViewState et idInit
-   URL:    https://aurion.junia.com/faces/Planning.xhtml
-   Method: GET
-   Cookie: JSESSIONID (du login)
-   
    À extraire du HTML:
    - javax.faces.ViewState (regex: name="javax\.faces\.ViewState"[^>]*value="([^"]+)")
    - form:idInit (regex: name="form:idInit"[^>]*value="([^"]+)")
 
-
 2️⃣ POST AJAX pour récupérer les événements
-   URL:    https://aurion.junia.com/faces/Planning.xhtml
-   Method: POST
-   Cookie: JSESSIONID
-   
-   Headers:
-   - Content-Type: application/x-www-form-urlencoded
-   - Faces-Request: partial/ajax
-   - X-Requested-With: XMLHttpRequest
-   
    Body (URL-encoded):
    {
      "javax.faces.partial.ajax": "true",
      "javax.faces.source": "form:j_idt118",
-     "javax.faces.partial.execute": "form:j_idt118",
-     "javax.faces.partial.render": "form:j_idt118",
-     "form:j_idt118": "form:j_idt118",
      "form:j_idt118_start": <timestamp_ms>,
      "form:j_idt118_end": <timestamp_ms>,
-     "form": "form",
-     "form:largeurDivCenter": "1200",
      "form:idInit": <idInit_extrait>,
-     "form:date_input": "06/04/2026",          // JJ/MM/YYYY
-     "form:week": "15-2026",                   // semaine-année
-     "form:j_idt118_view": "agendaWeek",
-     "form:offsetFuseauNavigateur": "-3600000",
-     "form:onglets_activeIndex": "0",
-     "form:onglets_scrollState": "0",
-     "javax.faces.ViewState": <viewState_extrait>
+     "javax.faces.ViewState": <viewState_extrait>,
+     ...
    }
    
-   Réponse:
-   - Format XML avec CDATA JSON encodé
-   - À extraire: /<!\[CDATA\[(.*?)\]\]>/s
-   - JSON contient: { "events": [...] }
+   Nouvelle Réponse (Découverte) :
+   - Format XML de PrimeFaces.
+   - Le JSON n'est plus forcément dans <extension type="args">.
+   - Il est souvent injecté directement dans une balise <update id="form:j_idt118"><![CDATA[ {"events": [...]} ]]></update>.
+   - Si ViewState est expiré -> Renvoie une erreur <error-name>class javax.faces.application.ViewExpiredException</error-name>.
+
+
+🤖 RÉCUPÉRER LES ÉVÉNEMENTS (MÉTHODE PLAYWRIGHT - RECOMMANDÉE)
+================================================================================
+Pour bypasser les sécurités JSF/PrimeFaces et récupérer des plannings groupés (ex: tout un M1).
+
+Principe :
+1. Lancer un vrai navigateur (Playwright/Selenium) avec le JSESSIONID.
+2. Intercepter le trafic réseau (page.on("response")).
+3. Faire cliquer le robot sur les cases à cocher (.ui-chkbox-box).
+4. Cliquer sur "View schedule".
+5. Capturer le JSON directement dans la réponse réseau quand le serveur le renvoie.
+
+Avantages :
+- Plus besoin de gérer le ViewState ou le form:idInit.
+- Gère parfaitement les requêtes complexes de fusion d'emplois du temps.
 
 
 📊 STRUCTURE DES ÉVÉNEMENTS
@@ -91,9 +86,9 @@ Chaque événement contient:
 }
 
 Parsing du titre:
-  Ligne 1: Salle
+  Ligne 1: Salle (À extraire via Regex pour l'algorithme des salles libres)
   Ligne 2: Matière
-  Ligne 3: Type d'activité
+  Ligne 3: Type d'activité (ou RATTRAPAGE_SURV, etc.)
   Ligne 4: Professeur
 
 
@@ -108,30 +103,19 @@ PROJET      | Violet clair | type-projet
 EXAM/CC/DS  | Rouge clair  | type-exam
 
 
-🔄 FLUX COMPLET
+⚠️ POINTS IMPORTANTS & PIÈGES PRIMEFACES (DÉCOUVERTES)
 ================================================================================
-1. Login POST → Récupérer JSESSIONID
-2. GET Planning → Récupérer ViewState + idInit
-3. POST AJAX Planning → Récupérer événements (JSON dans XML/CDATA)
-4. Parser les événements → Afficher par jour
+- Les timestamps sont en MILLISECONDES.
+- Offset fuseau: -7200000 ms = UTC+2 (Heure d'été) / -3600000 ms = UTC+1 (Heure d'hiver).
+- Ghost DOM : Dans l'UI d'Aurion, cocher un dossier "Parent" déclenche un AJAX qui fait disparaître temporairement les sous-cases. Un robot doit faire un "Double-Check" pour ne pas croire que le travail est fini trop tôt.
+- Server Timeout : Demander le planning de 20+ classes d'un coup fait transpirer le serveur Aurion. La réponse JSON peut mettre jusqu'à 10-15 secondes à arriver. Il faut une attente active (Sniper wait).
+- Saleté dans le JSON : Le serveur PrimeFaces ajoute parfois des scripts JS à la fin de son CDATA. Il faut un extracteur JSON personnalisé (qui compte les accolades {}) au lieu d'un simple json.loads().
 
 
-⚠️ POINTS IMPORTANTS
+🛠️ IMPLÉMENTATION (BACKEND BETTERMOROOMIA)
 ================================================================================
-- Les timestamps sont en MILLISECONDES (pas secondes)
-- ViewState expire rapidement → Récupérer un nouveau avant chaque POST AJAX
-- JSESSIONID doit rester valide durant tout le process
-- Offset fuseau: -3600000 ms = UTC+1 (heure d'hiver)
-- L'URL reste la même pour tous les plannings (Planning.xhtml)
-- Seul le body AJAX change les paramètres
-
-
-🛠️ IMPLÉMENTATION PHP
-================================================================================
-- Utiliser cURL avec COOKIEJAR pour gérer les sessions
-- Parser HTML avec preg_match() ou DOMDocument
-- Extraire JSON depuis XML/CDATA avec regex
-- Stocker credentials en SESSION (sécurisé en HTTPOnly)
+- PHP / cURL : Bon pour récupérer 1 seul planning simple.
+- Python + Playwright : OBLIGATOIRE pour automatiser la récupération de toute l'école en pleine nuit. Le script clique, écoute le réseau, nettoie le JSON, et alimente la base de données.
 
 
 📱 PLANNINGS DISPONIBLES
@@ -143,14 +127,10 @@ EXAM/CC/DS  | Rouge clair  | type-exam
 - Planning ISEN CSI (CSI1, CSI2, CSI3)
 - Planning ISEN CPG (CPG1, CPG2)
 - Planning ISEN AP
-- Planning ISEN Master
+- Planning ISEN Master (M1, M2)
 - Planning ISA Ingénieur
 - Planning ISA Enviro
 - Planning ADIMAKER (Bordeaux A1/A2, Lille A1/A2)
-
-Note: Chaque planning se navigue via le menu lateral
-      Sélectionner l'option dans les checkboxes
-      Cliquer "View Schedule"
 
 ================================================================================
                               FIN RÉCAP
