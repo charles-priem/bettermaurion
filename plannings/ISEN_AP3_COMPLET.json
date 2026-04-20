@@ -1,0 +1,418 @@
+{
+    "events": [
+        {
+            "id": "69084288",
+            "title": "\n\nPériode en entreprise - AP3\nENTREPRISE\n08:00 - 09:00\n ",
+            "start": "2026-04-06T08:00:00+0200",
+            "end": "2026-05-03T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69084288",
+            "title": "\n\nPériode en entreprise - AP3\nENTREPRISE\n08:00 - 09:00\n ",
+            "start": "2026-04-06T08:00:00+0200",
+            "end": "2026-05-03T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69108054",
+            "title": "ALG Salle 223\n\nComptabilité\nCOURS_TD\n08:00 - 12:20\nMonsieur CAREL",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69895120",
+            "title": "IC1_419\n\nSystème Unix Linux\nCOURS_TD\n13:30 - 14:30\nMonsieur CAPIOD",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69895170",
+            "title": "IC1_419\n\nSystème Unix Linux\nTP\n14:35 - 17:55\nMonsieur CAPIOD",
+            "start": "2026-05-04T14:35:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69106714",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106714",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106583",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106583",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69990626",
+            "title": "IC1_419\nIntroduction\nTraitement du Signal\nCOURS_TD\n13:30 - 14:30\nMonsieur ALLEIN",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69990650",
+            "title": "IC1_419\nConvolution\nTraitement du Signal\nTD_AUTO_GERE_PLANIFIE\n14:35 - 15:35\nMonsieur ALLEIN",
+            "start": "2026-05-05T14:35:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "70316821",
+            "title": "ALG Salle 222 H\n\nEnjeux du DD (RSE)\nTD\n15:50 - 17:50\nMadame DEWEER",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "69108017",
+            "title": "IC1_419\n\nComptabilité\nCOURS_TD\n08:00 - 12:20\nMonsieur CAREL",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70061715",
+            "title": "IC1_412\n\nAutomatique\nCOURS_TD\n13:30 - 16:50\nMonsieur ZIMMERMANN",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69994380",
+            "title": "IC2 C955 - VP\nTD1 Convolution\nTraitement du Signal\nTD\n09:05 - 11:20\nMonsieur ALLEIN",
+            "start": "2026-05-07T09:05:00+0200",
+            "end": "2026-05-07T11:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "69994515",
+            "title": "IC2 C955 - VP\nReprésentations fréquentielles\nTraitement du Signal\nTD_AUTO_GERE_PLANIFIE\n11:25 - 12:25\nMonsieur ALLEIN",
+            "start": "2026-05-07T11:25:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "70319156",
+            "title": "IC1_419\n\nArchitecture et Protocoles des Réseaux\nCOURS_TD\n13:30 - 17:50\nMadame AINOUCHE-YATAGHENE",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70868453",
+            "title": "IC2 C601  - VP\n\n\nAUTO_APPR\n08:00 - 10:00\nMadame DEHONDT",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "69995465",
+            "title": "IC2 C601  - VP\nTD2 Représentations fréquentielles\nTraitement du Signal\nTD\n10:20 - 12:20\nMonsieur ALLEIN",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "69895204",
+            "title": "IC1_419\n\nSystème Unix Linux\nCOURS_TD\n13:30 - 14:30\nMonsieur CAPIOD",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69895241",
+            "title": "IC1_419\n\nSystème Unix Linux\nTP\n14:35 - 17:55\nMonsieur CAPIOD",
+            "start": "2026-05-11T14:35:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69106727",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106727",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106596",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-12T10:20:00+0200",
+            "end": "2026-05-12T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106596",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-12T10:20:00+0200",
+            "end": "2026-05-12T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70061305",
+            "title": "ALG Salle 205 H\n\nProjet Electronique\nPROJET\n13:30 - 17:55\nMadame PHILIPPE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69108031",
+            "title": "IC1_427\n\nComptabilité\nCOURS_TD\n08:00 - 12:20\nMonsieur CAREL",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70319170",
+            "title": "IC1_419\n\nArchitecture et Protocoles des Réseaux\nCOURS_TD\n13:30 - 17:50\nMadame AINOUCHE-YATAGHENE",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70319184",
+            "title": "IC1_419\n\nArchitecture et Protocoles des Réseaux\nCOURS_TD\n13:30 - 16:50\nMadame AINOUCHE-YATAGHENE",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69593517",
+            "title": "ALG Salle 204 avec TV pour projection\n\nDéveloppement et Architecture Web\nCOURS_TD\n09:00 - 12:50\nMonsieur MEUNIER",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69593534",
+            "title": "ALG Salle 204 avec TV pour projection\n\nDéveloppement et Architecture Web\nCOURS_TD\n13:50 - 17:40\nMonsieur MEUNIER",
+            "start": "2026-05-18T13:50:00+0200",
+            "end": "2026-05-18T17:40:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106740",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106740",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106609",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-19T10:20:00+0200",
+            "end": "2026-05-19T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69106609",
+            "title": "IC1_222\n\nAnglais\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-05-19T10:20:00+0200",
+            "end": "2026-05-19T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69895318",
+            "title": "IC1_419\n\nSystème Unix Linux\nCOURS_TD\n13:30 - 14:30\nMonsieur CAPIOD",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69895332",
+            "title": "IC1_419\n\nSystème Unix Linux\nTP\n14:35 - 17:55\nMonsieur CAPIOD",
+            "start": "2026-05-19T14:35:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70625301",
+            "title": "\n\nArchitecture et Protocoles des Réseaux\nEXAM_SURV\n08:00 - 09:00\n ",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "69996868",
+            "title": "IC2 C601  - VP\nQuestions / réponses\nTraitement du Signal\nCOURS_TD\n10:20 - 11:20\nMonsieur ALLEIN",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T11:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69996927",
+            "title": "IC2 C601  - VP\nReprésentations fréquentielles et numérisation\nTraitement du Signal\nTD_AUTO_GERE_PLANIFIE\n11:25 - 12:25\nMonsieur ALLEIN",
+            "start": "2026-05-20T11:25:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "70319984",
+            "title": "IC1_419\n\nGestion de Projet\nCOURS_TD\n13:30 - 17:50\nMadame MESSAGER",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70320018",
+            "title": "IC1_229\n\nGestion de Projet\nPROJET\n08:00 - 12:20\nMadame MESSAGER",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70061331",
+            "title": "ALG Salle 205 H\n\nProjet Electronique\nPROJET\n13:30 - 17:55\nMadame PHILIPPE",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69593580",
+            "title": "ALG Salle 204 avec TV pour projection\n\nDéveloppement et Architecture Web\nCOURS_TD\n09:00 - 12:50\nMonsieur MEUNIER",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69593552",
+            "title": "ALG Salle 204 avec TV pour projection\n\nDéveloppement et Architecture Web\nCOURS_TD\n13:50 - 15:20\nMonsieur MEUNIER",
+            "start": "2026-05-22T13:50:00+0200",
+            "end": "2026-05-22T15:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69723021",
+            "title": "ALG Salle 204 avec TV pour projection\n\nDéveloppement et Architecture Web\nTP\n15:40 - 17:40\nMonsieur MEUNIER",
+            "start": "2026-05-22T15:40:00+0200",
+            "end": "2026-05-22T17:40:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        }
+    ]
+}

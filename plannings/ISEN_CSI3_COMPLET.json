@@ -1,0 +1,616 @@
+{
+    "events": [
+        {
+            "id": "71607478",
+            "title": "IC1_017 amphi Mathilda\n\nAnalyse des Signaux et des Images\nCM\n11:20 - 12:20\nMonsieur ALLEIN",
+            "start": "2026-04-27T11:20:00+0200",
+            "end": "2026-04-27T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71635952",
+            "title": "IC2 C956     (H)\n\nElectronique Analogique\nCOURS_TD\n13:30 - 15:30\nMadame PHILIPPE",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71602067",
+            "title": "ALG Salle 225\n\nIntroduction à l'éthique\nCOURS_TD\n13:30 - 15:30\nMadame GRIGNON",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71602728",
+            "title": "ALG Salle 223\n\nIntroduction à l'éthique\nCOURS_TD\n13:30 - 15:30\nMonsieur LEUCCI",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71602823",
+            "title": "ALG Salle 223\n\nIntroduction à l'éthique\nCOURS_TD\n15:50 - 17:50\nMonsieur LEUCCI",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71601958",
+            "title": "ALG Salle 225\n\nIntroduction à l'éthique\nCOURS_TD\n15:50 - 17:50\nMadame GRIGNON",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71636308",
+            "title": "IC2 C956     (H)\n\nElectronique Analogique\nCOURS_TD\n15:50 - 17:50\nMonsieur LARRAS",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72617916",
+            "title": "ALG Amphi 002 H\nTOEIC Blanc\nAnglais S2\nEXAM\n08:30 - 12:30\nMonsieur MCGAVIGAN",
+            "start": "2026-04-28T08:30:00+0200",
+            "end": "2026-04-28T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "71602239",
+            "title": "IC1_112\n\nIntroduction à l'éthique\nCOURS_TD\n13:30 - 15:30\nMadame GRIGNON",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71602925",
+            "title": "IC2 C955 - VP\n\nIntroduction à l'éthique\nCOURS_TD\n13:30 - 15:30\nMonsieur LEUCCI",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71637284",
+            "title": "IC2 B304     (H)\n\nElectronique Analogique\nCOURS_TD\n13:30 - 15:30\nMonsieur CAPRON",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71603018",
+            "title": "IC2 C955 - VP\n\nIntroduction à l'éthique\nCOURS_TD\n15:50 - 17:50\nMonsieur LEUCCI",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71637669",
+            "title": "IC2 B304     (H)\n\nElectronique Analogique\nCOURS_TD\n15:50 - 17:50\nMonsieur BLANDRE",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71602347",
+            "title": "IC1_112\n\nIntroduction à l'éthique\nCOURS_TD\n15:50 - 17:50\nMadame GRIGNON",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71604688",
+            "title": "IC1_114\n\nProgrammation Orientée Objet\nTP\n08:00 - 10:00\nMonsieur MOSBAH",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71605096",
+            "title": "IC1_122\n\nProgrammation Orientée Objet\nTP\n08:00 - 10:00\nMonsieur RICQ",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71604865",
+            "title": "IC1_114\n\nProgrammation Orientée Objet\nTP\n10:20 - 12:20\nMonsieur MOSBAH",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71605290",
+            "title": "IC1_122\n\nProgrammation Orientée Objet\nTP\n10:20 - 12:20\nMonsieur RICQ",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71881209",
+            "title": "ALG Salle 224\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame DUBOIS",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881735",
+            "title": "IC2 B803     (H)\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame VAUBAN",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881636",
+            "title": "IC2 C955 - VP\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMonsieur CHEVAUX",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881577",
+            "title": "IC2 B505     (H)_2TAB\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71880836",
+            "title": "ALG Salle 207\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881407",
+            "title": "ALG Salle 225\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881223",
+            "title": "ALG Salle 224\n\nCommunication\nSEMINAIRE\n13:30 - 16:45\nMadame DUBOIS",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881749",
+            "title": "IC2 B803     (H)\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame VAUBAN",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881650",
+            "title": "IC2 C955 - VP\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMonsieur CHEVAUX",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881591",
+            "title": "IC2 B505     (H)_2TAB\n\nCommunication\nSEMINAIRE\n13:30 - 16:45\nMadame HENNION",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71880865",
+            "title": "ALG Salle 207\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame BRIGADEAU",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881452",
+            "title": "ALG Salle 225\n\nCommunication\nSEMINAIRE\n13:30 - 16:45\nMadame DELEPLANQUE",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "76007381",
+            "title": "IC1_017 amphi Mathilda\nRéunion obligatoire: présentation de Projets de fin d’année \n\nREUNION\n17:00 - 18:00\nMadame HECHELSKI",
+            "start": "2026-05-04T17:00:00+0200",
+            "end": "2026-05-04T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71881281",
+            "title": "ALG Salle 224\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame DUBOIS",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71880929",
+            "title": "ALG Salle 207\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881605",
+            "title": "IC2 B505     (H)_2TAB\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881534",
+            "title": "ALG Salle 225\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881790",
+            "title": "IC2 B803     (H)\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame VAUBAN",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881705",
+            "title": "IC2 C955 - VP\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMonsieur CHEVAUX",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71604703",
+            "title": "IC1_122\n\nProgrammation Orientée Objet\nTP\n13:30 - 15:30\nMonsieur MOSBAH",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71605305",
+            "title": "IC1_412\n\nProgrammation Orientée Objet\nTP\n13:30 - 15:30\nMonsieur RICQ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71605125",
+            "title": "IC1_412\n\nProgrammation Orientée Objet\nTP\n15:50 - 17:50\nMonsieur RICQ",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71604880",
+            "title": "IC1_122\n\nProgrammation Orientée Objet\nTP\n15:50 - 17:50\nMonsieur MOSBAH",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71883723",
+            "title": "IC1_412\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame DELANNOY",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882059",
+            "title": "IC2 A913 (H)\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame DUBOIS",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71883607",
+            "title": "IC2 C601  - VP\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71881965",
+            "title": "IC2 A811 - VP\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882115",
+            "title": "IC2 A919 - VP\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882073",
+            "title": "IC2 A913 (H)\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame DUBOIS",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71883754",
+            "title": "IC2 B804     (H)\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame DELANNOY",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71883670",
+            "title": "IC2 C601  - VP\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame HENNION",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882015",
+            "title": "IC2 A811 - VP\n\nCommunication\nSEMINAIRE\n13:30 - 16:45\nMadame BRIGADEAU",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882133",
+            "title": "IC2 A919 - VP\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame DELEPLANQUE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882147",
+            "title": "IC2 A919 - VP\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71883696",
+            "title": "IC2 C601  - VP\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882029",
+            "title": "IC2 A811 - VP\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71882087",
+            "title": "IC2 A913 (H)\n\nCompétences Relationnelles\nSEMINAIRE\n09:00 - 12:15\nMadame DUBOIS",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "71883781",
+            "title": "IC2 B804     (H)\n\nCommunication\nSEMINAIRE\n09:00 - 12:15\nMadame DELANNOY",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "68734093",
+            "title": "IC2 A111 - Salle Musique et Technologies\nProjets\nModule Musique et Technologies\nCOURS_TD\n14:00 - 16:30\nMonsieur PATE",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71643731",
+            "title": "\n\nElectronique Analogique\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur CAPRON",
+            "start": "2026-05-11T10:30:00+0200",
+            "end": "2026-05-11T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "73682292",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "71635055",
+            "title": "\n\nAnalyse des Signaux et des Images\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur ALLEIN",
+            "start": "2026-05-12T10:30:00+0200",
+            "end": "2026-05-12T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71635137",
+            "title": "\n\nAnalyse des Signaux et des Images\nEXAM_SURV\n13:30 - 14:30\nMonsieur PATE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75867978",
+            "title": "IC2 C953 - Salle de TP/projet_2TAB\nEvaluation de TP BDD\nBase de Données\nEXAM\n14:45 - 18:00\nMonsieur DELANNOY",
+            "start": "2026-05-12T14:45:00+0200",
+            "end": "2026-05-12T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75867968",
+            "title": "\n\nBase de données\nEXAM_SURV\n08:00 - 10:00\nMonsieur DELANNOY",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71607296",
+            "title": "\n\nProbabilités, Statistiques\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur CHÊNEVERT",
+            "start": "2026-05-13T10:30:00+0200",
+            "end": "2026-05-13T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71727793",
+            "title": "\n\nPhysique du Solide\nPARTIEL_SURV\n13:30 - 15:30\nMonsieur CAPIOD",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71603223",
+            "title": "\n\nIntroduction à l'éthique\nEXAM_SURV\n08:00 - 10:00\nMadame GRIGNON",
+            "start": "2026-05-15T08:00:00+0200",
+            "end": "2026-05-15T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71727560",
+            "title": "\n\nC++ : Introduction à la programmation objet\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur RICQ",
+            "start": "2026-05-15T10:30:00+0200",
+            "end": "2026-05-15T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "73683936",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        }
+    ]
+}

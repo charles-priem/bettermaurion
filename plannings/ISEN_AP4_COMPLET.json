@@ -1,0 +1,454 @@
+{
+    "events": [
+        {
+            "id": "69594664",
+            "title": "ALG Salle 204 avec TV pour projection\n\nConception Web avancée\nPROJET\n08:00 - 12:20\nMonsieur MEUNIER",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69109363",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109363",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109227",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109227",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129737",
+            "title": "IC2 B804     (H)\n\nEthique de l'Ingénieur\nCOURS_TD\n08:00 - 11:00\nMadame GRIGNON",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129558",
+            "title": "IC2 B803     (H)\n\nProgrammation des Objets Connectés\nCOURS_TD\n13:30 - 17:50\nMonsieur LEFEVERE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69514282",
+            "title": "IC2 A913 (H)\n\nSécurité des Réseaux\nTP\n08:00 - 12:20\nMonsieur MERIOT",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69109861",
+            "title": "IC2 C601  - VP\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:50\nMadame PHILIPPE",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69109240",
+            "title": "IC2 A816 - VP\n\nAnglais - AP4\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109240",
+            "title": "IC2 A816 - VP\n\nAnglais - AP4\nCOURS_TD\n08:00 - 10:00\nMadame PEARSON",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109376",
+            "title": "IC2 A816 - VP\n\nAnglais - AP4\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-04-23T10:20:00+0200",
+            "end": "2026-04-23T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109376",
+            "title": "IC2 A816 - VP\n\nAnglais - AP4\nCOURS_TD\n10:20 - 12:20\nMadame PEARSON",
+            "start": "2026-04-23T10:20:00+0200",
+            "end": "2026-04-23T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129572",
+            "title": "IC2 B803     (H)\n\nProgrammation des Objets Connectés\nCOURS_TD\n13:30 - 17:50\nMonsieur LEFEVERE",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129865",
+            "title": "IC2 B804     (H)\n\nEthique de l'Ingénieur\nCOURS_TD\n08:00 - 10:00\nMadame GRIGNON",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69514295",
+            "title": "IC2 B804     (H)\n\nSécurité des Réseaux\nTP\n10:20 - 12:20\nMonsieur MERIOT",
+            "start": "2026-04-24T10:20:00+0200",
+            "end": "2026-04-24T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69514526",
+            "title": "IC2 A913 (H)\n\nSécurité des Réseaux\nTP\n13:30 - 17:50\nMonsieur MERIOT",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69129629",
+            "title": "IC2 B803     (H)\n\nProgrammation des Objets Connectés\nCOURS_TD\n08:00 - 12:20\nMonsieur LEFEVERE",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70255102",
+            "title": "IC1_320_PROJET\n\nProjet R&D - Réalisation\nPROJET_AUTO_GERE\n13:30 - 16:45\nMonsieur N'KONOU",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "69129749",
+            "title": "IC2 C350 - TV\n\nEthique de l'Ingénieur\nCOURS_TD\n08:00 - 11:00\nMadame GRIGNON",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129599",
+            "title": "IC2 B804     (H)\n\nProgrammation des Objets Connectés\nCOURS_TD\n13:30 - 17:50\nMonsieur LEFEVERE",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69514637",
+            "title": "ALG Salle 209 H\n\nSécurité des Réseaux\nTP\n08:00 - 12:20\nMonsieur MERIOT",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69109875",
+            "title": "IC2 C601  - VP\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:50\nMadame PHILIPPE",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70255111",
+            "title": "IC2 C955 - VP\n\nProjet R&D - Réalisation\nPROJET_AUTO_GERE\n08:00 - 12:20\nMonsieur N'KONOU",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "69128794",
+            "title": "IC1_412\n\nProjet R&D - Réalisation\nSOUTENANCE\n13:30 - 17:00\nMonsieur N'KONOU",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "69129782",
+            "title": "ALG Salle 205 H\n\nEconomie\nCOURS_TD\n08:00 - 12:20\nMadame FRENEA",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109390",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109390",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109254",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109254",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129761",
+            "title": "\n\n\nTIE\n08:00 - 12:00\nMadame DEHONDT",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TIE"
+        },
+        {
+            "id": "69129644",
+            "title": "IC2 B804     (H)\n\nProgrammation des Objets Connectés\nCOURS_TD\n13:30 - 17:50\nMonsieur LEFEVERE",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129795",
+            "title": "ALG Salle 205 H\n\nEconomie\nCOURS_TD\n08:00 - 12:20\nMadame FRENEA",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109898",
+            "title": "IC2 B505     (H)_2TAB\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:50\nMadame PHILIPPE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69129837",
+            "title": "ALG Salle 222 H\n\nEconomie\nCOURS_TD\n08:00 - 12:20\nMadame FRENEA",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109915",
+            "title": "IC2 C955 - VP\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:50\nMadame PHILIPPE",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69594677",
+            "title": "ALG Salle 204 avec TV pour projection\n\nConception Web avancée\nPROJET\n08:00 - 12:20\nMonsieur MEUNIER",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69109403",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109403",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n13:30 - 15:30\nMadame PEARSON",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109267",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-05-11T15:50:00+0200",
+            "end": "2026-05-11T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69109267",
+            "title": "ALG Salle 211\n\nAnglais - AP4\nCOURS_TD\n15:50 - 17:50\nMadame PEARSON",
+            "start": "2026-05-11T15:50:00+0200",
+            "end": "2026-05-11T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69129494",
+            "title": "\n\nFPGA et Microcontrôleurs\nEXAM_SURV\n08:00 - 10:00\n ",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76142446",
+            "title": "IC1_117\nPoint de fin de période - en distanciel\nPrésentation des options AP5\nPoint sur le rapport d'année\n\nREUNION\n13:30 - 15:30\nMonsieur CHÊNEVERT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "69129940",
+            "title": "\n\nEconomie\nEXAM_SURV\n10:30 - 12:30\n ",
+            "start": "2026-05-13T10:30:00+0200",
+            "end": "2026-05-13T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70596306",
+            "title": "\n\nSécurité des Réseaux\nEXAM_SURV\n13:30 - 15:30\n ",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "69129934",
+            "title": "\n\nProgrammation des Objets Connectés\nEXAM_SURV\n10:30 - 12:30\n ",
+            "start": "2026-05-15T10:30:00+0200",
+            "end": "2026-05-15T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75964034",
+            "title": "\nTOEIC\n\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "75964034",
+            "title": "\nTOEIC\n\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "76305555",
+            "title": "\n\nAnglais - AP4\nEXAM_SURV\n13:30 - 15:30\n ",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM_SURV"
+        },
+        {
+            "id": "76305555",
+            "title": "\n\nAnglais - AP4\nEXAM_SURV\n13:30 - 15:30\n ",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM_SURV"
+        }
+    ]
+}

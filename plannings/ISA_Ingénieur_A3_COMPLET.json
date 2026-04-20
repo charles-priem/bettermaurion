@@ -1,0 +1,3244 @@
+{
+    "events": [
+        {
+            "id": "71749627",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n08:00 - 10:05\nMonsieur PANAGET",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "76129689",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n10:20 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-04-20T10:20:00+0200",
+            "end": "2026-04-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71748158",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "66128577",
+            "title": "ALG Salle 210\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMonsieur CONLIN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128577",
+            "title": "ALG Salle 210\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMonsieur CONLIN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128605",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128605",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128553",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame MATUSOVSKY",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128553",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame MATUSOVSKY",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748158",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748158",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "66128628",
+            "title": "ALG Salle 204 avec TV pour projection\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame VERVUURT",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128679",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128679",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748192",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n15:50 - 17:55\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "66128616",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame MATUSOVSKY",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128616",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame MATUSOVSKY",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748192",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n15:50 - 17:55\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "66128668",
+            "title": "ALG Salle 210\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMonsieur CONLIN",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128668",
+            "title": "ALG Salle 210\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMonsieur CONLIN",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128628",
+            "title": "ALG Salle 204 avec TV pour projection\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame VERVUURT",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748192",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n15:50 - 17:55\nMonsieur COURTECUISSE",
+            "start": "2026-04-20T15:50:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72223003",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Céréales\nREUNION\n08:00 - 10:05\nMonsieur LACHEVER",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223003",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Céréales\nREUNION\n08:00 - 10:05\nMonsieur LACHEVER",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223031",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Viande\nREUNION\n10:20 - 12:25\nMadame GUESDON",
+            "start": "2026-04-21T10:20:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223031",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Viande\nREUNION\n10:20 - 12:25\nMadame GUESDON",
+            "start": "2026-04-21T10:20:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71748209",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748209",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748209",
+            "title": "ALG Salle 222 H\n\nGestion des eaux\nTD\n13:30 - 15:35\nMonsieur COURTECUISSE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76486951",
+            "title": "\n\nÉcologie\nE_LEARNING\n15:50 - 17:55\nMadame DRANSART",
+            "start": "2026-04-21T15:50:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748128",
+            "title": "ALG Amphi 001 H\n\nGestion des eaux\nCM\n08:00 - 10:05\nMonsieur COURTECUISSE",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "72027962",
+            "title": "ALG Amphi 001 H\nRéunion de promotion: choix de cours A4 (avant lancement sondage)\n\n\nREUNION\n10:20 - 12:25\nMadame DUPONT",
+            "start": "2026-04-23T10:20:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71726466",
+            "title": "\nANCZYKOWSKI Jacques à LE ROUX DE BRETAGNE Louis -> Salle C854, IC2, 41 Bvd Vauban\nLESCIEUX Jules à YAO Johan Emmanuel -> Salle 20RT, 20 rue de Toul\nHoraire TT : 7h30-10h10\nProtection des végétaux\nEXAM_SURV\n08:00 - 10:00\nMonsieur SIAH",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76131708",
+            "title": "\n\nÉcoconception\nE_LEARNING\n10:20 - 12:25\nMadame COMBELLES",
+            "start": "2026-04-24T10:20:00+0200",
+            "end": "2026-04-24T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71748580",
+            "title": "\n\nÉcologie\nE_LEARNING\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "75682740",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-24T15:50:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "75682740",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-24T15:50:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "75682740",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-24T15:50:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "75682740",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-24T15:50:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72277548",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Pomme de terre\nREUNION\n08:00 - 10:00\nMonsieur PLATEL",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72277548",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Pomme de terre\nREUNION\n08:00 - 10:00\nMonsieur PLATEL",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223097",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Lait\nREUNION\n10:20 - 12:25\nMadame JACQUERIE",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223097",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Lait\nREUNION\n10:20 - 12:25\nMadame JACQUERIE",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66128742",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128742",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748485",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "74206125",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "74206125",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "66128707",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame MATUSOVSKY",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74206125",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "66128731",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMonsieur CONLIN",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128731",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMonsieur CONLIN",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748485",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "66128719",
+            "title": "IC1_122\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame ROZAN",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128719",
+            "title": "IC1_122\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame ROZAN",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128707",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n13:30 - 15:35\nMadame MATUSOVSKY",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128753",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame MATUSOVSKY",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128565",
+            "title": "IC1_122\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128565",
+            "title": "IC1_122\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128782",
+            "title": "IC1_419\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame VERVUURT",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128782",
+            "title": "IC1_419\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame VERVUURT",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128753",
+            "title": "IC1_112\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame MATUSOVSKY",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128805",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMonsieur CONLIN",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128805",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMonsieur CONLIN",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128816",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66128816",
+            "title": "ALG Salle 220\n\nAnglais\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748527",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n15:50 - 17:55\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71748527",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n15:50 - 17:55\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71748527",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n15:50 - 17:55\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71749674",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n08:00 - 10:05\nMonsieur DUFOSSE",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749674",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n08:00 - 10:05\nMonsieur DUFOSSE",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749674",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n08:00 - 10:05\nMonsieur DUFOSSE",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748452",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n08:00 - 10:05\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748452",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n08:00 - 10:05\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748452",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n08:00 - 10:05\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71749696",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n10:20 - 12:25\nMonsieur DUFOSSE",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749696",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n10:20 - 12:25\nMonsieur DUFOSSE",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75824584",
+            "title": "ALG Salle 225\n\nAnglais\nCOURS_TD\n10:20 - 12:25\nMadame MATUSOVSKY",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748427",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n10:20 - 12:25\nMadame DRANSART",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748427",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n10:20 - 12:25\nMadame DRANSART",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748427",
+            "title": "IC2 B304     (H)\n\nÉcologie\nCOURS_TD\n10:20 - 12:25\nMadame DRANSART",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75824584",
+            "title": "ALG Salle 225\n\nAnglais\nCOURS_TD\n10:20 - 12:25\nMadame MATUSOVSKY",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71749696",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n10:20 - 12:25\nMonsieur DUFOSSE",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749717",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748499",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71748499",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71748499",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71748499",
+            "title": "\n\nÉcologie\nTP_AUTO_GERE_PLANIFIE\n13:30 - 15:35\nMadame DRANSART",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP_AUTO_GERE_PLANIFIE"
+        },
+        {
+            "id": "71749717",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749717",
+            "title": "IC1_409\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75112522",
+            "title": "ALG Amphi 001 H\n\nÉcoconception\nCM\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71748327",
+            "title": "\n\nGestion des eaux\nEXAM_SURV\n08:00 - 10:00\nMonsieur COURTECUISSE",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71748399",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCM\n10:20 - 12:25\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749860",
+            "title": "IC1_017 amphi Mathilda\n\nTransition écologique des entreprises\nCM\n13:30 - 15:35\nMonsieur CHAUVIN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71749774",
+            "title": "ALG salle 309\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964787",
+            "title": "ALG Salle 222 H\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964787",
+            "title": "ALG Salle 222 H\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749774",
+            "title": "ALG salle 309\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749774",
+            "title": "ALG salle 309\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72022639",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022639",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022639",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022639",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "74964787",
+            "title": "ALG Salle 222 H\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72223213",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nREUNION\n08:00 - 10:05\nMonsieur MUCHEMBLED",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223213",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nREUNION\n08:00 - 10:05\nMonsieur MUCHEMBLED",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223125",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nREUNION\n10:20 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "72223125",
+            "title": "ALG Amphi 001 H\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nREUNION\n10:20 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71956103",
+            "title": "\n\nÉtude d'une filière de production : Filière Bois\nEXAM_SURV\n09:00 - 10:00\nMonsieur DELBENDE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956103",
+            "title": "\n\nÉtude d'une filière de production : Filière Bois\nEXAM_SURV\n09:00 - 10:00\nMonsieur DELBENDE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956165",
+            "title": "\n\nÉtude d'une filière de production : Filière Lait\nEXAM_SURV\n09:00 - 10:00\nMadame JACQUERIE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956165",
+            "title": "\n\nÉtude d'une filière de production : Filière Lait\nEXAM_SURV\n09:00 - 10:00\nMadame JACQUERIE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956159",
+            "title": "\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nEXAM_SURV\n09:00 - 10:00\nMonsieur MUCHEMBLED",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956159",
+            "title": "\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nEXAM_SURV\n09:00 - 10:00\nMonsieur MUCHEMBLED",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956183",
+            "title": "\n\nÉtude d'une filière de production : Filière Viande\nEXAM_SURV\n09:00 - 10:00\nMadame GUESDON",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956183",
+            "title": "\n\nÉtude d'une filière de production : Filière Viande\nEXAM_SURV\n09:00 - 10:00\nMadame GUESDON",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956145",
+            "title": "\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nEXAM_SURV\n09:00 - 10:00\nMonsieur CHAUVIN",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956145",
+            "title": "\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nEXAM_SURV\n09:00 - 10:00\nMonsieur CHAUVIN",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956121",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nEXAM_SURV\n09:00 - 10:00\nMonsieur LACHEVER",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956121",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nEXAM_SURV\n09:00 - 10:00\nMonsieur LACHEVER",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956176",
+            "title": "\n\nÉtude d'une filière de production : Filière Pomme de terre\nEXAM_SURV\n09:00 - 10:00\nMonsieur PLATEL",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956176",
+            "title": "\n\nÉtude d'une filière de production : Filière Pomme de terre\nEXAM_SURV\n09:00 - 10:00\nMonsieur PLATEL",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71748413",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCM\n10:20 - 12:25\nMadame DRANSART",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "74964821",
+            "title": "IC1_106\n\nÉcoconception\nTD\n13:30 - 15:35\nMadame COMBELLES",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964821",
+            "title": "IC1_106\n\nÉcoconception\nTD\n13:30 - 15:35\nMadame COMBELLES",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749748",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur PANAGET",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71748468",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCOURS_TD\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748468",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCOURS_TD\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748468",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCOURS_TD\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71749748",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur PANAGET",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964821",
+            "title": "IC1_106\n\nÉcoconception\nTD\n13:30 - 15:35\nMadame COMBELLES",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749748",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n13:30 - 15:35\nMonsieur PANAGET",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "76308022",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71749793",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749793",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71749793",
+            "title": "IC1_117\n\nTransition écologique des entreprises\nTD\n15:50 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964768",
+            "title": "IC1_106\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964768",
+            "title": "IC1_106\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74964768",
+            "title": "IC1_106\n\nÉcoconception\nTD\n15:50 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "76308022",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76308022",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76308022",
+            "title": "\n\nAnglais\nE_LEARNING\n15:50 - 17:55\n ",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71730871",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731003",
+            "title": "IC2 C601  - VP\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730552",
+            "title": "IC1_412\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730552",
+            "title": "IC1_412\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728451",
+            "title": "ALG Salle 209 H\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730710",
+            "title": "IC1_419\ncours Intro / Technologie de la transformation\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728205",
+            "title": "IC2 A811 - VP\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728205",
+            "title": "IC2 A811 - VP\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731003",
+            "title": "IC2 C601  - VP\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730871",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730710",
+            "title": "IC1_419\ncours Intro / Technologie de la transformation\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728451",
+            "title": "ALG Salle 209 H\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728355",
+            "title": "ALG Salle 222 H\n\nÉtude d'une filière de production : Filière Céréales\nCM\n08:45 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-05T08:45:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71728355",
+            "title": "ALG Salle 222 H\n\nÉtude d'une filière de production : Filière Céréales\nCM\n08:45 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-05T08:45:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "72252595",
+            "title": "\nTOEIC\nAnglais\nEXAM_SURV\n13:30 - 17:55\nMonsieur RUBALCAVA",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM_SURV"
+        },
+        {
+            "id": "72252595",
+            "title": "\nTOEIC\nAnglais\nEXAM_SURV\n13:30 - 17:55\nMonsieur RUBALCAVA",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM_SURV"
+        },
+        {
+            "id": "71958443",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 10:05\nMonsieur DJOUAK",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71748385",
+            "title": "ALG Amphi 001 H\n\nÉcologie\nCM\n10:20 - 12:25\nMadame DRANSART",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72022665",
+            "title": "\n\nAnglais\nE_LEARNING\n13:30 - 15:35\n ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71728235",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728235",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728366",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728366",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728466",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728466",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730581",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730581",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731048",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731048",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730886",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730886",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71748609",
+            "title": "\n\nÉcologie\nEXAM_SURV\n09:05 - 10:05\nMadame PINTE-D'SYLVA",
+            "start": "2026-05-11T09:05:00+0200",
+            "end": "2026-05-11T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71749997",
+            "title": "\n\nTransition écologique des entreprises\nEXAM_SURV\n10:20 - 12:20\nMonsieur CHAUVIN",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71728334",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731191",
+            "title": "ALG Salle 222 H\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731191",
+            "title": "ALG Salle 222 H\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728649",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728649",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728334",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730844",
+            "title": "IC2 B803     (H)\nIntervention Faire France - lait équitable / prépa oral final\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730695",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730695",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728433",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728433",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730988",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730844",
+            "title": "IC2 B803     (H)\nIntervention Faire France - lait équitable / prépa oral final\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730988",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728377",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728250",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728250",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728377",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728490",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728490",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730754",
+            "title": "\nvisite \"lait prairies du boulonnais\" - rdv 9h30 sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730754",
+            "title": "\nvisite \"lait prairies du boulonnais\" - rdv 9h30 sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730596",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730596",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730901",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730901",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731076",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731076",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730671",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730671",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728422",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728422",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728319",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728319",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728634",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728634",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731161",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731161",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730828",
+            "title": "\nvisite Danone (Bailleul) - rdv 14h sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730828",
+            "title": "\nvisite Danone (Bailleul) - rdv 14h sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71958458",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958458",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958458",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958458",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74024785",
+            "title": "ALG Salle 205 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025141",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025141",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025038",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025038",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024496",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024496",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024785",
+            "title": "ALG Salle 205 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116255",
+            "title": "IC1_112\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116255",
+            "title": "IC1_112\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024991",
+            "title": "ALG Salle 205 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025117",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DELEPLANQUE",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025117",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DELEPLANQUE",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025265",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame LABIS",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025265",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame LABIS",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116267",
+            "title": "IC1_112\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DUBOIS",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024716",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame OLLA",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024716",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame OLLA",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116267",
+            "title": "IC1_112\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DUBOIS",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71958494",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958494",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958494",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958494",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74024991",
+            "title": "ALG Salle 205 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71958539",
+            "title": "IC1_130\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958539",
+            "title": "IC1_130\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958539",
+            "title": "IC1_130\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958539",
+            "title": "IC1_130\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74025162",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116290",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116290",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024841",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024841",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024657",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024657",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025051",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025051",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025162",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024728",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame OLLA",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025097",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DELEPLANQUE",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024728",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame OLLA",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116314",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DUBOIS",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116314",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DUBOIS",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71958556",
+            "title": "ALG Salle 222 H\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958556",
+            "title": "ALG Salle 222 H\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74025253",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame LABIS",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025253",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame LABIS",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71958556",
+            "title": "ALG Salle 222 H\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958556",
+            "title": "ALG Salle 222 H\n\nProjet étude quantitative\nPROJET\n13:30 - 17:55\nMonsieur DJOUAK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74025097",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame DELEPLANQUE",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024979",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024979",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71958575",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958575",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958575",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71958575",
+            "title": "IC1_217\n\nProjet étude quantitative\nPROJET\n08:00 - 12:25\nMonsieur DJOUAK",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74024867",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025199",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024669",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024669",
+            "title": "ALG Salle 208 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame OLLA",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025073",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025073",
+            "title": "ALG Salle 221 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DELEPLANQUE",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116302",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74025199",
+            "title": "ALG Salle 223\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame LABIS",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74116302",
+            "title": "IC1_114\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame DUBOIS",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74024867",
+            "title": "ALG Salle 209 H\n\nDéveloppement des compétences relationnelles\nATELIER\n09:00 - 12:00\nMadame BRIGADEAU",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75112617",
+            "title": "\n\nÉcoconception\nEXAM_SURV\n13:30 - 15:30\nMadame COMBELLES",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71728388",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728528",
+            "title": "ALG Salle 204 avec TV pour projection\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730772",
+            "title": "\nvisite Ingredia (St Pol sur Ternoise) - rdv 9h sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730772",
+            "title": "\nvisite Ingredia (St Pol sur Ternoise) - rdv 9h sur place\nÉtude d'une filière de production : Filière Lait\nVISITE\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730611",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730611",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730917",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730917",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731093",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731093",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728388",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728528",
+            "title": "ALG Salle 204 avec TV pour projection\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728265",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728265",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76132745",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "76132745",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730972",
+            "title": "\n\nÉtude d'une filière de production : Filière Pomme de terre\nVISITE\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730972",
+            "title": "\n\nÉtude d'une filière de production : Filière Pomme de terre\nVISITE\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "76307584",
+            "title": "\nConcours des Produits Laitiers « Terres en Fête » 2026\nÉtude d'une filière de production : Filière Lait\nVISITE\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "76307584",
+            "title": "\nConcours des Produits Laitiers « Terres en Fête » 2026\nÉtude d'une filière de production : Filière Lait\nVISITE\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728574",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728574",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n08:00 - 12:25\nMonsieur CHAUVIN",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731122",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730932",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730932",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n08:00 - 12:25\nMonsieur PLATEL",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728280",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730626",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730787",
+            "title": "IC2 B803     (H)\nTP transformation du lait / prépa oral final\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730626",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730787",
+            "title": "IC2 B803     (H)\nTP transformation du lait / prépa oral final\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n08:00 - 12:25\nMadame JACQUERIE",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731122",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n08:00 - 12:25\nMadame GUESDON",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728399",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728399",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n08:00 - 12:25\nMonsieur LACHEVER",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728280",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n08:00 - 12:25\nMonsieur DELBENDE",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731146",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730957",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728410",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71728304",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728304",
+            "title": "ALG Salle 208 H\n\nÉtude d'une filière de production : Filière Bois\nCOURS_TD\n13:30 - 17:55\nMonsieur DELBENDE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730957",
+            "title": "IC2 B802     (H)\n\nÉtude d'une filière de production : Filière Pomme de terre\nCOURS_TD\n13:30 - 17:55\nMonsieur PLATEL",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730641",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730641",
+            "title": "IC1_106\n\nÉtude d'une filière de production : Filière Fruits et Légumes\nCOURS_TD\n13:30 - 17:55\nMonsieur MUCHEMBLED",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728619",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728619",
+            "title": "ALG Salle 224\n\nÉtude d'une filière de production : Filière Économie circulaire-Déchets\nCOURS_TD\n13:30 - 17:55\nMonsieur CHAUVIN",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71730812",
+            "title": "\nséance d'analyse sensorielle\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71728410",
+            "title": "\n\nÉtude d'une filière de production : Filière Céréales\nVISITE\n13:30 - 17:55\nMonsieur LACHEVER",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "71730812",
+            "title": "\nséance d'analyse sensorielle\nÉtude d'une filière de production : Filière Lait\nCOURS_TD\n13:30 - 17:55\nMadame JACQUERIE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71731146",
+            "title": "IC1_419\n\nÉtude d'une filière de production : Filière Viande\nCOURS_TD\n13:30 - 17:55\nMadame GUESDON",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

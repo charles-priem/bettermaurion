@@ -1,0 +1,571 @@
+{
+    "events": [
+        {
+            "id": "69348654",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348662",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348670",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348678",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348686",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348694",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348702",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348710",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "69348718",
+            "title": "\n\nHEI3APP Business Stream\nENTREPRISE\n08:00 - 18:00\n ",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENTREPRISE"
+        },
+        {
+            "id": "71956431",
+            "title": "IC2 B506     (H)\n\nMathématiques 2\nCOURS_TD\n09:05 - 12:25\nMr HAGE",
+            "start": "2026-05-04T09:05:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71981205",
+            "title": "IC2 B506     (H)\n\nDéveloppement FrontWeb WEB\nCOURS_TD\n13:30 - 17:50\nMs BENYOUSSEF",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72092833",
+            "title": "IC2 C304 - Amphi JND     (H)\n\nRésistance des matériaux\nCOURS_TD\n13:30 - 16:50\nMs BRUE",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72095228",
+            "title": "IC2 B506     (H)\n\nMétaux, céramiques et composites\nCOURS_TD\n08:00 - 11:20\nMs DEHEUVELS",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T11:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71981219",
+            "title": "IC2 B506     (H)\n\nDéveloppement FrontWeb WEB\nCOURS_TD\n11:25 - 12:25\nMs BENYOUSSEF",
+            "start": "2026-05-06T11:25:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098210",
+            "title": "IC2 B506     (H)\n\nDéveloppement FrontWeb WEB\nPROJET\n13:30 - 15:30\nMs BENYOUSSEF",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72095242",
+            "title": "IC2 B506     (H)\n\nMétaux, céramiques et composites\nCOURS_TD\n15:50 - 17:50\nMr MEJIAS",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66401117",
+            "title": "ALG Amphi 002 H\nTOEIC\nAnglais\nEXAM_SURV\n09:05 - 12:05\nMr MOSS",
+            "start": "2026-05-07T09:05:00+0200",
+            "end": "2026-05-07T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM_SURV"
+        },
+        {
+            "id": "75155392",
+            "title": "IC2 B506     (H)\nPISTE\nProjet PISTE\nAUTO_APPR\n13:30 - 14:30\nMr CHAFI",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71881498",
+            "title": "IC2 C956     (H)\n\nEnergetic transition\nTP\n15:00 - 18:00\nMr BRITAA",
+            "start": "2026-05-07T15:00:00+0200",
+            "end": "2026-05-07T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71956453",
+            "title": "IC2 B506     (H)\n\nMathématiques 2\nCOURS_TD\n09:05 - 12:25\nMr HAGE",
+            "start": "2026-05-11T09:05:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72092850",
+            "title": "IC2 B506     (H)\n\nRésistance des matériaux\nCOURS_TD\n13:30 - 16:50\nMs BRUE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75155427",
+            "title": "ALG_SALLE_202_2TAB\nPISTE\nProjet PISTE\nAUTO_APPR\n16:55 - 17:55\nMr TALHA",
+            "start": "2026-05-11T16:55:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71881677",
+            "title": "IC1_130\n\nEnergetic transition\nTP\n08:00 - 11:00\nMr BRITAA",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72098555",
+            "title": "MF H044_labo matériaux\nGROUPE 2\nMétaux, céramiques et composites\nTP\n13:30 - 18:00\nMr MEJIAS",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71981347",
+            "title": "MF H116 26+1 postes vidéo\n\nDéveloppement FrontWeb WEB\nTP\n08:00 - 10:00\nMs BENYOUSSEF",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71981323",
+            "title": "MF H116 26+1 postes vidéo\n\nDéveloppement FrontWeb WEB\nTP\n10:20 - 12:20\nMs BENYOUSSEF",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72095102",
+            "title": "MF H116 26+1 postes vidéo\n\nMétaux, céramiques et composites\nTD\n13:30 - 16:50\nMr MEJIAS",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75155462",
+            "title": "ALG_SALLE_202_2TAB\nPISTE\nProjet PISTE\nAUTO_APPR\n08:00 - 09:00\nMr CHAFI",
+            "start": "2026-05-15T08:00:00+0200",
+            "end": "2026-05-15T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "72281960",
+            "title": "ALG Salle 205 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMr MOSS",
+            "start": "2026-05-15T09:05:00+0200",
+            "end": "2026-05-15T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72281977",
+            "title": "ALG Salle 209 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMr DEJONGHE",
+            "start": "2026-05-15T09:05:00+0200",
+            "end": "2026-05-15T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72281995",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMs PEARSON",
+            "start": "2026-05-15T09:05:00+0200",
+            "end": "2026-05-15T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72092873",
+            "title": "IC2 B506     (H)\n\nRésistance des matériaux\nCOURS_TD\n13:30 - 16:50\nMs BRUE",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76516003",
+            "title": "MF H116 26+1 postes vidéo\nOBLIGATOIRE: remplir les perceptions d’enseignement \n\nAUTO_APPR\n08:00 - 09:00\n ",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71956467",
+            "title": "IC2 B506     (H)\n\nMathématiques 2\nCOURS_TD\n09:05 - 12:25\nMr HAGE",
+            "start": "2026-05-18T09:05:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323065",
+            "title": "ALG Salle 224\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BARET",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323117",
+            "title": "IC2 C955 - VP\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs HENNION",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69351630",
+            "title": "IC1_518\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs DELEBECQ",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65322957",
+            "title": "IC1_427\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BEAUMONT",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71981295",
+            "title": "ALG Salle 201 H_2TAB\n\nDéveloppement FrontWeb WEB\nPROJET\n16:55 - 17:55\nMs BENYOUSSEF",
+            "start": "2026-05-18T16:55:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71881625",
+            "title": "IC2 B804     (H)\n\nEnergetic transition\nTP\n08:00 - 11:00\nMr BRITAA",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72098509",
+            "title": "MF H044_labo matériaux\nGROUPE 1\nMétaux, céramiques et composites\nTP\n08:00 - 12:30\nMs DEHEUVELS",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "65323078",
+            "title": "ALG Salle 224\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BARET",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323130",
+            "title": "IC2 C955 - VP\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs HENNION",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69351647",
+            "title": "IC1_518\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs DELEBECQ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65322989",
+            "title": "IC1_427\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BEAUMONT",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75155053",
+            "title": "ALG_SALLE_202_2TAB\n\nDéveloppement FrontWeb WEB\nPROJET\n16:55 - 17:55\nMs BENYOUSSEF",
+            "start": "2026-05-19T16:55:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72098475",
+            "title": "MF H044_labo matériaux\nGROUPE 3\nMétaux, céramiques et composites\nTP\n08:00 - 12:30\nMr COETSIER",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "69351844",
+            "title": "IC1_518\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs DELEBECQ",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65322969",
+            "title": "IC1_427\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BEAUMONT",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323091",
+            "title": "ALG Salle 224\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs BARET",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323143",
+            "title": "IC2 C955 - VP\n\nCompétences relationnelles 2\nCOURS_TD\n13:30 - 16:50\nMs HENNION",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75155068",
+            "title": "ALG Salle 201 H_2TAB\n\nDéveloppement FrontWeb WEB\nPROJET\n16:55 - 17:55\nMs BENYOUSSEF",
+            "start": "2026-05-20T16:55:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75155084",
+            "title": "ALG Salle 201 H_2TAB\n\nDéveloppement FrontWeb WEB\nPROJET\n08:00 - 09:00\nMs BENYOUSSEF",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69351708",
+            "title": "IC1_518\n\nCompétences relationnelles 2\nCOURS_TD\n09:05 - 12:25\nMs DELEBECQ",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323156",
+            "title": "IC2 C955 - VP\n\nCompétences relationnelles 2\nCOURS_TD\n09:05 - 12:25\nMs HENNION",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323104",
+            "title": "ALG Salle 224\n\nCompétences relationnelles 2\nCOURS_TD\n09:05 - 12:25\nMs BARET",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "65323001",
+            "title": "IC1_427\n\nCompétences relationnelles 2\nCOURS_TD\n09:05 - 12:25\nMs BEAUMONT",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75155497",
+            "title": "ALG Salle 201 H_2TAB\nPISTE\nProjet PISTE\nAUTO_APPR\n08:00 - 09:00\nMr CHAFI",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "66400997",
+            "title": "ALG Salle 209 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMr DEJONGHE",
+            "start": "2026-05-22T09:05:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66401129",
+            "title": "ALG Salle 221 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMs PEARSON",
+            "start": "2026-05-22T09:05:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66400846",
+            "title": "ALG Salle 205 H\n\nAnglais\nCOURS_TD\n09:05 - 12:25\nMr MOSS",
+            "start": "2026-05-22T09:05:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72092887",
+            "title": "IC2 B506     (H)\n\nRésistance des matériaux\nCOURS_TD\n13:30 - 16:50\nMs BRUE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76515959",
+            "title": "IC2 B506     (H)\nOBLIGATOIRE: rencontre responsable\n\nREUNION\n16:55 - 17:55\nMr BELHAOUANE",
+            "start": "2026-05-22T16:55:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        }
+    ]
+}

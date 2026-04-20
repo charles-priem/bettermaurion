@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "id": "76123148",
+            "title": "\nThe use of documents is forbidden, and a non-programmable calculator is allowed\nSalle B506, IC2, 41 Bvd Vauban\nHoraire TT : 7h30-10h10\nCPI_401_Mathematics 2\nEXAM_SURV\n08:00 - 10:00\nMs CARPENTIER",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76123192",
+            "title": "\nThe use of documents is forbidden, and a non-programmable calculator is allowed\nSalle B506, IC2, 41 Bvd Vauban\nHoraire TT : 10h30-13h10\nChemistry\nEXAM_SURV\n10:30 - 12:30\nMs DASCALU",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76123242",
+            "title": "\nYou may bring one handwritten A4 page of notes (recto only). The use of a calculator is forbidden.\n\nStudents with extra time: you may type your A4 page of notes (recto only). The use of a calculator is not allowed.\nSalle B506, IC2, 41 Bvd Vauban\nHoraire TT : 14h00-16h40\n\nAdvanced programming\nEXAM_SURV\n14:00 - 16:00\nMs VEILLON",
+            "start": "2026-04-27T14:00:00+0200",
+            "end": "2026-04-27T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76123260",
+            "title": "\nThe use of documents is forbidden, and a non-programmable calculator is allowed ( but not necessary)\n\nCPI_401_Mathematics 2\nEXAM_SURV\n08:00 - 10:00\nMs CARPENTIER",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76123278",
+            "title": "\nThe use of documents is forbidden, and a non-programmable calculator is allowed\n\nCPI_422_Design & Mechanics\nEXAM_SURV\n10:30 - 12:30\nMr MOBASHERI",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76123302",
+            "title": "\nTHEIA – You must bring your laptop fully charged.\nThe use of documents is forbidden, and a non-programmable calculator is allowed.\n\nCPI_314_Business Practices 2\nEXAM_SURV\n14:00 - 16:00\nMs RENAU",
+            "start": "2026-04-28T14:00:00+0200",
+            "end": "2026-04-28T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        }
+    ]
+}

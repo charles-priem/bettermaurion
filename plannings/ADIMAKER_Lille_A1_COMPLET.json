@@ -1,0 +1,1237 @@
+{
+    "events": [
+        {
+            "id": "69154192",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n08:30 - 10:00\nMr RICQ",
+            "start": "2026-04-20T08:30:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68592670",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:20 - 12:20\nMr RICQ",
+            "start": "2026-04-20T10:20:00+0200",
+            "end": "2026-04-20T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013311",
+            "title": "IC2 CoWorking\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013311",
+            "title": "IC2 CoWorking\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013311",
+            "title": "IC2 CoWorking\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64061249",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-21T08:30:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68576923",
+            "title": "IC1_122\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-21T08:30:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282301",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-04-21T08:30:00+0200",
+            "end": "2026-04-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68578507",
+            "title": "IC1_409\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-21T10:30:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061362",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-04-21T10:30:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013334",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMr BOUDRY",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013334",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMr BOUDRY",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013334",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMr BOUDRY",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64087342",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-22T08:30:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64037294",
+            "title": "IC2 A816\n\n[ADI1] English S2\nCOURS_TD\n08:30 - 10:00\nMr CONLIN",
+            "start": "2026-04-22T08:30:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68546141",
+            "title": "IC1_122\n\n[ADI1] English S2\nCOURS_TD\n10:20 - 11:50\nMr CONLIN",
+            "start": "2026-04-22T10:20:00+0200",
+            "end": "2026-04-22T11:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64037276",
+            "title": "IC2 B304     (H)\n\n[ADI1] English S2\nCOURS_TD\n10:20 - 11:50\nMr MCGAVIGAN",
+            "start": "2026-04-22T10:20:00+0200",
+            "end": "2026-04-22T11:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64091516",
+            "title": "IC1_416_CODESIGN\n\n[ADI1] Interpersonal skills\nCOURS_TD\n13:30 - 17:00\nMs FRANCI",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64091016",
+            "title": "MF H116 26+1 postes vidéo\n\n[ADI1] Mécanique\nCOURS_TD\n13:30 - 17:00\nMs DASCALU",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089824",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n08:30 - 10:00\nMs PHILIPPE",
+            "start": "2026-04-23T08:30:00+0200",
+            "end": "2026-04-23T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061482",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-04-23T08:30:00+0200",
+            "end": "2026-04-23T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282562",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMr LEMAIRE",
+            "start": "2026-04-23T10:30:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089838",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n10:30 - 12:00\nMs PHILIPPE",
+            "start": "2026-04-23T10:30:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061636",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-04-23T10:30:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68578894",
+            "title": "IC1_416_CODESIGN\n\n[ADI1] Interpersonal skills\nCOURS_TD\n08:00 - 12:20\nMs FRANCI",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64086995",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Electronique numérique\nPROJET\n09:00 - 12:20\nMr BERNARD",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64091279",
+            "title": "MF H107 24+1 postes vidéo\n\n[ADI1] Mécanique\nCOURS_TD\n13:30 - 17:00\nMs DASCALU",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69155290",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n14:00 - 15:30\nMr RICQ",
+            "start": "2026-04-24T14:00:00+0200",
+            "end": "2026-04-24T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64028799",
+            "title": "\nSalle ALG 201-202, ALG, 2 rue Norbert Ségard\nHoraire TT : 8h00-10h00\n[ADI1] Complex Numbers and Plan transforms\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028799",
+            "title": "\nSalle ALG 201-202, ALG, 2 rue Norbert Ségard\nHoraire TT : 8h00-10h00\n[ADI1] Complex Numbers and Plan transforms\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028799",
+            "title": "\nSalle ALG 201-202, ALG, 2 rue Norbert Ségard\nHoraire TT : 8h00-10h00\n[ADI1] Complex Numbers and Plan transforms\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "68592763",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:20 - 12:20\nMr RICQ",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76140863",
+            "title": "IC1_122\n\n[ADI1] English S2\nCOURS_TD\n10:30 - 12:00\nMr CONLIN",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013356",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013356",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013356",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "68576961",
+            "title": "IC1_114\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-28T08:30:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282310",
+            "title": "IC2 C253 - TV\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-04-28T08:30:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061262",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-28T08:30:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76140840",
+            "title": "IC2 B804     (H)\n\n[ADI1] English S2\nCOURS_TD\n10:30 - 12:00\nMr CONLIN",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061375",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68578542",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013378",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013378",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013378",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69154675",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n08:30 - 10:00\nMr RICQ",
+            "start": "2026-04-29T08:30:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087324",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-29T08:30:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087400",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-04-29T10:30:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154995",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:30 - 12:00\nMr RICQ",
+            "start": "2026-04-29T10:30:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154219",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n13:30 - 15:30\nMr RICQ",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64091052",
+            "title": "MF H107 24+1 postes vidéo\n\n[ADI1] Mécanique\nCOURS_TD\n13:30 - 17:00\nMs DASCALU",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089744",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n08:30 - 10:00\nMs PHILIPPE",
+            "start": "2026-04-30T08:30:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061495",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-04-30T08:30:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089654",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n10:30 - 12:00\nMs PHILIPPE",
+            "start": "2026-04-30T10:30:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061649",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-04-30T10:30:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282571",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMr LEMAIRE",
+            "start": "2026-04-30T10:30:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68570872",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Electronique numérique\nPROJET\n13:30 - 17:00\nMs PHILIPPE",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64028808",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMr MEJIAS",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028808",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMr MEJIAS",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028808",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMr MEJIAS",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028739",
+            "title": "\n\n[ADI1] Web S2\nDS_SURV\n10:30 - 11:30\nMr FARDOUX",
+            "start": "2026-05-04T10:30:00+0200",
+            "end": "2026-05-04T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028739",
+            "title": "\n\n[ADI1] Web S2\nDS_SURV\n10:30 - 11:30\nMr FARDOUX",
+            "start": "2026-05-04T10:30:00+0200",
+            "end": "2026-05-04T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028739",
+            "title": "\n\n[ADI1] Web S2\nDS_SURV\n10:30 - 11:30\nMr FARDOUX",
+            "start": "2026-05-04T10:30:00+0200",
+            "end": "2026-05-04T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64013400",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013400",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013400",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64061275",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68576975",
+            "title": "IC1_117\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282319",
+            "title": "IC2 A919\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061388",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-05-05T10:30:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013422",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013422",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013422",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69154710",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n08:30 - 10:00\nMr RICQ",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087216",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154233",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:20 - 12:20\nMr RICQ",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087386",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-06T10:30:00+0200",
+            "end": "2026-05-06T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154247",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n13:30 - 15:30\nMr RICQ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061508",
+            "title": "IC2 C253 - TV\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-05-07T08:30:00+0200",
+            "end": "2026-05-07T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089689",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n08:30 - 10:00\nMs PHILIPPE",
+            "start": "2026-05-07T08:30:00+0200",
+            "end": "2026-05-07T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061662",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-05-07T10:30:00+0200",
+            "end": "2026-05-07T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64089584",
+            "title": "IC1_222\n\n[ADI1] Electronique numérique\nCOURS_TD\n10:30 - 12:00\nMs PHILIPPE",
+            "start": "2026-05-07T10:30:00+0200",
+            "end": "2026-05-07T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282734",
+            "title": "IC2 C253 - TV\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMr LEMAIRE",
+            "start": "2026-05-07T10:30:00+0200",
+            "end": "2026-05-07T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68570909",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Electronique numérique\nPROJET\n13:30 - 17:00\nMr BERNARD",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "68733203",
+            "title": "IC1_labo lars'N\nNature of Sound\n[ADI1] Option Musique & Tech\nCOURS_TD\n14:00 - 17:00\nMs POSTEL",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64028817",
+            "title": "\n\n[ADI1] Electronique numérique\nDS_SURV\n08:00 - 10:00\nMs PHILIPPE",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028817",
+            "title": "\n\n[ADI1] Electronique numérique\nDS_SURV\n08:00 - 10:00\nMs PHILIPPE",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028817",
+            "title": "\n\n[ADI1] Electronique numérique\nDS_SURV\n08:00 - 10:00\nMs PHILIPPE",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64091369",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n10:20 - 12:20\n ",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64091369",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n10:20 - 12:20\n ",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64091369",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n10:20 - 12:20\n ",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013444",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013444",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013444",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64061288",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68577021",
+            "title": "IC1_122\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282328",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061401",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMr LEMAIRE",
+            "start": "2026-05-12T10:30:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68577212",
+            "title": "IC1_122\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-12T10:30:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013466",
+            "title": "IC2 salle de décision S\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013466",
+            "title": "IC2 salle de décision S\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013466",
+            "title": "IC2 salle de décision S\n\n[ADI1] Projets\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "69154695",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n08:30 - 10:00\nMr RICQ",
+            "start": "2026-05-13T08:30:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087136",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n08:30 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-13T08:30:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154964",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:20 - 12:20\nMr RICQ",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64087197",
+            "title": "IC1_112\n\n[ADI1] Mécanique\nCOURS_TD\n10:30 - 12:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-13T10:30:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75675115",
+            "title": "IC2 B904 - TP ELEC\n\n[ADI1] Electronique numérique\nPROJET\n13:30 - 16:50\nMr BERNARD",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "68577121",
+            "title": "IC1_122\n\n[ADI1] Mécanique\nCOURS_TD\n13:30 - 15:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69154930",
+            "title": "IC2 B803     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n15:30 - 17:30\nMr RICQ",
+            "start": "2026-05-13T15:30:00+0200",
+            "end": "2026-05-13T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64028827",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028827",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028827",
+            "title": "\n\n[ADI1] Mécanique\nDS_SURV\n08:00 - 10:00\nMs CARPENTIER-BENEDITO",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "69154855",
+            "title": "IC2 B804     (H)\n\n[ADI1] Algorithms S2\nCOURS_TD\n10:20 - 12:20\nMr RICQ",
+            "start": "2026-05-18T10:20:00+0200",
+            "end": "2026-05-18T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75421154",
+            "title": "IC1_114\nsoutenances de maths dans le cadre du module Maths 6\n\nSOUTENANCE\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-18T10:20:00+0200",
+            "end": "2026-05-18T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "64013488",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013488",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013488",
+            "title": "IC2 salle de décision S\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs FRANCI",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64061743",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282337",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75421179",
+            "title": "IC1_112\nsoutenances de maths dans le cadre du module Maths 6\n\nSOUTENANCE\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-19T10:20:00+0200",
+            "end": "2026-05-19T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "64061726",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMr LEMAIRE",
+            "start": "2026-05-19T10:30:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64013510",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013510",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64013510",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\nMs RATAJ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64028789",
+            "title": "\n\n[ADI1] Algorithms S2\nDS_SURV\n08:30 - 10:30\nMr RICQ",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T10:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028789",
+            "title": "\n\n[ADI1] Algorithms S2\nDS_SURV\n08:30 - 10:30\nMr RICQ",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T10:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64028789",
+            "title": "\n\n[ADI1] Algorithms S2\nDS_SURV\n08:30 - 10:30\nMr RICQ",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T10:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64091334",
+            "title": "IC2 CoWorking\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64091334",
+            "title": "IC2 CoWorking\n\n[ADI1] Technical Projects S2\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75675170",
+            "title": "IC2 B904 - TP ELEC\n\n[ADI1] Electronique numérique\nPROJET\n13:30 - 17:00\nMs PHILIPPE",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64061688",
+            "title": "IC2 B505     (H)_2TAB\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMr LEMAIRE",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68282750",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64061534",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Complex Numbers and Plan transforms\nCOURS_TD\n10:30 - 12:00\nMs BAUDEL",
+            "start": "2026-05-21T10:30:00+0200",
+            "end": "2026-05-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64085820",
+            "title": "TechShop Classroom\n\n[ADI1] Mécanique\nCOURS_TD\n09:00 - 12:20\nMr PAUL",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75675237",
+            "title": "IC2 B904 - TP ELEC\n\n[ADI1] Electronique numérique\nPROJET\n09:00 - 12:30\nMs PHILIPPE",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "68570954",
+            "title": "Atelier ADIMAKER\n\n[ADI1] Electronique numérique\nPROJET\n13:30 - 17:00\nMs PHILIPPE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75421192",
+            "title": "IC1_112\nsoutenances de maths dans le cadre du module Maths 6\n\nSOUTENANCE\n13:30 - 15:30\nMs BAUDEL",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        }
+    ]
+}

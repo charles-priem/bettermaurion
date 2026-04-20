@@ -1,0 +1,670 @@
+{
+    "events": [
+        {
+            "id": "72642651",
+            "title": "\nSalle 20RT, 20 rue de Toul\nHoraire TT : 10h30-13h10\nElectronique Numérique\nPARTIEL_SURV\n10:30 - 12:30\nMadame PHILIPPE",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72281006",
+            "title": "\nSalle ALG 201-202, ALG, 2 rue Norbert Ségard\nHoraire TT : 13h30-16h10\nAutomatique Séquentielle - S2\nPARTIEL_SURV\n13:30 - 15:30\nMonsieur WATTEL",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72279294",
+            "title": "\n\nDéveloppement Web - S2\nEXAM_SURV\n08:00 - 10:00\nMonsieur KEBOUR",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72301671",
+            "title": "\n\nProgrammation 4 : Algorithmes Avancés\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur DELEPLANQUE",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72272463",
+            "title": "\n\nMathématiques 8 : Algèbre générale\nEXAM_SURV\n13:30 - 15:30\nMadame EL YAAGOUBI",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72324810",
+            "title": "ALG Salle 220\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324882",
+            "title": "IC2 A815_2TAB- VP\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324986",
+            "title": "IC2 A906_2TAB\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame VAUBAN",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324722",
+            "title": "ALG Salle 211\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324774",
+            "title": "ALG Salle 211\n\nCompétences Relationnelles\nPROJET\n13:30 - 16:45\nMadame BRIGADEAU",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324918",
+            "title": "IC2 A815_2TAB- VP\n\nCompétences Relationnelles\nPROJET\n13:30 - 16:45\nMadame DELEPLANQUE",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324857",
+            "title": "ALG Salle 220\n\nCompétences Relationnelles\nPROJET\n13:30 - 16:45\nMadame HENNION",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72325033",
+            "title": "IC2 A906_2TAB\n\nCompétences Relationnelles\nPROJET\n13:30 - 16:45\nMadame VAUBAN",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324834",
+            "title": "ALG Salle 220\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame HENNION",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324785",
+            "title": "ALG Salle 211\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame BRIGADEAU",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324893",
+            "title": "IC2 A815_2TAB- VP\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame DELEPLANQUE",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72324998",
+            "title": "IC2 A906_2TAB\n\nCompétences Relationnelles\nPROJET\n09:00 - 12:15\nMadame VAUBAN",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72325337",
+            "title": "IC2 A906_2TAB\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame VAUBAN",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72325188",
+            "title": "ALG Salle 220\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame HENNION",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72325243",
+            "title": "IC2 A815_2TAB- VP\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame DELEPLANQUE",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72325131",
+            "title": "ALG Salle 211\n\nCompétences Relationnelles\nSEMINAIRE\n13:30 - 16:45\nMadame BRIGADEAU",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75219325",
+            "title": "IC1_117\n\nProjet d'Informatique\nSOUTENANCE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-04T08:30:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75219325",
+            "title": "IC1_117\n\nProjet d'Informatique\nSOUTENANCE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-04T08:30:00+0200",
+            "end": "2026-05-04T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75219340",
+            "title": "IC1_109\n\nProjet d'Informatique\nSOUTENANCE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75219340",
+            "title": "IC1_109\n\nProjet d'Informatique\nSOUTENANCE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75219618",
+            "title": "IC1_220\n\nProjet d'Informatique\nSOUTENANCE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75219618",
+            "title": "IC1_220\n\nProjet d'Informatique\nSOUTENANCE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "73359301",
+            "title": "IC2 A913 (H)\n\nInterculturel\nCOURS_TD\n13:30 - 15:30\nMonsieur DEVOS",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75220095",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 15:30\nMonsieur FARDOUX",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "73360375",
+            "title": "IC2 A913 (H)\n\nInterculturel\nCOURS_TD\n15:50 - 17:50\nMonsieur DEVOS",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75686062",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n15:50 - 17:50\nMonsieur FARDOUX",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219632",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219632",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220109",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220109",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219646",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-07T08:30:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219646",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-07T08:30:00+0200",
+            "end": "2026-05-07T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220123",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220123",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "68734093",
+            "title": "IC2 A111 - Salle Musique et Technologies\nProjets\nModule Musique et Technologies\nCOURS_TD\n14:00 - 16:30\nMonsieur PATE",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75219674",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-11T08:30:00+0200",
+            "end": "2026-05-11T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219674",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-11T08:30:00+0200",
+            "end": "2026-05-11T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "73682292",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "75219688",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219688",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220165",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220165",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219702",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-13T08:30:00+0200",
+            "end": "2026-05-13T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219702",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-13T08:30:00+0200",
+            "end": "2026-05-13T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220179",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220179",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219730",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-15T08:30:00+0200",
+            "end": "2026-05-15T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219730",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-15T08:30:00+0200",
+            "end": "2026-05-15T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "73683936",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "75219744",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-18T08:30:00+0200",
+            "end": "2026-05-18T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219744",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-18T08:30:00+0200",
+            "end": "2026-05-18T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220221",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220221",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219758",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219758",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220235",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220235",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219772",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219772",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220249",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220249",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219786",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219786",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220263",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220263",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219800",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-22T08:30:00+0200",
+            "end": "2026-05-22T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75219800",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n08:30 - 12:15\nMonsieur FARDOUX",
+            "start": "2026-05-22T08:30:00+0200",
+            "end": "2026-05-22T12:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220277",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75220277",
+            "title": "\n\nProjet d'Informatique\nPROJET_AUTO_GERE\n13:30 - 17:15\nMonsieur FARDOUX",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "events": [
+        {
+            "id": "69536071",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMadame HOCHART",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536089",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMadame HOCHART",
+            "start": "2026-04-27T10:00:00+0200",
+            "end": "2026-04-27T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75997562",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nSciences Industrielles - 1er semestre\nCOURS_TD\n13:00 - 14:30\nMonsieur DUMONT",
+            "start": "2026-04-27T13:00:00+0200",
+            "end": "2026-04-27T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75997544",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nSciences Industrielles - 1er semestre\nCOURS_TD\n14:30 - 16:00\nMonsieur DUMONT",
+            "start": "2026-04-27T14:30:00+0200",
+            "end": "2026-04-27T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536134",
+            "title": "\n\nEPS - 1er semestre\nCOURS_TD\n17:30 - 19:30\nMonsieur MILHAU",
+            "start": "2026-04-27T17:30:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536147",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536162",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-04-28T10:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536176",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur DUMONT",
+            "start": "2026-04-28T10:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67472736",
+            "title": "IC2 B502 - Labo SII Prépa OZANAM\n\nSciences Industrielles - 1er semestre\nTP\n13:30 - 17:30\nMonsieur DUMONT",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67472753",
+            "title": "IC2 A408 - Labo physique Prépa OZANAM\n\nPhysique - 1er semestre\nTP\n13:30 - 17:30\nMonsieur HARBONNIER",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69536190",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536220",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur HARBONNIER",
+            "start": "2026-04-29T10:00:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536205",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMadame CHEVALIER",
+            "start": "2026-04-29T10:00:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536249",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMadame MAZEAU",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536235",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMonsieur HARBONNIER",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536264",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame CHEVALIER",
+            "start": "2026-04-29T15:30:00+0200",
+            "end": "2026-04-29T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536279",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame MAZEAU",
+            "start": "2026-04-29T15:30:00+0200",
+            "end": "2026-04-29T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536293",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMadame HOCHART",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536311",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-04-30T10:00:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67682132",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nLV2 - 1er semestre\nCOURS_TD\n14:00 - 15:50\nMadame DECOOPMAN",
+            "start": "2026-04-30T14:00:00+0200",
+            "end": "2026-04-30T15:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536352",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMadame HOCHART",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536370",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMadame HOCHART",
+            "start": "2026-05-04T10:00:00+0200",
+            "end": "2026-05-04T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75997592",
+            "title": "IC2 B501 - Labo SII Prépa OZANAM\n\nSciences Industrielles - 1er semestre\nCOURS_TD\n13:30 - 16:30\nMonsieur DUMONT",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536416",
+            "title": "\n\nEPS - 1er semestre\nCOURS_TD\n17:30 - 19:30\nMonsieur MILHAU",
+            "start": "2026-05-04T17:30:00+0200",
+            "end": "2026-05-04T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536429",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536444",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur DUMONT",
+            "start": "2026-05-05T10:00:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536459",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-05-05T10:00:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67473049",
+            "title": "IC2 A408 - Labo physique Prépa OZANAM\n\nPhysique - 1er semestre\nTP\n13:30 - 17:30\nMonsieur HARBONNIER",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67473064",
+            "title": "IC2 B501 - Labo SII Prépa OZANAM\n\nSciences Industrielles - 1er semestre\nTP\n13:30 - 17:30\nMonsieur DUMONT",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69536473",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536488",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur HARBONNIER",
+            "start": "2026-05-06T10:00:00+0200",
+            "end": "2026-05-06T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536503",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMadame CHEVALIER",
+            "start": "2026-05-06T10:00:00+0200",
+            "end": "2026-05-06T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536517",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMadame MAZEAU",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536532",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMonsieur HARBONNIER",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536562",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame CHEVALIER",
+            "start": "2026-05-06T15:30:00+0200",
+            "end": "2026-05-06T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536547",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame MAZEAU",
+            "start": "2026-05-06T15:30:00+0200",
+            "end": "2026-05-06T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536576",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMadame HOCHART",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536594",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-05-07T10:00:00+0200",
+            "end": "2026-05-07T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67682637",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nEspagnol - 1er semestre\nCOURS_TD\n14:00 - 15:50\nMadame DECOOPMAN",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T15:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68734093",
+            "title": "IC2 A111 - Salle Musique et Technologies\nProjets\nModule Musique et Technologies\nCOURS_TD\n14:00 - 16:30\nMonsieur PATE",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68734093",
+            "title": "IC2 A111 - Salle Musique et Technologies\nProjets\nModule Musique et Technologies\nCOURS_TD\n14:00 - 16:30\nMonsieur PATE",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536635",
+            "title": "IC2 C405 - Amphi Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMadame HOCHART",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536653",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nMathématiques - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-05-11T10:00:00+0200",
+            "end": "2026-05-11T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75997610",
+            "title": "IC2 B501 - Labo SII Prépa OZANAM\n\nSciences Industrielles - 1er semestre\nCOURS_TD\n13:30 - 16:30\nMonsieur DUMONT",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536698",
+            "title": "\n\nEPS - 1er semestre\nCOURS_TD\n17:30 - 19:30\nMonsieur MILHAU",
+            "start": "2026-05-11T17:30:00+0200",
+            "end": "2026-05-11T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536711",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536725",
+            "title": "IC2 A412 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur DUMONT",
+            "start": "2026-05-12T10:00:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536740",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nInformatique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur BELLEUDY",
+            "start": "2026-05-12T10:00:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67473367",
+            "title": "IC2 B503 - Labo SII Prépa OZANAM - VidéoProj\n\nSciences Industrielles - 1er semestre\nTP\n13:30 - 17:30\nMonsieur DUMONT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67473384",
+            "title": "IC2 A408 - Labo physique Prépa OZANAM\n\nPhysique - 1er semestre\nTP\n13:30 - 17:30\nMonsieur HARBONNIER",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "69536754",
+            "title": "IC2 C401 - Amphi Prépa OZANAM     (H)\n\nPhysique - 1er semestre\nCOURS_TD\n08:00 - 10:00\nMonsieur HARBONNIER",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536769",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMonsieur HARBONNIER",
+            "start": "2026-05-13T10:00:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536784",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n10:00 - 12:00\nMadame CHEVALIER",
+            "start": "2026-05-13T10:00:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536813",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nPhysique - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMonsieur HARBONNIER",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536798",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n13:30 - 15:30\nMadame MAZEAU",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536828",
+            "title": "IC2 C404 - Salle Prépa OZANAM - VidéoProj\n\nAnglais - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame MAZEAU",
+            "start": "2026-05-13T15:30:00+0200",
+            "end": "2026-05-13T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69536843",
+            "title": "IC2 A411 - salle de TP/projet Prépa OZANAM - VidéoProj\n\nFormation Humaine et Sociale - 1er semestre\nCOURS_TD\n15:30 - 17:30\nMadame CHEVALIER",
+            "start": "2026-05-13T15:30:00+0200",
+            "end": "2026-05-13T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67683600",
+            "title": "IC2 C403 - Salle Prépa OZANAM - VidéoProj\n\nEspagnol - 1er semestre\nCOURS_TD\n14:00 - 15:50\nMadame DECOOPMAN",
+            "start": "2026-05-21T14:00:00+0200",
+            "end": "2026-05-21T15:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "events": [
+        {
+            "id": "66383051",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n08:00 - 12:00\nMr LARROQUE",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370018",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nTP\n13:00 - 16:00\nMr DIET",
+            "start": "2026-04-20T13:00:00+0200",
+            "end": "2026-04-20T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "66383132",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n09:00 - 12:00\nMr MOKRANI",
+            "start": "2026-04-21T09:00:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66369922",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n13:30 - 16:30\nMr DIET",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66383229",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-04-22T09:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66372294",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66371479",
+            "title": "BORDEAUX_029\n\n[ADI2] Projets\nPROJET\n09:00 - 12:30\nMr VIOT",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70055325",
+            "title": "BORDEAUX_143\n\n[ADI1] Informatique TC HEI\nDS_SURV\n13:30 - 14:30\nMs PAUL",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132558",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-04-23T15:30:00+0200",
+            "end": "2026-04-23T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66372566",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n09:00 - 12:30\nMr VIOT",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66383071",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n08:00 - 12:00\nMr LARROQUE",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370035",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nPROJET\n13:00 - 16:00\nMr DIET",
+            "start": "2026-04-27T13:00:00+0200",
+            "end": "2026-04-27T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66383146",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n09:00 - 12:00\nMr MOKRANI",
+            "start": "2026-04-28T09:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66369936",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n13:30 - 16:30\nMr DIET",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76197627",
+            "title": "BORDEAUX_143\nAteliers découverte des métiers de la recherche\nResearch activities \nCONF\n08:30 - 12:30\nMr PIROG",
+            "start": "2026-04-29T08:30:00+0200",
+            "end": "2026-04-29T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CONF"
+        },
+        {
+            "id": "66372272",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr MOKRANI",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66370091",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nPROJET\n08:00 - 11:00\nMr DIET",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70056098",
+            "title": "BORDEAUX_140\n\n[ADI1] Electronique numérique\nDS_SURV\n13:30 - 14:30\nMr PONASSIE",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132569",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-04-30T15:30:00+0200",
+            "end": "2026-04-30T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66383243",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370049",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nPROJET\n13:00 - 16:00\nMr DIET",
+            "start": "2026-05-04T13:00:00+0200",
+            "end": "2026-05-04T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66383160",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n09:00 - 12:00\nMr MOKRANI",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66369950",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n13:30 - 16:30\nMr DIET",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370063",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nPROJET\n08:00 - 11:00\nMr DIET",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66372250",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66372212",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n11:00 - 12:30\nMr VIOT",
+            "start": "2026-05-07T11:00:00+0200",
+            "end": "2026-05-07T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70056336",
+            "title": "BORDEAUX_140\n\n[ADI1] Mécanique\nEXAM_SURV\n13:30 - 14:30\nMs PAUL",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132580",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-05-07T15:30:00+0200",
+            "end": "2026-05-07T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66383257",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-05-11T09:00:00+0200",
+            "end": "2026-05-11T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370105",
+            "title": "BORDEAUX_279\n\n[ADI1] Electronique numérique\nPROJET\n13:00 - 16:00\nMr DIET",
+            "start": "2026-05-11T13:00:00+0200",
+            "end": "2026-05-11T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66383174",
+            "title": "BORDEAUX_148\n\n[ADI1] Informatique TC HEI\nCOURS_TD\n09:00 - 12:00\nMr MOKRANI",
+            "start": "2026-05-12T09:00:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66370077",
+            "title": "BORDEAUX_148\n\n[ADI1] Electronique numérique\nPROJET\n08:00 - 11:00\nMr DIET",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66371558",
+            "title": "BORDEAUX_029\n\n[ADI2] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66383271",
+            "title": "BORDEAUX_148\n\n[ADI1] Mécanique\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70055007",
+            "title": "BORDEAUX_143\n\n[ADI1] Informatique TC HEI\nEXAM_SURV\n13:30 - 14:30\nMr PONASSIE",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66371587",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nSOUTENANCE\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70056213",
+            "title": "BORDEAUX_276\n\n[ADI1] Electronique numérique\nEXAM_SURV\n10:00 - 11:00\nMr PONASSIE",
+            "start": "2026-05-21T10:00:00+0200",
+            "end": "2026-05-21T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70055559",
+            "title": "BORDEAUX_143\n\n[ADI1] Informatique TC HEI\nEXAM_SURV\n13:30 - 14:30\nMs PAUL",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132602",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-05-21T15:30:00+0200",
+            "end": "2026-05-21T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        }
+    ]
+}

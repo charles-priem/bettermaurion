@@ -1,0 +1,724 @@
+{
+    "events": [
+        {
+            "id": "64030614",
+            "title": "\nSalle 20RT, 20 rue de Toul\nHoraire TT : 8h00-10h00\n[ADI2] Mathématiques ISEN\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-20T08:30:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64030614",
+            "title": "\nSalle 20RT, 20 rue de Toul\nHoraire TT : 8h00-10h00\n[ADI2] Mathématiques ISEN\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-04-20T08:30:00+0200",
+            "end": "2026-04-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64011395",
+            "title": "IC2 A812_2TAB\nA812 : Soutenances Projets Alpha ADI2\n[ADI2] Projets\nPROJET\n13:30 - 17:55\nMr MELE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011395",
+            "title": "IC2 A812_2TAB\nA812 : Soutenances Projets Alpha ADI2\n[ADI2] Projets\nPROJET\n13:30 - 17:55\nMr MELE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73897908",
+            "title": "IC1_222\n\n[ADI2] Anglais\nCOURS_TD\n08:00 - 11:00\nMr DEVOS",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64197232",
+            "title": "IC1_112\n\n[ADI2] Formation Humaine\nCOURS_TD\n10:20 - 12:20\nMr POISBLAUD",
+            "start": "2026-04-21T10:20:00+0200",
+            "end": "2026-04-21T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011406",
+            "title": "IC2 A812_2TAB\nA812 : Soutenances Projets Alpha ADI2\n[ADI2] Projets\nPROJET\n13:30 - 17:55\nMr MELE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011406",
+            "title": "IC2 A812_2TAB\nA812 : Soutenances Projets Alpha ADI2\n[ADI2] Projets\nPROJET\n13:30 - 17:55\nMr MELE",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64102996",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Mathématiques ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64102531",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Mathématiques ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-04-22T10:20:00+0200",
+            "end": "2026-04-22T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64037245",
+            "title": "IC2 A913     (H)\n\n[ADI2] Anglais\nCOURS_TD\n13:30 - 15:00\nMr CONLIN",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T15:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73897828",
+            "title": "IC1_112\n\n[ADI2] Anglais\nCOURS_TD\n15:15 - 18:15\nMr DEVOS",
+            "start": "2026-04-22T15:15:00+0200",
+            "end": "2026-04-22T18:15:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64037232",
+            "title": "IC2 A913     (H)\n\n[ADI2] Anglais\nCOURS_TD\n15:15 - 16:45\nMr CONLIN",
+            "start": "2026-04-22T15:15:00+0200",
+            "end": "2026-04-22T16:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64313647",
+            "title": "\n\n[ADI2] Projets\nPROJET\n08:00 - 12:25\n ",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64313647",
+            "title": "\n\n[ADI2] Projets\nPROJET\n08:00 - 12:25\n ",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64195389",
+            "title": "IC1_112\n\n[ADI2] Mathématiques ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195362",
+            "title": "IC1_112\n\n[ADI2] Mathématiques ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-04-24T10:20:00+0200",
+            "end": "2026-04-24T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73352336",
+            "title": "IC1_112\n\n[ADI2] Anglais\nCOURS_TD\n13:30 - 15:30\nMr DEVOS",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75947258",
+            "title": "IC1_122\nsoutenances de maths \n\nSOUTENANCE\n13:30 - 15:30\nMs BAUDEL",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "64197465",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n15:45 - 17:45\nMr DEVOS",
+            "start": "2026-04-24T15:45:00+0200",
+            "end": "2026-04-24T17:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75951159",
+            "title": "IC1_112\nsoutenances de maths \n\nSOUTENANCE\n15:50 - 17:50\nMs BAUDEL",
+            "start": "2026-04-24T15:50:00+0200",
+            "end": "2026-04-24T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "64030710",
+            "title": "\nAmphi JND, C304, 41 Bvd Vauban\nHoraire TT : 8h10-9h30\n[ADI2] Informatique ISEN\nDS_SURV\n08:30 - 09:30\nMr FARDOUX",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T09:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64030710",
+            "title": "\nAmphi JND, C304, 41 Bvd Vauban\nHoraire TT : 8h10-9h30\n[ADI2] Informatique ISEN\nDS_SURV\n08:30 - 09:30\nMr FARDOUX",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T09:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64196743",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011418",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011418",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73897565",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n08:00 - 10:00\nMr DEVOS",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76141018",
+            "title": "IC2 A913     (H)\n\n[ADI2] Anglais\nCOURS_TD\n08:30 - 10:00\nMr CONLIN",
+            "start": "2026-04-28T08:30:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73897618",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n10:20 - 12:20\nMr DEVOS",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64197534",
+            "title": "IC1_114\n\n[ADI2] Formation Humaine\nCOURS_TD\n10:20 - 12:20\nMr POISBLAUD",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011430",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011430",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64195519",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76141230",
+            "title": "IC1_229\n\n[ADI2] Anglais\nCOURS_TD\n08:30 - 10:00\nMr CONLIN",
+            "start": "2026-04-29T08:30:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195501",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64196796",
+            "title": "IC2 C257 - TV\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:00\nMr FARDOUX",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64196796",
+            "title": "IC2 C257 - TV\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:00\nMr FARDOUX",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64101427",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n09:00 - 12:20\nMr FARDOUX",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64101427",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n09:00 - 12:20\nMr FARDOUX",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73352480",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n13:30 - 15:30\nMr DEVOS",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73352531",
+            "title": "IC1_112\n\n[ADI2] Anglais\nCOURS_TD\n15:45 - 17:45\nMr DEVOS",
+            "start": "2026-04-30T15:45:00+0200",
+            "end": "2026-04-30T17:45:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64030728",
+            "title": "\n\n[ADI2] Mathématiques ISEN\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-04T08:30:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64030728",
+            "title": "\n\n[ADI2] Mathématiques ISEN\nDS_SURV\n08:30 - 10:00\nMs BAUDEL",
+            "start": "2026-05-04T08:30:00+0200",
+            "end": "2026-05-04T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64196758",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011441",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011441",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73897373",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n08:00 - 10:00\nMr DEVOS",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73897414",
+            "title": "IC1_122\n\n[ADI2] Anglais\nCOURS_TD\n10:20 - 12:20\nMr DEVOS",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64197586",
+            "title": "IC1_117\n\n[ADI2] Formation Humaine\nCOURS_TD\n10:20 - 12:20\nMr POISBLAUD",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011452",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011452",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64195473",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195487",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64196781",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:00\nMr FARDOUX",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64196781",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:00\nMr FARDOUX",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64101442",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n09:00 - 12:20\nMr FARDOUX",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64101442",
+            "title": "IC2 B304     (H)\n\n[ADI2] Informatique ISEN\nCOURS_TD\n09:00 - 12:20\nMr FARDOUX",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68734093",
+            "title": "IC2 A111 - Salle Musique et Technologies\nProjets\n[ADI1] Option Musique & Tech\nCOURS_TD\n14:00 - 16:30\nMr PATE",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64030756",
+            "title": "\n\n[ADI2] Informatique ISEN\nDS_SURV\n08:30 - 09:30\nMr FARDOUX",
+            "start": "2026-05-11T08:30:00+0200",
+            "end": "2026-05-11T09:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64030756",
+            "title": "\n\n[ADI2] Informatique ISEN\nDS_SURV\n08:30 - 09:30\nMr FARDOUX",
+            "start": "2026-05-11T08:30:00+0200",
+            "end": "2026-05-11T09:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64011463",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011463",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64194716",
+            "title": "IC1_114\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n09:00 - 12:20\nMr MELE",
+            "start": "2026-05-12T09:00:00+0200",
+            "end": "2026-05-12T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64011475",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011475",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64194832",
+            "title": "IC1_114\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n09:00 - 12:20\nMr MELE",
+            "start": "2026-05-13T09:00:00+0200",
+            "end": "2026-05-13T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195624",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195696",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 15:30\nMs BAUDEL",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64030862",
+            "title": "\n\n[ADI2] T3 ISEN Physique/Info\nDS_SURV\n08:00 - 10:00\nMr MELE",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64030862",
+            "title": "\n\n[ADI2] T3 ISEN Physique/Info\nDS_SURV\n08:00 - 10:00\nMr MELE",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64011486",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011486",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64313604",
+            "title": "\n\n[ADI2] Projets\nPROJET\n08:00 - 12:25\n ",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64313604",
+            "title": "\n\n[ADI2] Projets\nPROJET\n08:00 - 12:25\n ",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011497",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64011497",
+            "title": "\n\n[ADI2] Projets\nPROJET\n13:30 - 17:55\n ",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "64195185",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195205",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195248",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n08:00 - 10:00\nMs BAUDEL",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64195234",
+            "title": "Atelier ADIMAKER\n\n[ADI2] Informatique ISEN\nCOURS_TD\n10:20 - 12:20\nMs BAUDEL",
+            "start": "2026-05-22T10:20:00+0200",
+            "end": "2026-05-22T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

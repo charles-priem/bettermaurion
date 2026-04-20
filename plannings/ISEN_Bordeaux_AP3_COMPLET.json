@@ -1,0 +1,256 @@
+{
+    "events": [
+        {
+            "id": "66797090",
+            "title": "J205_COURS\n\nRetour Expérience Entreprise\nTP\n09:30 - 12:00\nMonsieur DEVIENNE",
+            "start": "2026-05-04T09:30:00+0200",
+            "end": "2026-05-04T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70704834",
+            "title": "J107_TP INFORMATIQUE\n\nArchitecture et protocoles des Réseaux\nCOURS_TD\n13:30 - 16:30\nMonsieur DE ARAUJO",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67365811",
+            "title": "J203_COURS\n\nTraitement du Signal\nCOURS_TD\n08:30 - 12:00\nMonsieur DUBUC",
+            "start": "2026-05-05T08:30:00+0200",
+            "end": "2026-05-05T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67365891",
+            "title": "J203_COURS\n\nAutomatique\nCOURS_TD\n13:00 - 16:30\nMonsieur DUBUC",
+            "start": "2026-05-05T13:00:00+0200",
+            "end": "2026-05-05T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67366049",
+            "title": "J005_SALLE_CODESIGN\n\nGestion de Projet\nCOURS_TD\n09:00 - 12:00\nMadame BRINI",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67403133",
+            "title": "J106_TP HYBRIDE\n\nDéveloppement et Architecture Web\nCOURS_TD\n13:30 - 17:30\nMonsieur CROISANT",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67364050",
+            "title": "J111_CUISINE PEDAGOGIQUE\n\nAnglais\nCOURS_TD\n09:00 - 12:00\nMadame DURANT",
+            "start": "2026-05-07T09:00:00+0200",
+            "end": "2026-05-07T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75977663",
+            "title": "J111_CUISINE PEDAGOGIQUE\n\nAnglais\nCOURS_TD\n12:30 - 15:30\nMadame DURANT",
+            "start": "2026-05-07T12:30:00+0200",
+            "end": "2026-05-07T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66132580",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-05-07T15:30:00+0200",
+            "end": "2026-05-07T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "67364071",
+            "title": "J111_CUISINE PEDAGOGIQUE\n\nAnglais\nCOURS_TD\n09:00 - 12:00\nMadame DURANT",
+            "start": "2026-05-11T09:00:00+0200",
+            "end": "2026-05-11T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66799022",
+            "title": "J203_COURS\n\nComptabilité\nCOURS_TD\n13:30 - 17:30\nMadame BARCENA",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67365824",
+            "title": "J203_COURS\n\nTraitement du Signal\nCOURS_TD\n08:30 - 12:00\nMonsieur DUBUC",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67365993",
+            "title": "J203_COURS\n\nAutomatique\nCOURS_TD\n13:00 - 16:30\nMonsieur DUBUC",
+            "start": "2026-05-12T13:00:00+0200",
+            "end": "2026-05-12T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "69863528",
+            "title": "J106_TP HYBRIDE\n\nDéveloppement et Architecture Web\nCOURS_TD\n08:00 - 12:00\nMonsieur CROISANT",
+            "start": "2026-05-13T08:00:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67366182",
+            "title": "J105_TP ELECTRONIQUE\n\nProjet Electronique\nTP\n13:30 - 16:30\nMonsieur PIROG",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "66797746",
+            "title": "J203_COURS\ncours du 29/01 matin  qu aété décalé\nElectronique analogique\nCOURS_TD\n08:30 - 12:00\nMonsieur DUBUC",
+            "start": "2026-05-15T08:30:00+0200",
+            "end": "2026-05-15T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71019681",
+            "title": "J203_COURS\nTravail personnel : Révisions, TOEIC, PFE, Projets, assos etc.\n\nAUTO_APPR\n13:30 - 16:30\nMonsieur PONASSIE",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "67366062",
+            "title": "J109_CLASSLAB\n\nGestion de Projet\nCOURS_TD\n09:00 - 12:00\nMadame BRINI",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67402990",
+            "title": "J106_TP HYBRIDE\n\nArchitecture et protocoles des Réseaux\nCOURS_TD\n13:30 - 17:30\nMonsieur DE ARAUJO",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67365837",
+            "title": "J203_COURS\n\nTraitement du Signal\nCOURS_TD\n08:30 - 12:00\nMonsieur DUBUC",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67366005",
+            "title": "J203_COURS\n\nAutomatique\nCOURS_TD\n13:00 - 16:30\nMonsieur DUBUC",
+            "start": "2026-05-19T13:00:00+0200",
+            "end": "2026-05-19T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66799032",
+            "title": "J203_COURS\n\nComptabilité\nCOURS_TD\n08:30 - 12:30\nMadame BARCENA",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67403178",
+            "title": "J106_TP HYBRIDE\n\nDéveloppement et Architecture Web\nCOURS_TD\n13:30 - 17:30\nMonsieur CROISANT",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67364091",
+            "title": "J111_CUISINE PEDAGOGIQUE\n\nAnglais\nCOURS_TD\n08:30 - 12:30\nMadame DURANT",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70704844",
+            "title": "J107_TP INFORMATIQUE\n\nArchitecture et protocoles des Réseaux\nCOURS_TD\n13:30 - 16:30\nMonsieur DE ARAUJO",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67366215",
+            "title": "J105_TP ELECTRONIQUE\n\nProjet Electronique\nTP\n09:00 - 12:00\nMonsieur PIROG",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70049199",
+            "title": "J203_COURS\n\nTraitement du Signal\nDS_SURV\n13:30 - 14:30\nMonsieur PONASSIE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70965207",
+            "title": "J203_COURS\n\nDéveloppement et Architecture Web\nDS_SURV\n15:30 - 16:30\nMonsieur CROISANT",
+            "start": "2026-05-22T15:30:00+0200",
+            "end": "2026-05-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        }
+    ]
+}

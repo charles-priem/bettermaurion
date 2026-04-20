@@ -1,0 +1,328 @@
+{
+    "events": [
+        {
+            "id": "67561689",
+            "title": "J204_COURS\n\nEconomie\nCOURS_TD\n08:30 - 12:30\nMonsieur FOSSEY",
+            "start": "2026-04-20T08:30:00+0200",
+            "end": "2026-04-20T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67560960",
+            "title": "J109_CLASSLAB\n\nProjet Recherche - Réalisation\nPROJET\n13:30 - 17:30\nMonsieur CHATRIE",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561477",
+            "title": "J204_COURS\n\nSécurité des Réseaux\nTP\n08:30 - 12:30\nMonsieur MARCONATO",
+            "start": "2026-04-21T08:30:00+0200",
+            "end": "2026-04-21T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67561464",
+            "title": "J204_COURS\n\nSécurité des Réseaux\nTP\n13:30 - 17:30\nMonsieur MARCONATO",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67560994",
+            "title": "J109_CLASSLAB\n\nProjet Recherche - Réalisation\nPROJET\n08:30 - 12:30\nMonsieur PIROG",
+            "start": "2026-04-22T08:30:00+0200",
+            "end": "2026-04-22T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561290",
+            "title": "J204_COURS\n\nEthique de l'ingénieur\nCOURS_TD\n13:30 - 17:30\nMadame DAMERJIAN PIETERS,",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561387",
+            "title": "J204_COURS\n\nCompétences Managériales\nCOURS_TD\n08:30 - 11:30\nMadame CUISINAUD",
+            "start": "2026-04-23T08:30:00+0200",
+            "end": "2026-04-23T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561573",
+            "title": "J106_TP HYBRIDE\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:30\nMonsieur PIROG",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67561641",
+            "title": "J106_TP HYBRIDE\n\nFPGA et Microcontrôleurs\nTP\n10:30 - 12:30\nMonsieur PIROG",
+            "start": "2026-04-24T10:30:00+0200",
+            "end": "2026-04-24T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "66805826",
+            "title": "J106_TP HYBRIDE\n\nConception Web avancée\nPROJET\n13:30 - 17:30\nMonsieur DE CONTO",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561493",
+            "title": "J204_COURS\n\nSécurité des Réseaux\nTP\n08:30 - 12:30\nMonsieur MARCONATO",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67561507",
+            "title": "J204_COURS\n\nSécurité des Réseaux\nTP\n13:30 - 17:30\nMonsieur MARCONATO",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67480125",
+            "title": "J109_CLASSLAB\n\nAnglais - AP4\nCOURS_TD\n09:00 - 12:00\nMadame DURANT",
+            "start": "2026-04-28T09:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561011",
+            "title": "J109_CLASSLAB\n\nProjet Recherche - Réalisation\nPROJET\n13:30 - 17:30\nMonsieur CHATRIE",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561540",
+            "title": "J106_TP HYBRIDE\nEn autogéré\nFPGA et Microcontrôleurs\nCOURS_TD\n08:30 - 10:30\nMonsieur PIROG",
+            "start": "2026-04-29T08:30:00+0200",
+            "end": "2026-04-29T10:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561560",
+            "title": "J106_TP HYBRIDE\nen autogéré\nFPGA et Microcontrôleurs\nTP\n10:30 - 12:30\nMonsieur PIROG",
+            "start": "2026-04-29T10:30:00+0200",
+            "end": "2026-04-29T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "66805839",
+            "title": "J106_TP HYBRIDE\n\nConception Web avancée\nPROJET\n13:30 - 17:30\nMonsieur DE CONTO",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561400",
+            "title": "J204_COURS\n\nCompétences Managériales\nCOURS_TD\n08:30 - 11:30\nMadame CUISINAUD",
+            "start": "2026-04-30T08:30:00+0200",
+            "end": "2026-04-30T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561653",
+            "title": "J204_COURS\n\nEconomie\nCOURS_TD\n13:30 - 17:30\nMonsieur FOSSEY",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561067",
+            "title": "J109_CLASSLAB\nEn autonomie\nProjet Recherche - Réalisation\nPROJET\n08:30 - 12:30\nMonsieur CHATRIE",
+            "start": "2026-05-04T08:30:00+0200",
+            "end": "2026-05-04T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561605",
+            "title": "J106_TP HYBRIDE\nautonomie\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:30\nMonsieur PIROG",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "67561310",
+            "title": "J204_COURS\n\nEthique de l'ingénieur\nCOURS_TD\n09:30 - 12:30\nMadame DAMERJIAN PIETERS,",
+            "start": "2026-05-05T09:30:00+0200",
+            "end": "2026-05-05T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561028",
+            "title": "J109_CLASSLAB\n\nProjet Recherche - Réalisation\nPROJET\n13:30 - 17:30\nMonsieur PIROG",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561527",
+            "title": "J106_TP HYBRIDE\nen autonomie\nFPGA et Microcontrôleurs\nCOURS_TD\n08:30 - 12:30\nMonsieur PIROG",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561300",
+            "title": "J204_COURS\n\nEthique de l'ingénieur\nCOURS_TD\n13:30 - 16:30\nMadame DAMERJIAN PIETERS,",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "67561084",
+            "title": "J109_CLASSLAB\n\nProjet Recherche - Réalisation\nPROJET\n08:30 - 12:30\nMonsieur CHATRIE",
+            "start": "2026-05-07T08:30:00+0200",
+            "end": "2026-05-07T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "67561592",
+            "title": "J106_TP HYBRIDE\n\nFPGA et Microcontrôleurs\nTP\n13:30 - 17:30\nMonsieur PIROG",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70051733",
+            "title": "J204_COURS\n\nFPGA et Microcontrôleurs\nEXAM_SURV\n10:00 - 12:00\nMadame PAUL",
+            "start": "2026-05-11T10:00:00+0200",
+            "end": "2026-05-11T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "67561102",
+            "title": "J109_CLASSLAB\nEvaluation\nProjet Recherche - Réalisation\nSOUTENANCE\n13:30 - 17:30\nMonsieur CHATRIE",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70051936",
+            "title": "J103_COURS\n\nEthique de l'ingénieur\nEXAM_SURV\n10:00 - 12:00\nMadame DAMERJIAN PIETERS,",
+            "start": "2026-05-12T10:00:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76142446",
+            "title": "IC1_117\nPoint de fin de période - en distanciel\nPrésentation des options AP5\nPoint sur le rapport d'année\n\nREUNION\n13:30 - 15:30\nMonsieur CHÊNEVERT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71019642",
+            "title": "J206_COURS\nTravail personnel : Révisions, TOEIC, PFE, Projets, assos etc.\n\nAUTO_APPR\n15:30 - 16:30\nMonsieur PONASSIE",
+            "start": "2026-05-12T15:30:00+0200",
+            "end": "2026-05-12T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70052079",
+            "title": "J204_COURS\n\nEconomie\nEXAM_SURV\n10:00 - 12:00\nMadame PAUL",
+            "start": "2026-05-13T10:00:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70051184",
+            "title": "J204_COURS\n\nAnglais - AP4\nEXAM_SURV\n14:00 - 16:00\nMadame DURANT",
+            "start": "2026-05-13T14:00:00+0200",
+            "end": "2026-05-13T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71019468",
+            "title": "J206_COURS\nTravail personnel : Révisions, TOEIC, PFE, Projets, assos etc.\n\nAUTO_APPR\n09:00 - 12:00\nMonsieur PONASSIE",
+            "start": "2026-05-15T09:00:00+0200",
+            "end": "2026-05-15T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71019426",
+            "title": "J206_COURS\nTravail personnel : Révisions, TOEIC, PFE, Projets, assos etc.\n\nAUTO_APPR\n13:30 - 16:30\nMonsieur PONASSIE",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        }
+    ]
+}

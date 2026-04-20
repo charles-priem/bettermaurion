@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "id": "71875216",
+            "title": "IC2 B506     (H)\n\nGestion de production\nCOURS_TD\n13:30 - 17:55\nMonsieur HENNO",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71875229",
+            "title": "IC2 B506     (H)\n\nGestion de production\nCOURS_TD\n13:30 - 17:55\nMonsieur HENNO",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71875265",
+            "title": "IC1_130\n\nGestion de production\nCOURS_TD\n13:30 - 17:55\nMonsieur HENNO",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76141377",
+            "title": "IC2 B304     (H)\nconsultation copies\n\nREUNION\n13:30 - 14:30\nMadame DERUDDER",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "71875278",
+            "title": "IC1_130\n\nGestion de production\nCOURS_TD\n13:30 - 18:10\nMonsieur HENNO",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T18:10:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71875296",
+            "title": "IC1_130\n\nGestion de production\nCOURS_TD\n13:30 - 17:55\nMonsieur HENNO",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

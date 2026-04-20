@@ -1,161 +1,121 @@
 <?php
 session_start();
+require_once '../php/config.php';
 date_default_timezone_set('Europe/Paris');
 
+// Vérifier que l'utilisateur est connecté
+if (!isset($_SESSION['user_id'])) {
+    header('Location: ../Pages/connexion.php');
+    exit;
+}
+
 $weekOffset = isset($_GET['week']) ? (int)$_GET['week'] : 0;
-$dataPath = __DIR__ . '/../data/plannings_promotions.json';
+$dataPath = __DIR__ . '/../plannings/';
 
 $monday = new DateTime('monday this week');
 $monday->modify(($weekOffset >= 0 ? '+' : '') . $weekOffset . ' weeks');
-$sunday = clone $monday;
-$sunday->modify('+6 days');
+
+$saturday = clone $monday;
+$saturday->modify('+5 days');
 
 $weekStart = clone $monday;
 $weekStart->setTime(0, 0, 0);
-$weekEnd = clone $sunday;
+
+$weekEnd = clone $saturday;
 $weekEnd->setTime(23, 59, 59);
 
-$weekLabel = 'Semaine ' . $monday->format('W') . ' - ' . $monday->format('d') . ' au ' . $sunday->format('d M Y');
+$weekLabel = 'Semaine ' . $monday->format('W') . ' - ' . $monday->format('d') . ' au ' . $saturday->format('d M Y');
 $error = '';
 
-function parsePromotionKey(string $key): array {
-  $parts = explode('-', trim($key), 2);
-  return [
-    trim($parts[0] ?? ''),
-    trim($parts[1] ?? ''),
-  ];
-}
+function buildPromotionsUrl(array $params = []): string {
+  $query = array_merge([
+    'week' => isset($_GET['week']) ? (int)$_GET['week'] : 0,
+  ], $params);
 
-function buildPlanningCatalogTree(array $catalogEntries): array {
-  $tree = [];
-
-  foreach ($catalogEntries as $entry) {
-    if (!is_array($entry)) {
-      continue;
-    }
-
-    $parentLabel = trim((string)($entry['label'] ?? $entry['choiceLabel'] ?? $entry['parent'] ?? ''));
-    if ($parentLabel === '') {
-      continue;
-    }
-
-    $parentValue = trim((string)($entry['choiceIdInit'] ?? $parentLabel));
-    if ($parentValue === '') {
-      $parentValue = $parentLabel;
-    }
-
-    $tree[$parentValue] = [
-      'label' => $parentLabel,
-      'value' => $parentValue,
-      'choiceIdInit' => trim((string)($entry['choiceIdInit'] ?? '')),
-      'codes' => (int)($entry['codes'] ?? 0),
-      'children' => [],
-    ];
-
-    $children = $entry['children'] ?? [];
-    if (!is_array($children)) {
-      continue;
-    }
-
-    foreach ($children as $childEntry) {
-      if (!is_array($childEntry)) {
-        continue;
-      }
-
-      $childLabel = trim((string)($childEntry['label'] ?? $childEntry['choiceLabel'] ?? $childEntry['resolvedLabel'] ?? ''));
-      if ($childLabel === '') {
-        continue;
-      }
-
-      $childValue = trim((string)($childEntry['choiceIdInit'] ?? $childEntry['planningIdInit'] ?? $childLabel));
-      if ($childValue === '') {
-        $childValue = $childLabel;
-      }
-
-      $childNode = [
-        'label' => $childLabel,
-        'value' => $childValue,
-        'choiceIdInit' => trim((string)($childEntry['choiceIdInit'] ?? '')),
-        'planningIdInit' => trim((string)($childEntry['planningIdInit'] ?? '')),
-        'resolvedLabel' => trim((string)($childEntry['resolvedLabel'] ?? '')),
-        'events' => is_array($childEntry['events'] ?? null) ? array_values($childEntry['events']) : [],
-      ];
-
-      $tree[$parentValue]['children'][$childValue] = $childNode;
-      $tree[$parentValue]['count'] = ($tree[$parentValue]['count'] ?? 0) + count($childNode['events']);
-    }
+  foreach ($query as $key => $value) {
+    if ($value === null || $value === '') unset($query[$key]);
   }
 
-  uasort($tree, static function (array $left, array $right): int {
-    return strnatcasecmp((string)($left['label'] ?? ''), (string)($right['label'] ?? ''));
-  });
-
-  foreach ($tree as $parentKey => $group) {
-    $children = $group['children'] ?? [];
-    if (is_array($children)) {
-      uasort($children, static function (array $left, array $right): int {
-        return strnatcasecmp((string)($left['label'] ?? ''), (string)($right['label'] ?? ''));
-      });
-      $group['children'] = $children;
-    }
-    $tree[$parentKey] = $group;
-  }
-
-  return $tree;
+  return '?' . http_build_query($query);
 }
 
-function buildPromotionTree(array $rawPromotions): array {
+function prettyPlanningLabel(string $raw): string {
+  $raw = trim($raw);
+  if ($raw === '') return '';
+
+  $parts = preg_split('/_+/', $raw);
+
+  $parts = array_values(array_filter($parts, static function ($p) {
+    $p = strtoupper(trim((string)$p));
+    return $p !== '' && !in_array($p, ['COMPLET', 'COMPLETE', 'FULL'], true);
+  }));
+
+  if ($parts === []) return $raw;
+
+  $yearIndicators = ['A1','A2','A3','A4','A5','CIR1','CIR2','CIR3','CSI3','AP3','AP4','AP5','M1','M2','CPG2'];
+
+  $year = '';
+  foreach ($parts as $p) {
+    $u = strtoupper($p);
+    if (in_array($u, $yearIndicators, true)) { $year = $u; break; }
+  }
+
+  $name = ucfirst(strtolower($parts[0])); // ISEN -> Isen
+  return $year !== '' ? ($name . ' ' . $year) : $name;
+}
+
+function buildPromotionTreeFromFiles(string $basePath): array {
   $tree = [];
+  if (!is_dir($basePath)) return [];
 
-  foreach ($rawPromotions as $rawKey => $events) {
-    if (!is_array($events)) {
-      continue;
+  $yearIndicators = ['A1','A2','A3','A4','A5','CIR1','CIR2','CIR3','CSI3','AP3','AP4','AP5','M1','M2','CPG2'];
+
+  foreach (new DirectoryIterator($basePath) as $file) {
+    if (!$file->isFile() || strtolower($file->getExtension()) !== 'json') continue;
+
+    $filename = $file->getBasename('.json'); // ex: ADIMAKER_Lille_A1_COMPLET
+    $parts = explode('_', $filename);
+
+    $parentParts = [];
+    $foundYear = false;
+
+    foreach ($parts as $part) {
+      if (!$foundYear && in_array($part, $yearIndicators, true)) $foundYear = true;
+      if (!$foundYear) $parentParts[] = $part;
     }
 
-    $key = trim((string)$rawKey);
-    if ($key === '') {
-      continue;
-    }
+    if ($parentParts === []) $parentParts = [$parts[0] ?? $filename];
 
-    [$parent, $child] = parsePromotionKey($key);
-    if ($parent === '') {
-      $parent = $key;
-    }
-    if ($child === '') {
-      $child = 'Principal';
-    }
-
-    if (!isset($tree[$parent])) {
-      $tree[$parent] = [
-        'label' => $parent,
-        'count' => 0,
+    $parentKey = implode('_', $parentParts);
+    if (!isset($tree[$parentKey])) {
+      $tree[$parentKey] = [
+        'label' => str_replace('_', ' ', $parentKey),
         'children' => [],
       ];
     }
 
-    $eventCount = count($events);
-    $tree[$parent]['children'][$child] = [
-      'label' => $child,
-      'key' => $key,
-      'count' => $eventCount,
-      'events' => array_values($events),
+    // count events
+    $eventCount = 0;
+    $filePath = rtrim($basePath, '/\\') . DIRECTORY_SEPARATOR . $filename . '.json';
+    $raw = @file_get_contents($filePath);
+    $decoded = is_string($raw) ? json_decode($raw, true) : null;
+    if (is_array($decoded)) {
+      $eventsData = is_array($decoded['events'] ?? null) ? $decoded['events'] : [];
+      $eventCount = count($eventsData);
+    }
+
+    $tree[$parentKey]['children'][$filename] = [
+      'planningIdInit' => $filename,
+      'label' => prettyPlanningLabel($filename),
+      'eventCount' => $eventCount,
     ];
-    $tree[$parent]['count'] += $eventCount;
   }
 
-  uasort($tree, static function (array $left, array $right): int {
-    return strnatcasecmp((string)($left['label'] ?? ''), (string)($right['label'] ?? ''));
-  });
-  foreach ($tree as $parentKey => $group) {
-    $children = $group['children'] ?? [];
-    if (is_array($children)) {
-      uasort($children, static function (array $left, array $right): int {
-        return strnatcasecmp((string)($left['label'] ?? ''), (string)($right['label'] ?? ''));
-      });
-      $group['children'] = $children;
-    }
-    $tree[$parentKey] = $group;
+  uasort($tree, static fn($a, $b) => strnatcasecmp($a['label'] ?? '', $b['label'] ?? ''));
+  foreach ($tree as &$p) {
+    uasort($p['children'], static fn($a, $b) => strnatcasecmp($a['label'] ?? '', $b['label'] ?? ''));
   }
+  unset($p);
 
   return $tree;
 }
@@ -167,45 +127,35 @@ function eventTypeKeys(?string $className, ?string $typeRaw = null): array {
   ];
 
   foreach ($sources as $source) {
-    if ($source === '') {
-      continue;
-    }
+    if ($source === '') continue;
 
-    if (str_contains($source, 'EPREUVE') || in_array($source, ['CC', 'DS', 'EXAM', 'PARTIEL', 'RATTRAPAGE', 'INTERRO_SURV'], true)) {
-      return ['exam'];
-    }
+    if (
+      str_contains($source, 'EPREUVE') ||
+      str_contains($source, 'CC') ||
+      str_contains($source, 'DS') ||
+      str_contains($source, 'EXAM') ||
+      str_contains($source, 'PARTIEL') ||
+      str_contains($source, 'RATTRAPAGE') ||
+      str_contains($source, 'INTERRO')
+    ) return ['exam'];
 
     $types = [];
-    if (str_contains($source, 'PROJET')) {
-      $types[] = 'projet';
-    }
+    if (str_contains($source, 'PROJET')) $types[] = 'projet';
 
     $hasCours = str_contains($source, 'COURS');
     $hasTd = str_contains($source, 'TD');
     $hasTp = str_contains($source, 'TP');
 
-    if ($hasCours && $hasTd) {
-      $types[] = 'cours';
-      $types[] = 'td';
-    } elseif ($hasTp) {
-      $types[] = 'tp';
-    } elseif ($hasTd) {
-      $types[] = 'td';
-    } elseif ($hasCours) {
-      $types[] = 'cours';
-    }
+    if ($hasCours && $hasTd) $types = array_merge($types, ['cours','td']);
+    elseif ($hasTp) $types[] = 'tp';
+    elseif ($hasTd) $types[] = 'td';
+    elseif ($hasCours) $types[] = 'cours';
 
     $types = array_values(array_unique($types));
-    if ($types !== []) {
-      return $types;
-    }
+    if ($types !== []) return $types;
   }
 
   return ['cours'];
-}
-
-function eventTypeKey(?string $className): string {
-  return eventTypeKeys($className)[0] ?? 'cours';
 }
 
 function eventTypeLabel(string $type): string {
@@ -219,14 +169,14 @@ function eventTypeLabel(string $type): string {
 }
 
 function eventTypeLabelList(array $types): string {
-  $labels = array_map(static fn(string $type): string => eventTypeLabel($type), $types);
+  $labels = array_map(static fn($t) => eventTypeLabel((string)$t), $types);
   $labels = array_values(array_unique($labels));
-
   return implode(' / ', $labels);
 }
 
-function typeColor(string $class): string {
-  return match (eventTypeKey($class)) {
+function typeColor(string $classOrType): string {
+  $key = eventTypeKeys($classOrType)[0] ?? 'cours';
+  return match ($key) {
     'exam' => 'type-exam',
     'tp' => 'type-tp',
     'td' => 'type-td',
@@ -235,217 +185,141 @@ function typeColor(string $class): string {
   };
 }
 
-function buildPromotionsUrl(array $params = []): string {
-  $query = array_merge([
-    'week' => isset($_GET['week']) ? (int)$_GET['week'] : 0,
-  ], $params);
+function parseEventDate(?string $value): ?DateTime {
+  if (!is_string($value) || $value === '') return null;
 
-  foreach ($query as $key => $value) {
-    if ($value === null || $value === '') {
-      unset($query[$key]);
-    }
-  }
+  $dt = DateTime::createFromFormat('Y-m-d\\TH:i:sO', $value);
+  if ($dt instanceof DateTime) return $dt;
 
-  return '?' . http_build_query($query);
+  $ts = strtotime($value);
+  if ($ts === false) return null;
+
+  $fallback = new DateTime();
+  $fallback->setTimestamp($ts);
+  return $fallback;
 }
 
-$raw = @file_get_contents($dataPath);
-$decoded = is_string($raw) ? json_decode($raw, true) : null;
-$catalogEntries = is_array($decoded) && isset($decoded['planningCatalog']) && is_array($decoded['planningCatalog'])
-  ? $decoded['planningCatalog']
-  : [];
-$legacyPromotions = is_array($decoded) && isset($decoded['promotions']) && is_array($decoded['promotions'])
-  ? $decoded['promotions']
-  : [];
-
-if ($catalogEntries === [] && $legacyPromotions === []) {
-  $error = 'Aucune donnee de planning chargee. Remplis data/plannings_promotions.json.';
+function validateEvent($event): bool {
+  return is_array($event)
+    && isset($event['start'], $event['end'], $event['title'])
+    && is_string($event['start']) && $event['start'] !== ''
+    && is_string($event['end']) && $event['end'] !== ''
+    && is_string($event['title']);
 }
 
-$usingPlanningCatalog = $catalogEntries !== [];
-$promotionTree = $usingPlanningCatalog
-  ? buildPlanningCatalogTree($catalogEntries)
-  : buildPromotionTree($legacyPromotions);
+function parseTitleParts(?string $title): array {
+  $title = is_string($title) ? $title : '';
+  $parts = array_map('trim', preg_split('/\r\n|\r|\n/', $title));
+  $parts = array_values(array_filter($parts, static fn($p) => $p !== ''));
+
+  // 5 lignes: salle, matière, type, horaires, prof
+  // 4 lignes: salle, matière, type, prof
+  $salle = $parts[0] ?? '';
+  $matiere = $parts[1] ?? 'Sans titre';
+  $typeRaw = $parts[2] ?? '';
+  $prof = '';
+
+  if (isset($parts[4])) $prof = $parts[4];
+  elseif (isset($parts[3]) && !preg_match('/\d{1,2}:\d{2}\s*-\s*\d{1,2}:\d{2}/', $parts[3])) $prof = $parts[3];
+
+  return compact('salle', 'matiere', 'typeRaw', 'prof');
+}
+
+function clampInt(int $v, int $min, int $max): int {
+  return max($min, min($max, $v));
+}
+
+/* ========= LOAD TREE ========= */
+$promotionTree = buildPromotionTreeFromFiles($dataPath);
 $promotionParents = array_keys($promotionTree);
 
-$requestedParent = trim((string)($_GET['promo'] ?? ''));
-$requestedChild = trim((string)($_GET['child'] ?? ''));
-
-$selectedParent = '';
-$selectedChild = '';
-
-if ($requestedParent !== '') {
-  if (isset($promotionTree[$requestedParent])) {
-    $selectedParent = $requestedParent;
-  } else {
-    foreach ($promotionTree as $parentKey => $parentNode) {
-      if (
-        $parentNode['label'] === $requestedParent ||
-        ($parentNode['choiceIdInit'] ?? '') === $requestedParent ||
-        ($parentNode['value'] ?? '') === $requestedParent
-      ) {
-        $selectedParent = $parentKey;
-        break;
-      }
-    }
-
-    if ($selectedParent === '' && !$usingPlanningCatalog) {
-      [$maybeParent, $maybeChild] = parsePromotionKey($requestedParent);
-      if ($maybeParent !== '' && isset($promotionTree[$maybeParent])) {
-        $selectedParent = $maybeParent;
-        $selectedChild = $requestedChild !== '' ? $requestedChild : $maybeChild;
-      }
-    }
-  }
-}
-
-if ($selectedParent === '') {
+$selectedParent = trim((string)($_GET['promo'] ?? ''));
+if ($selectedParent === '' || !isset($promotionTree[$selectedParent])) {
   $selectedParent = $promotionParents[0] ?? '';
 }
 
-$childOptions = $selectedParent !== '' ? array_keys($promotionTree[$selectedParent]['children']) : [];
-if ($requestedChild !== '' && $selectedParent !== '') {
-  if (isset($promotionTree[$selectedParent]['children'][$requestedChild])) {
-    $selectedChild = $requestedChild;
-  } else {
-    foreach ($promotionTree[$selectedParent]['children'] as $childKey => $childNode) {
-      if (
-        $childNode['label'] === $requestedChild ||
-        ($childNode['choiceIdInit'] ?? '') === $requestedChild ||
-        ($childNode['planningIdInit'] ?? '') === $requestedChild ||
-        ($childNode['value'] ?? '') === $requestedChild
-      ) {
-        $selectedChild = $childKey;
-        break;
-      }
-    }
-  }
-}
-
+$childOptions = $selectedParent !== '' ? array_keys($promotionTree[$selectedParent]['children'] ?? []) : [];
+$selectedChild = trim((string)($_GET['child'] ?? ''));
 if ($selectedChild === '' || !isset($promotionTree[$selectedParent]['children'][$selectedChild])) {
   $selectedChild = $childOptions[0] ?? '';
 }
 
-$selectedNode = $selectedParent !== '' && $selectedChild !== ''
-  ? ($promotionTree[$selectedParent]['children'][$selectedChild] ?? null)
-  : null;
-
-if (!$selectedNode && $selectedParent !== '') {
-  $selectedChild = $childOptions[0] ?? '';
-  $selectedNode = $selectedChild !== '' ? ($promotionTree[$selectedParent]['children'][$selectedChild] ?? null) : null;
-}
-
-$selectedChoiceId = (string)($selectedNode['choiceIdInit'] ?? '');
-$selectedPlanningId = (string)($selectedNode['planningIdInit'] ?? '');
-$selectedPathLabel = $selectedParent !== ''
-  ? ($selectedChild !== '' ? ($promotionTree[$selectedParent]['label'] ?? $selectedParent) . ' > ' . ($selectedNode['label'] ?? $selectedChild) : ($promotionTree[$selectedParent]['label'] ?? $selectedParent))
-  : '';
+$selectedPlanningId = (string)($promotionTree[$selectedParent]['children'][$selectedChild]['planningIdInit'] ?? '');
 
 $events = [];
-
-// Si mode legacy (pas catalog), charge depuis JSON
-if (!$usingPlanningCatalog && isset($legacyPromotions[$selectedChild]) && is_array($legacyPromotions[$selectedChild])) {
-  $events = $legacyPromotions[$selectedChild];
-}
-// Si mode catalog, les événements seront chargés par AJAX
-
-$catalogNotice = '';
-if ($usingPlanningCatalog && $selectedNode && $events === []) {
-  $catalogNotice = 'Aucun événement n\'est encore associé à cette sélection. Les identifiants de navigation sont bien chargés, mais les données d\'emploi du temps n\'ont pas été récupérées pour ce planning.';
-}
-
-$eventTypeCounts = [
-  'cours' => 0,
-  'tp' => 0,
-  'td' => 0,
-  'projet' => 0,
-  'exam' => 0,
-];
-foreach ($events as $ev) {
-  $titleParts = parseTitleParts($ev['title'] ?? '');
-  $typeKeys = eventTypeKeys($ev['className'] ?? '', $titleParts['typeRaw']);
-  foreach ($typeKeys as $typeKey) {
-    if (isset($eventTypeCounts[$typeKey])) {
-      $eventTypeCounts[$typeKey]++;
-    }
+if ($selectedChild !== '') {
+  $filePath = rtrim($dataPath, '/\\') . DIRECTORY_SEPARATOR . $selectedChild . '.json';
+  if (file_exists($filePath)) {
+    $raw = @file_get_contents($filePath);
+    $decoded = is_string($raw) ? json_decode($raw, true) : null;
+    if (is_array($decoded)) $events = is_array($decoded['events'] ?? null) ? $decoded['events'] : [];
   }
 }
 
+/* ========= BUILD WEEK DAYS ========= */
 $days = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
 $dayDates = [];
 for ($i = 0; $i < 6; $i++) {
-    $d = clone $monday;
-    $d->modify('+' . $i . ' days');
-    $dayDates[$i] = $d->format('Y-m-d');
+  $d = clone $monday;
+  $d->modify('+' . $i . ' days');
+  $dayDates[$i] = $d->format('Y-m-d');
 }
 
-function parseEventDate(?string $value): ?DateTime {
-    if (!is_string($value) || $value === '') {
-        return null;
-    }
-    $dt = DateTime::createFromFormat('Y-m-d\\TH:i:sO', $value);
-    if ($dt instanceof DateTime) {
-        return $dt;
-    }
-    $ts = strtotime($value);
-    if ($ts === false) {
-        return null;
-    }
-    $fallback = new DateTime();
-    $fallback->setTimestamp($ts);
-    return $fallback;
-}
+/* ========= TIMELINE SETTINGS ========= */
+$dayStartMin = 8 * 60;       // 08:00
+$dayEndMin = 20 * 60;        // 20:00
+$minutePx = 1.2;             // 1 minute = 1.2px
+$timelineHeight = (int)(($dayEndMin - $dayStartMin) * $minutePx);
 
-function parseTitleParts(?string $title): array {
-    $title = is_string($title) ? $title : '';
-    $parts = array_map('trim', preg_split('/\r\n|\r|\n/', $title));
-    $parts = array_values(array_filter($parts, static fn($p) => $p !== ''));
-    return [
-        'salle' => $parts[0] ?? '',
-        'matiere' => $parts[1] ?? 'Sans titre',
-        'typeRaw' => $parts[2] ?? '',
-        'prof' => $parts[3] ?? '',
-    ];
-}
+$lunchStart = 12 * 60;       // 12:00
+$lunchEnd = 13 * 60 + 30;    // 13:30
+$lunchTop = (int)(($lunchStart - $dayStartMin) * $minutePx);
+$lunchHeight = (int)(($lunchEnd - $lunchStart) * $minutePx);
 
+/* ========= GROUP EVENTS BY DAY ========= */
+$eventTypeCounts = ['cours'=>0,'tp'=>0,'td'=>0,'projet'=>0,'exam'=>0];
 $eventsByDay = array_fill(0, 6, []);
+
 foreach ($events as $ev) {
-    $start = parseEventDate($ev['start'] ?? null);
-    $end = parseEventDate($ev['end'] ?? null);
-    if (!$start || !$end) {
-        continue;
-    }
-    if ($start < $weekStart || $start > $weekEnd) {
-        continue;
-    }
+  if (!validateEvent($ev)) continue;
 
-    $dateKey = $start->format('Y-m-d');
-    $dayIdx = array_search($dateKey, $dayDates, true);
-    if ($dayIdx === false) {
-        continue;
-    }
+  $start = parseEventDate($ev['start']);
+  $end = parseEventDate($ev['end']);
+  if (!$start || !$end) continue;
 
-    $titleParts = parseTitleParts($ev['title'] ?? '');
-    $className = (string)($ev['className'] ?? '');
-    $typeKeys = eventTypeKeys($className, $titleParts['typeRaw']);
-    $primaryType = $typeKeys[0] ?? 'cours';
+  if ($start < $weekStart || $start > $weekEnd) continue;
 
-    $eventsByDay[$dayIdx][] = [
-        'id' => (string)($ev['id'] ?? ''),
-        'startTime' => $start->format('H:i'),
-        'endTime' => $end->format('H:i'),
-        'salle' => $titleParts['salle'],
-        'matiere' => $titleParts['matiere'],
-        'prof' => $titleParts['prof'],
-        'className' => $className,
-      'typeKeys' => $typeKeys,
-      'typeClass' => typeColor($primaryType),
-      'typeLabel' => eventTypeLabelList($typeKeys),
-    ];
+  $dateKey = $start->format('Y-m-d');
+  $dayIdx = array_search($dateKey, $dayDates, true);
+  if ($dayIdx === false) continue;
+
+  $titleParts = parseTitleParts($ev['title'] ?? '');
+  $className = (string)($ev['className'] ?? '');
+
+  $typeKeys = eventTypeKeys($className, $titleParts['typeRaw'] ?? '');
+  foreach ($typeKeys as $t) if (isset($eventTypeCounts[$t])) $eventTypeCounts[$t]++;
+
+  $startMin = ((int)$start->format('H'))*60 + (int)$start->format('i');
+  $endMin = ((int)$end->format('H'))*60 + (int)$end->format('i');
+
+  $eventsByDay[$dayIdx][] = [
+    'id' => (string)($ev['id'] ?? ''),
+    'startTime' => $start->format('H:i'),
+    'endTime' => $end->format('H:i'),
+    'startMin' => $startMin,
+    'endMin' => $endMin,
+    'salle' => (string)($titleParts['salle'] ?? ''),
+    'matiere' => (string)($titleParts['matiere'] ?? 'Sans titre'),
+    'prof' => (string)($titleParts['prof'] ?? ''),
+    'className' => $className,
+    'typeKeys' => $typeKeys,
+    'typeClass' => typeColor($typeKeys[0] ?? 'cours'),
+    'typeLabel' => eventTypeLabelList($typeKeys),
+  ];
 }
 
 foreach ($eventsByDay as &$dayEvs) {
-    usort($dayEvs, static fn($a, $b) => strcmp($a['startTime'], $b['startTime']));
+  usort($dayEvs, static fn($a, $b) => strcmp($a['startTime'] ?? '', $b['startTime'] ?? ''));
 }
 unset($dayEvs);
 
@@ -461,41 +335,76 @@ $todayStr = (new DateTime())->format('Y-m-d');
   <style>
     body { font-family: Arial, sans-serif; background: #f4f4f4; }
     .wrap { max-width: 1280px; margin: 24px auto; padding: 0 16px; }
-    .toolbar { display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:space-between; margin-bottom:12px; }
+
+    .toolbar { display:flex; gap:12px; align-items:center; justify-content:space-between; margin-bottom:12px; flex-wrap:wrap; }
     .toolbar h1 { margin:0; font-size:24px; }
-    .filters { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
-    .filters select, .filters button, .filters a { height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px; text-decoration:none; color:#111; }
-    .selection-form { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
-    .selection-form label { font-weight:600; }
-    .selection-form select { min-width: 190px; }
-    .selection-summary { font-size:13px; color:#555; }
+
+    .filters { display:flex; gap:10px; align-items:center; flex-wrap:nowrap; }
+    .selection-form { display:flex; gap:10px; align-items:center; flex-wrap:nowrap; }
+    .selection-form label { font-weight:600; white-space:nowrap; }
+    .selection-form select { min-width: 170px; height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px; }
+
     .week-nav { display:flex; gap:8px; align-items:center; }
     .week-label { min-width:260px; text-align:center; font-weight:600; }
-    .notice { background:#fff3cd; border:1px solid #ffe69c; padding:10px 12px; border-radius:8px; margin-bottom:10px; }
+    .filters a, .week-nav a, .type-filters button {
+      height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px;
+      text-decoration:none; color:#111; display:inline-flex; align-items:center;
+    }
+
+    .selection-summary { font-size:13px; color:#555; margin-bottom:10px; }
+
     .type-filters { display:flex; gap:12px; flex-wrap:wrap; align-items:center; padding:12px 14px; background:#fff; border:1px solid #ddd; border-radius:12px; margin-bottom:12px; }
     .type-filters strong { margin-right:4px; }
     .type-filters label { display:inline-flex; gap:6px; align-items:center; font-size:13px; background:#f8fafc; border:1px solid #e5e7eb; border-radius:999px; padding:6px 10px; cursor:pointer; }
     .type-filters input { accent-color:#111; }
-    .type-filters button { height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px; cursor:pointer; }
-    table { width:100%; border-collapse:collapse; table-layout:fixed; background:#fff; border:1px solid #ddd; }
-    th, td { border:1px solid #ddd; vertical-align:top; }
-    th { background:#fafafa; padding:10px 6px; text-align:center; }
-    td { padding:8px; min-height:120px; }
-    .day-date { display:block; font-weight:700; margin-top:4px; }
-    .today .day-date { display:inline-flex; width:30px; height:30px; border-radius:50%; align-items:center; justify-content:center; background:#111; color:#fff; }
-    .ev { padding:8px; border-left:4px solid #999; border-radius:6px; margin-bottom:7px; background:#f7f7f7; font-size:13px; }
+
+    /* ===== TIMELINE ===== */
+    .timeline { background:#fff; border:1px solid #ddd; border-radius:10px; overflow:hidden; }
+    .timeline-header { display:grid; grid-template-columns: 90px repeat(6, 1fr); }
+    .timeline-head { padding:10px 6px; text-align:center; background:#fafafa; border-right:1px solid #ddd; }
+    .timeline-head:last-child { border-right:0; }
+    .timeline-head.is-today { background:#111; color:#fff; }
+
+    .timeline-body { display:grid; grid-template-columns: 90px repeat(6, 1fr); }
+    .hours-col { position:relative; background:#fafafa; border-right:1px solid #ddd; }
+    .hour-label { position:absolute; left:8px; transform: translateY(-50%); font-size:12px; color:#666; }
+
+    .day-col { position:relative; border-right:1px solid #ddd; overflow:hidden; }
+    .day-col:last-child { border-right:0; }
+
+    .hour-line { position:absolute; left:0; right:0; height:1px; background:#f1f5f9; }
+    .lunch-band {
+      position:absolute; left:0; right:0;
+      background: repeating-linear-gradient(
+        45deg,
+        rgba(0,0,0,0.04),
+        rgba(0,0,0,0.04) 6px,
+        rgba(0,0,0,0.00) 6px,
+        rgba(0,0,0,0.00) 12px
+      );
+      border-top: 2px solid rgba(0,0,0,0.12);
+      border-bottom: 2px solid rgba(0,0,0,0.12);
+      pointer-events:none;
+    }
+
+    .ev { padding:8px; border-left:4px solid #999; border-radius:6px; background:#f7f7f7; font-size:13px; box-sizing:border-box; }
     .ev.is-hidden { display:none; }
-    .ev:last-child { margin-bottom:0; }
     .ev-time { font-size:12px; font-weight:700; }
     .ev-badge { display:inline-block; margin-left:8px; padding:2px 8px; border-radius:999px; background:rgba(255,255,255,0.75); font-size:11px; font-weight:700; }
     .ev-matiere { font-weight:700; margin:3px 0; }
     .ev-meta { color:#555; font-size:12px; }
+
+    .ev-abs { position:absolute; left:6px; right:6px; overflow:hidden; }
+
     .type-cours { background:#dbeafe; border-color:#60a5fa; }
     .type-tp { background:#dcfce7; border-color:#4ade80; }
     .type-td { background:#fef3c7; border-color:#f59e0b; }
     .type-projet { background:#ede9fe; border-color:#8b5cf6; }
     .type-exam { background:#fee2e2; border-color:#ef4444; }
-    .empty { color:#888; text-align:center; padding:20px 0; }
+
+    @media (max-width: 800px) {
+      .filters, .selection-form { flex-wrap:wrap; }
+    }
   </style>
 </head>
 <body>
@@ -503,11 +412,39 @@ $todayStr = (new DateTime())->format('Y-m-d');
     <nav class="nav">
       <ul class="nav_list">
         <li class="nav_item _dropdown">
-          <button class="dropbtn">Emploi du temps</button>
+          <button class="dropbtn">Emploi du temps <i class="fa fa-caret-down"></i></button>
           <div class="dropdown-content">
             <a href="../Pages/EDT_perso.php">Mon emploi du temps</a>
             <a href="../Pages/EDT_promotions.php">Emploi du temps par promotions</a>
           </div>
+        </li>
+        <li class="nav_item_dropdown">
+          <button class="dropbtn">Bâtiments <i class="fa fa-caret-down"></i></button>
+          <div class="dropdown-content">
+            <a href="#">IC1 </a>
+            <a href="#">IC2 </a>
+            <a href="#">ALG </a>
+            <a href="#">MF </a>
+          </div>
+        </li>
+        <li class="nav_item_dropdown">
+          <button class="dropbtn">Services junia <i class="fa fa-caret-down"></i></button>
+          <div class="dropdown-content">
+            <a href="#">Aurion</a>
+            <a href="#">Junia learning</a>
+            <a href="#">OneDrive</a>
+          </div>
+        </li>
+        <li class="nav_connection">
+          <?php if (isset($_SESSION['user_id'])): ?>
+            <a href="../Pages/profil.php">
+              <img src="../uploads/<?= $_SESSION['photo_profil']; ?>" alt="Photo de Profil" class="profile-photo" width="40" height="40" style="border-radius: 50%; border: 2px solid #fff;">
+            </a>
+            <a href="../Pages/profil.php?logout=true"><button>Se déconnecter</button></a>
+          <?php else: ?>
+            <a class="nav_connection" href="../Pages/connexion.php">Connexion</a>
+            <a href="../Pages/inscription.php">S'inscrire</a>
+          <?php endif; ?>
         </li>
       </ul>
     </nav>
@@ -519,11 +456,12 @@ $todayStr = (new DateTime())->format('Y-m-d');
       <div class="filters">
         <form method="get" action="" class="selection-form">
           <input type="hidden" name="week" value="<?= (int)$weekOffset ?>">
+
           <label for="promo">Promotion</label>
           <select id="promo" name="promo" onchange="this.form.submit()">
             <?php foreach ($promotionParents as $parent): ?>
-              <option value="<?= htmlspecialchars($promotionTree[$parent]['choiceIdInit'] ?: $promotionTree[$parent]['value'] ?: $parent) ?>" <?= $parent === $selectedParent ? 'selected' : '' ?>>
-                <?= htmlspecialchars($promotionTree[$parent]['label'] ?? $parent) ?> (<?= (int)(count($promotionTree[$parent]['children'] ?? [])) ?>)
+              <option value="<?= htmlspecialchars($parent) ?>" <?= $parent === $selectedParent ? 'selected' : '' ?>>
+                <?= htmlspecialchars($promotionTree[$parent]['label'] ?? $parent) ?>
               </option>
             <?php endforeach; ?>
           </select>
@@ -532,7 +470,7 @@ $todayStr = (new DateTime())->format('Y-m-d');
           <select id="child" name="child" onchange="this.form.submit()">
             <?php foreach ($childOptions as $child): ?>
               <?php $childNode = $promotionTree[$selectedParent]['children'][$child]; ?>
-              <option value="<?= htmlspecialchars($childNode['choiceIdInit'] ?: $childNode['planningIdInit'] ?: $child) ?>" data-planning-id="<?= htmlspecialchars($childNode['planningIdInit'] ?? '') ?>" <?= $child === $selectedChild ? 'selected' : '' ?>>
+              <option value="<?= htmlspecialchars($child) ?>" <?= $child === $selectedChild ? 'selected' : '' ?>>
                 <?= htmlspecialchars($childNode['label'] ?? $child) ?>
               </option>
             <?php endforeach; ?>
@@ -550,20 +488,7 @@ $todayStr = (new DateTime())->format('Y-m-d');
       <a href="<?= htmlspecialchars(buildPromotionsUrl(['promo' => $selectedParent, 'child' => $selectedChild, 'week' => 0])) ?>">Aujourd'hui</a>
     </div>
 
-    <div class="selection-summary">
-      Sélection courante: <strong><?= htmlspecialchars($selectedPathLabel ?: 'Aucune sélection') ?></strong>
-      <?php if ($selectedChoiceId !== ''): ?>
-        <span> - choiceIdInit: <?= htmlspecialchars($selectedChoiceId) ?></span>
-      <?php endif; ?>
-      <?php if ($selectedPlanningId !== ''): ?>
-        <span> - planningIdInit: <?= htmlspecialchars($selectedPlanningId) ?></span>
-      <?php endif; ?>
-    </div>
-
-    <?php if ($catalogNotice !== ''): ?>
-      <div class="notice"><?= htmlspecialchars($catalogNotice) ?></div>
-    <?php endif; ?>
-
+ 
     <div class="type-filters" id="type-filters">
       <strong>Afficher</strong>
       <label><input type="checkbox" data-type-toggle value="cours" checked> Cours <span>(<?= (int)$eventTypeCounts['cours'] ?>)</span></label>
@@ -574,55 +499,64 @@ $todayStr = (new DateTime())->format('Y-m-d');
       <button type="button" id="reset-types">Tout afficher</button>
     </div>
 
-    <?php if ($error !== ''): ?>
-      <div class="notice"><?= htmlspecialchars($error) ?></div>
-    <?php endif; ?>
+    <div class="timeline">
+      <div class="timeline-header">
+        <div class="timeline-head">Heure</div>
+        <?php foreach ($days as $i => $dayName):
+          $d = clone $monday;
+          $d->modify('+' . $i . ' days');
+          $isToday = $d->format('Y-m-d') === $todayStr;
+        ?>
+          <div class="timeline-head <?= $isToday ? 'is-today' : '' ?>">
+            <?= htmlspecialchars($dayName) ?><br>
+            <strong><?= htmlspecialchars($d->format('d')) ?></strong>
+          </div>
+        <?php endforeach; ?>
+      </div>
 
-    <table>
-      <thead>
-        <tr>
-          <?php foreach ($days as $i => $dayName):
-            $d = clone $monday;
-            $d->modify('+' . $i . ' days');
-            $isToday = $d->format('Y-m-d') === $todayStr;
-          ?>
-            <th class="<?= $isToday ? 'today' : '' ?>">
-              <?= htmlspecialchars($dayName) ?>
-              <span class="day-date"><?= $d->format('d') ?></span>
-            </th>
-          <?php endforeach; ?>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <?php foreach ($eventsByDay as $dayEvents): ?>
-            <td>
-              <?php if ($usingPlanningCatalog): ?>
-                <div class="empty">Chargement...</div>
-              <?php elseif (count($dayEvents) === 0): ?>
-                <div class="empty">-</div>
-              <?php else: ?>
-                <?php foreach ($dayEvents as $ev):
-                  $typeKeys = $ev['typeKeys'] ?? eventTypeKeys($ev['className'] ?? '');
-                  $typeLabel = $ev['typeLabel'] ?? eventTypeLabelList($typeKeys);
-                  $typeData = implode(' ', $typeKeys);
-                  $color = $ev['typeClass'] ?? typeColor($ev['className']);
-                ?>
-                  <div class="ev <?= $color ?>" data-types="<?= htmlspecialchars($typeData) ?>">
-                    <div class="ev-time"><?= htmlspecialchars($ev['startTime']) ?> - <?= htmlspecialchars($ev['endTime']) ?><span class="ev-badge"><?= htmlspecialchars($typeLabel) ?></span></div>
-                    <div class="ev-matiere"><?= htmlspecialchars($ev['matiere']) ?></div>
-                    <div class="ev-meta">
-                      <?php if ($ev['salle'] !== ''): ?>Salle: <?= htmlspecialchars($ev['salle']) ?><br><?php endif; ?>
-                      <?php if ($ev['prof'] !== ''): ?><?= htmlspecialchars($ev['prof']) ?><?php endif; ?>
-                    </div>
-                  </div>
-                <?php endforeach; ?>
-              <?php endif; ?>
-            </td>
-          <?php endforeach; ?>
-        </tr>
-      </tbody>
-    </table>
+      <div class="timeline-body">
+        <div class="hours-col" style="height: <?= (int)$timelineHeight ?>px;">
+          <?php for ($h = 8; $h <= 20; $h++): ?>
+            <?php $top = (int)(($h*60 - $dayStartMin) * $minutePx); ?>
+            <div class="hour-label" style="top: <?= $top ?>px;"><?= str_pad((string)$h, 2, '0', STR_PAD_LEFT) ?>:00</div>
+          <?php endfor; ?>
+        </div>
+
+        <?php foreach ($eventsByDay as $dayEvents): ?>
+          <div class="day-col" style="height: <?= (int)$timelineHeight ?>px;">
+            <div class="lunch-band" style="top: <?= (int)$lunchTop ?>px; height: <?= (int)$lunchHeight ?>px;"></div>
+
+            <?php for ($h = 8; $h <= 20; $h++): ?>
+              <?php $lineTop = (int)(($h*60 - $dayStartMin) * $minutePx); ?>
+              <div class="hour-line" style="top: <?= $lineTop ?>px;"></div>
+            <?php endfor; ?>
+
+            <?php foreach ($dayEvents as $ev):
+              $startMin = clampInt((int)($ev['startMin'] ?? 0), $dayStartMin, $dayEndMin);
+              $endMin   = clampInt((int)($ev['endMin'] ?? 0), $dayStartMin, $dayEndMin);
+              if ($endMin <= $startMin) continue;
+
+              $top = (int)(($startMin - $dayStartMin) * $minutePx);
+              $height = max(30, (int)(($endMin - $startMin) * $minutePx));
+            ?>
+              <div class="ev ev-abs <?= htmlspecialchars($ev['typeClass'] ?? 'type-cours') ?>"
+                   data-types="<?= htmlspecialchars(implode(' ', $ev['typeKeys'] ?? ['cours'])) ?>"
+                   style="top: <?= $top ?>px; height: <?= $height ?>px;">
+                <div class="ev-time">
+                  <?= htmlspecialchars($ev['startTime'] ?? '') ?> - <?= htmlspecialchars($ev['endTime'] ?? '') ?>
+                  <span class="ev-badge"><?= htmlspecialchars($ev['typeLabel'] ?? '') ?></span>
+                </div>
+                <div class="ev-matiere"><?= htmlspecialchars($ev['matiere'] ?? '') ?></div>
+                <div class="ev-meta">
+                  <?php if (($ev['salle'] ?? '') !== ''): ?>Salle: <?= htmlspecialchars($ev['salle']) ?><br><?php endif; ?>
+                  <?php if (($ev['prof'] ?? '') !== ''): ?><?= htmlspecialchars($ev['prof']) ?><?php endif; ?>
+                </div>
+              </div>
+            <?php endforeach; ?>
+          </div>
+        <?php endforeach; ?>
+      </div>
+    </div>
   </main>
 
   <script>
@@ -630,197 +564,13 @@ $todayStr = (new DateTime())->format('Y-m-d');
       const storageKey = 'edt_promotions_visible_types';
       const checkboxes = Array.from(document.querySelectorAll('[data-type-toggle]'));
       const resetButton = document.getElementById('reset-types');
-      const promo = document.getElementById('promo');
-      const child = document.getElementById('child');
-      let cachedEvents = [];
-
-      function typeColor(className) {
-        const types = eventTypeKeys(className);
-        const type = types[0] || 'cours';
-        return {
-          'exam': 'type-exam',
-          'tp': 'type-tp',
-          'td': 'type-td',
-          'projet': 'type-projet',
-        }[type] || 'type-cours';
-      }
-
-      function eventTypeKeys(className, typeRaw) {
-        const sources = [
-          (className || '').toUpperCase(),
-          (typeRaw || '').toUpperCase(),
-        ];
-
-        for (const source of sources) {
-          if (!source) continue;
-          
-          if (source.includes('EPREUVE') || ['CC', 'DS', 'EXAM', 'PARTIEL', 'RATTRAPAGE'].includes(source)) {
-            return ['exam'];
-          }
-
-          const types = [];
-          if (source.includes('PROJET')) types.push('projet');
-          
-          const hasCours = source.includes('COURS');
-          const hasTd = source.includes('TD');
-          const hasTp = source.includes('TP');
-
-          if (hasCours && hasTd) {
-            types.push('cours', 'td');
-          } else if (hasTp) {
-            types.push('tp');
-          } else if (hasTd) {
-            types.push('td');
-          } else if (hasCours) {
-            types.push('cours');
-          }
-
-          if (types.length > 0) return types;
-        }
-        return ['cours'];
-      }
-
-      function eventTypeLabel(type) {
-        return { tp: 'TP', td: 'TD', projet: 'Projet', exam: 'Examen' }[type] || 'Cours';
-      }
-
-      function eventTypeLabelList(types) {
-        return [...new Set(types.map(eventTypeLabel))].join(' / ');
-      }
-
-      function parseEventDate(value) {
-        if (!value) return null;
-        return new Date(value);
-      }
-
-      function parseTitleParts(title) {
-        const parts = (title || '').split(/\r\n|\r|\n/).map(p => p.trim()).filter(p => p);
-        return {
-          salle: parts[0] || '',
-          matiere: parts[1] || 'Sans titre',
-          typeRaw: parts[2] || '',
-          prof: parts[3] || '',
-        };
-      }
-
-      function formatEventHTML(ev, dayDate) {
-        const titleParts = parseTitleParts(ev.title);
-        const typeKeys = eventTypeKeys(ev.className, titleParts.typeRaw);
-        const typeLabel = eventTypeLabelList(typeKeys);
-        const typeData = typeKeys.join(' ');
-        const color = typeColor(ev.className);
-
-        const start = parseEventDate(ev.start);
-        const end = parseEventDate(ev.end);
-        const startTime = start ? start.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) : '';
-        const endTime = end ? end.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) : '';
-
-        return `
-          <div class="ev ${color}" data-types="${typeData}">
-            <div class="ev-time">${startTime} - ${endTime}<span class="ev-badge">${typeLabel}</span></div>
-            <div class="ev-matiere">${titleParts.matiere}</div>
-            <div class="ev-meta">
-              ${titleParts.salle ? 'Salle: ' + titleParts.salle + '<br>' : ''}
-              ${titleParts.prof}
-            </div>
-          </div>
-        `;
-      }
-
-      async function fetchAndRenderEvents() {
-        const selectedOption = child?.options[child?.selectedIndex];
-        const planningId = selectedOption?.getAttribute('data-planning-id');
-        const weekParam = new URLSearchParams(window.location.search).get('week') || '0';
-
-        if (!planningId) {
-          console.log('No planningIdInit available');
-          renderEmptyTable();
-          return;
-        }
-
-        try {
-          const response = await fetch(`../api/fetch_events.php?planningIdInit=${encodeURIComponent(planningId)}&week=${weekParam}`);
-          const data = await response.json();
-
-          if (data.error) {
-            console.error('Fetch error:', data.error);
-            renderEmptyTable();
-            return;
-          }
-
-          cachedEvents = data.events || [];
-          renderTable();
-          applyFilters();
-        } catch (err) {
-          console.error('Fetch failed:', err);
-          renderEmptyTable();
-        }
-      }
-
-      function renderEmptyTable() {
-        const rows = document.querySelectorAll('tbody tr td');
-        rows.forEach(td => {
-          td.innerHTML = '<div class="empty">-</div>';
-        });
-      }
-
-      function renderTable() {
-        if (!cachedEvents || cachedEvents.length === 0) {
-          renderEmptyTable();
-          return;
-        }
-
-        const weekOffset = new URLSearchParams(window.location.search).get('week') || '0';
-        const monday = new Date();
-        monday.setDate(monday.getDate() - monday.getDay() + 1);
-        monday.setDate(monday.getDate() + (weekOffset * 7));
-
-        const dayDates = [];
-        for (let i = 0; i < 6; i++) {
-          const d = new Date(monday);
-          d.setDate(d.getDate() + i);
-          dayDates.push(d.toISOString().split('T')[0]);
-        }
-
-        const eventsByDay = Array(6).fill(null).map(() => []);
-
-        cachedEvents.forEach(ev => {
-          const start = parseEventDate(ev.start);
-          if (!start) return;
-
-          const dateStr = start.toISOString().split('T')[0];
-          const dayIdx = dayDates.indexOf(dateStr);
-          if (dayIdx === -1) return;
-
-          eventsByDay[dayIdx].push(ev);
-        });
-
-        eventsByDay.forEach(dayEvs => {
-          dayEvs.sort((a, b) => (a.start || '').localeCompare(b.start || ''));
-        });
-
-        const rows = document.querySelectorAll('tbody tr td');
-        rows.forEach((td, idx) => {
-          if (idx >= 6) return;
-          const dayEvs = eventsByDay[idx] || [];
-          if (dayEvs.length === 0) {
-            td.innerHTML = '<div class="empty">-</div>';
-          } else {
-            td.innerHTML = dayEvs.map(ev => formatEventHTML(ev, dayDates[idx])).join('');
-          }
-        });
-      }
 
       function getSelectedTypes() {
         return checkboxes.filter((checkbox) => checkbox.checked).map((checkbox) => checkbox.value);
       }
 
       function saveState() {
-        try {
-          window.localStorage.setItem(storageKey, JSON.stringify(getSelectedTypes()));
-        } catch (error) {
-          // ignore
-        }
+        try { window.localStorage.setItem(storageKey, JSON.stringify(getSelectedTypes())); } catch (e) {}
       }
 
       function loadState() {
@@ -829,12 +579,8 @@ $todayStr = (new DateTime())->format('Y-m-d');
           if (!raw) return;
           const values = JSON.parse(raw);
           if (!Array.isArray(values) || values.length === 0) return;
-          checkboxes.forEach((checkbox) => {
-            checkbox.checked = values.includes(checkbox.value);
-          });
-        } catch (error) {
-          // ignore
-        }
+          checkboxes.forEach((checkbox) => { checkbox.checked = values.includes(checkbox.value); });
+        } catch (e) {}
       }
 
       function applyFilters() {
@@ -847,33 +593,20 @@ $todayStr = (new DateTime())->format('Y-m-d');
         });
       }
 
-      // Event listeners
       checkboxes.forEach((checkbox) => {
-        checkbox.addEventListener('change', () => {
-          saveState();
-          applyFilters();
-        });
+        checkbox.addEventListener('change', () => { saveState(); applyFilters(); });
       });
 
       if (resetButton) {
         resetButton.addEventListener('click', () => {
-          checkboxes.forEach((checkbox) => {
-            checkbox.checked = true;
-          });
+          checkboxes.forEach((checkbox) => { checkbox.checked = true; });
           saveState();
           applyFilters();
         });
       }
 
       loadState();
-      
-      // Load events on page load if using planning catalog
-      const usingCatalog = <?= $usingPlanningCatalog ? 'true' : 'false' ?>;
-      if (usingCatalog) {
-        fetchAndRenderEvents();
-      } else {
-        applyFilters();
-      }
+      applyFilters();
     })();
   </script>
 </body>

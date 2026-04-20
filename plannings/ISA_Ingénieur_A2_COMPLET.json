@@ -1,0 +1,427 @@
+{
+    "events": [
+        {
+            "id": "73906286",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n10:20 - 12:25\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73906286",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n10:20 - 12:25\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73908362",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73908362",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n13:30 - 15:35\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73908497",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n15:50 - 17:55\nMadame GEA",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73908497",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n15:50 - 17:55\nMadame GEA",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66253102",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 19:30\nMadame PHILOUZE",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66253102",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 19:30\nMadame PHILOUZE",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66254679",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66264077",
+            "title": "ALG Salle 210\n\n\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66254679",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66262661",
+            "title": "ALG Salle 208 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame HERLIN",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66262661",
+            "title": "ALG Salle 208 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame HERLIN",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66263235",
+            "title": "ALG Salle 209 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ROMANO",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66264077",
+            "title": "ALG Salle 210\n\n\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66263235",
+            "title": "ALG Salle 209 H\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ROMANO",
+            "start": "2026-04-27T18:00:00+0200",
+            "end": "2026-04-27T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72310687",
+            "title": "ALG Salle 220\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame CHERIK",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72311187",
+            "title": "ALG Salle 210\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame LANGNER",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72306186",
+            "title": "ALG Salle 224\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame MAALEM",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72306186",
+            "title": "ALG Salle 224\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame MAALEM",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72307124",
+            "title": "IC2 B803     (H)\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMonsieur MOSS",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72307124",
+            "title": "IC2 B803     (H)\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMonsieur MOSS",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72311187",
+            "title": "ALG Salle 210\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame LANGNER",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72310687",
+            "title": "ALG Salle 220\n\nAnglais S2\nCOURS_TD\n08:00 - 10:05\nMadame CHERIK",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72310945",
+            "title": "ALG Salle 209 H\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMonsieur ARLON",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72306849",
+            "title": "ALG Salle 224\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMadame MAALEM",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72306849",
+            "title": "ALG Salle 224\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMadame MAALEM",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72307360",
+            "title": "ALG Salle 220\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMadame CHERIK",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72307360",
+            "title": "ALG Salle 220\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMadame CHERIK",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72310945",
+            "title": "ALG Salle 209 H\n\nAnglais S2\nCOURS_TD\n10:20 - 12:25\nMonsieur ARLON",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73908605",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n13:30 - 15:35\nMadame DEWEER",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75649035",
+            "title": "ALG Salle 222 H\n\nInterculturel\nATELIER\n13:30 - 17:55\nMonsieur DEVOS",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "73908605",
+            "title": "ALG salle 309\n\nProjet transition écologique\nPROJET\n13:30 - 15:35\nMadame DEWEER",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75649080",
+            "title": "ALG Salle 222 H\n\nInterculturel\nATELIER\n08:00 - 12:25\nMadame BOURDON",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648984",
+            "title": "ALG Salle 224\n\nInterculturel\nATELIER\n08:00 - 12:25\nMadame HARTMANN",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75649050",
+            "title": "ALG Salle 223\n\nInterculturel\nATELIER\n08:00 - 12:25\nMadame MATUSOVSKY",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75649065",
+            "title": "ALG Salle 204 avec TV pour projection\n\nInterculturel\nATELIER\n08:00 - 12:25\nMadame LEVEAUX",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72359559",
+            "title": "\n\n\nREUNION\n15:50 - 17:55\nMadame PINTE-D'SYLVA",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66267686",
+            "title": "ALG Salle 225\n\n\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66267242",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 19:30\nMadame MENDEZ-RUBIO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66267242",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 19:30\nMadame MENDEZ-RUBIO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66267686",
+            "title": "ALG Salle 225\n\n\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66265686",
+            "title": "ALG Salle 224\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ROMANO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66265686",
+            "title": "ALG Salle 224\n\n\nCOURS_TD\n18:00 - 19:30\nMadame ROMANO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75649095",
+            "title": "ALG Salle 222 H\n\nInterculturel\nATELIER\n08:00 - 12:25\nMadame BOURDON",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "66264062",
+            "title": "ALG Salle 210\n\n\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-04T18:00:00+0200",
+            "end": "2026-05-04T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66264062",
+            "title": "ALG Salle 210\n\n\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-04T18:00:00+0200",
+            "end": "2026-05-04T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

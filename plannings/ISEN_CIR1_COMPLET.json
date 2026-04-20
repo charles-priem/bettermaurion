@@ -1,0 +1,427 @@
+{
+    "events": [
+        {
+            "id": "72613761",
+            "title": "IC2 B505     (H)_2TAB\n\nDéveloppement web dynamique\nPROJET\n08:00 - 10:00\nMadame BENYOUSSEF",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72613612",
+            "title": "IC2 B505     (H)_2TAB\n\nDéveloppement web dynamique\nPROJET\n10:20 - 12:20\nMadame BENYOUSSEF",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72615744",
+            "title": "IC2 B505     (H)_2TAB\n\nProgrammation 2 : Approfondissement\nTD\n13:30 - 15:30\nMadame VEILLON",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72616190",
+            "title": "ALG Salle 224\n\nProgrammation 2 : Approfondissement\nTD\n13:30 - 15:30\nMonsieur RICQ",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72641907",
+            "title": "ALG Salle 209 H\n\nExpression orale\nCOURS_TD\n15:50 - 17:50\nMadame DE LORIOL",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72641730",
+            "title": "ALG Salle 224\n\nEpistémologie\nCOURS_TD\n15:50 - 17:50\nMonsieur DELANGUE",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72366100",
+            "title": "IC2 C955 - VP\n\nMathématiques 4 : Algèbre linéaire\nCOURS_TD\n08:00 - 10:00\nMadame SAINI",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72615759",
+            "title": "IC2 B505     (H)_2TAB\n\nProgrammation 2 : Approfondissement\nTD\n08:00 - 10:00\nMadame VEILLON",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72617048",
+            "title": "IC2 B505     (H)_2TAB\n\nProgrammation 2 : Approfondissement\nTD\n10:20 - 12:20\nMonsieur RICQ",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72366134",
+            "title": "IC2 C955 - VP\n\nMathématiques 4 : Algèbre linéaire\nCOURS_TD\n10:20 - 12:20\nMadame SAINI",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72622550",
+            "title": "ALG Salle 205 H\n\nTP programmation C\nTP\n13:30 - 15:30\nMonsieur RICQ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "75257281",
+            "title": "IC2 C956     (H)\n\nTP programmation C\nTP\n13:30 - 15:30\nMadame VEILLON",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72465742",
+            "title": "ALG Salle 225\n\nMathématiques pratiques\nTP\n08:00 - 10:00\nMonsieur DUBOIS",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72465767",
+            "title": "ALG Salle 225\n\nMathématiques pratiques\nTP\n10:20 - 12:20\nMadame SAINI",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72375244",
+            "title": "ALG Salle 224\n\nThermodynamique\nTD\n13:30 - 15:30\nMonsieur CROENNE",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72464653",
+            "title": "IC2 C955 - VP\n\nMathématiques 4 : Algèbre linéaire\nTD\n13:30 - 15:30\nMonsieur DUBOIS",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72375324",
+            "title": "ALG Salle 224\n\nThermodynamique\nTD\n15:50 - 17:50\nMonsieur MELE",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72464716",
+            "title": "IC2 C955 - VP\n\nMathématiques 4 : Algèbre linéaire\nTD\n15:50 - 17:50\nMonsieur DUBOIS",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75685431",
+            "title": "IC1_017 amphi Mathilda\nDécouverte des laboratoire de recherche (CIR1 et CPG1)\n\nDécouverte de la recherche\nSEMINAIRE\n10:00 - 12:00\nMadame DIENER",
+            "start": "2026-04-30T10:00:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "75685443",
+            "title": "IC1_017 amphi Mathilda\nDécouverte des laboratoires de recherche (CIR1 et ADI1)\n\nDécouverte de la recherche\nSEMINAIRE\n14:00 - 16:00\nMadame DIENER",
+            "start": "2026-04-30T14:00:00+0200",
+            "end": "2026-04-30T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SEMINAIRE"
+        },
+        {
+            "id": "72614074",
+            "title": "\n\nMathématiques 4 : Algèbre linéaire\nPARTIEL_SURV\n10:30 - 12:30\nMadame SAINI",
+            "start": "2026-05-04T10:30:00+0200",
+            "end": "2026-05-04T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72601489",
+            "title": "\n\nThermodynamique\nPARTIEL_SURV\n10:30 - 12:30\nMonsieur MELE",
+            "start": "2026-05-05T10:30:00+0200",
+            "end": "2026-05-05T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72622596",
+            "title": "\n\nProgrammation 2 : Approfondissement\nPARTIEL_SURV\n10:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-06T10:30:00+0200",
+            "end": "2026-05-06T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72641920",
+            "title": "\n\nEpistémologie\nPARTIEL_SURV\n13:30 - 15:30\nMonsieur DELANGUE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72675085",
+            "title": "ALG Salle 207\n\nGestion de projet\nCOURS_TD\n10:20 - 12:20\nMadame RATAJ",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72675115",
+            "title": "ALG Salle 207\n\nGestion de projet\nCOURS_TD\n13:30 - 15:30\nMadame RATAJ",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "68733203",
+            "title": "IC1_labo lars'N\nNature of Sound\nModule Musique et Technologies\nCOURS_TD\n14:00 - 17:00\nMadame POSTEL",
+            "start": "2026-05-07T14:00:00+0200",
+            "end": "2026-05-07T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76303694",
+            "title": "IC2 C956     (H)\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-11T08:30:00+0200",
+            "end": "2026-05-11T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73682292",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "76303724",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76303785",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-12T08:30:00+0200",
+            "end": "2026-05-12T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76303754",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306479",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-13T08:30:00+0200",
+            "end": "2026-05-13T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306818",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306505",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-15T08:30:00+0200",
+            "end": "2026-05-15T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "73683936",
+            "title": "ALG Amphi 003\nTOEIC\nAnglais S2\nEXAM\n13:30 - 17:30\nMonsieur MCGAVIGAN",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "76306981",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306518",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-18T08:30:00+0200",
+            "end": "2026-05-18T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306857",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306531",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306870",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306544",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306883",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306557",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306896",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306570",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n08:30 - 12:30\nMadame VEILLON",
+            "start": "2026-05-22T08:30:00+0200",
+            "end": "2026-05-22T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "76306909",
+            "title": "\n\nProjet d'informatique de fin d'année\nPROJET\n13:30 - 17:30\nMadame VEILLON",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        }
+    ]
+}

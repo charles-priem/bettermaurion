@@ -1,0 +1,337 @@
+{
+    "events": [
+        {
+            "id": "66384915",
+            "title": "BORDEAUX_140\n\n[ADI2] Anglais\nCOURS_TD\n09:00 - 12:00\nMs DURANT",
+            "start": "2026-04-20T09:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385388",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n13:00 - 16:00\nMr LARROQUE",
+            "start": "2026-04-20T13:00:00+0200",
+            "end": "2026-04-20T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385043",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n16:00 - 18:00\nMr LARROQUE",
+            "start": "2026-04-20T16:00:00+0200",
+            "end": "2026-04-20T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385350",
+            "title": "BORDEAUX_140\n\n[ADI2] Mathématiques ISEN\nCOURS_TD\n13:30 - 17:30\nMr MOKRANI",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66384843",
+            "title": "BORDEAUX_276\n\n[ADI2] Anglais\nCOURS_TD\n09:00 - 12:00\nMs DURANT",
+            "start": "2026-04-22T09:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66372294",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66371479",
+            "title": "BORDEAUX_029\n\n[ADI2] Projets\nPROJET\n09:00 - 12:30\nMr VIOT",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66132558",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-04-23T15:30:00+0200",
+            "end": "2026-04-23T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66372566",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n09:00 - 12:30\nMr VIOT",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66389955",
+            "title": "BORDEAUX_024_SALLE_PROTOTYPAGE\ncours annulé\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:30\nMr TREMENT",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66384930",
+            "title": "BORDEAUX_140\n\n[ADI2] Anglais\nCOURS_TD\n09:00 - 12:00\nMs DURANT",
+            "start": "2026-04-27T09:00:00+0200",
+            "end": "2026-04-27T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385427",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n13:00 - 16:00\nMr LARROQUE",
+            "start": "2026-04-27T13:00:00+0200",
+            "end": "2026-04-27T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76486896",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n16:00 - 18:00\nMr LARROQUE",
+            "start": "2026-04-27T16:00:00+0200",
+            "end": "2026-04-27T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385589",
+            "title": "BORDEAUX_140\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:30\nMr MOKRANI",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385453",
+            "title": "BORDEAUX_276\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66372272",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr MOKRANI",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70751387",
+            "title": "BORDEAUX_148\n\n[ADI2] Mathématiques ISEN\nEXAM_SURV\n13:30 - 14:30\nMs PAUL",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132569",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-04-30T15:30:00+0200",
+            "end": "2026-04-30T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66385440",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n13:00 - 16:00\nMr LARROQUE",
+            "start": "2026-05-04T13:00:00+0200",
+            "end": "2026-05-04T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385056",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n16:00 - 18:00\nMr LARROQUE",
+            "start": "2026-05-04T16:00:00+0200",
+            "end": "2026-05-04T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70759896",
+            "title": "BORDEAUX_282\n\n[ADI2] Informatique ISEN\nEXAM_SURV\n10:30 - 11:30\nMr TREMENT",
+            "start": "2026-05-05T10:30:00+0200",
+            "end": "2026-05-05T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66385602",
+            "title": "BORDEAUX_140\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:30\nMr MOKRANI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66979105",
+            "title": "BORDEAUX_143\n\n[ADI1] Formation Humaine\nVISITE\n08:30 - 12:30\nMr DEVIENNE",
+            "start": "2026-05-06T08:30:00+0200",
+            "end": "2026-05-06T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "66372250",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66372212",
+            "title": "BORDEAUX_032_SALLE_CODESIGN\n\n[ADI1] Projets\nPROJET\n11:00 - 12:30\nMr VIOT",
+            "start": "2026-05-07T11:00:00+0200",
+            "end": "2026-05-07T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "70759931",
+            "title": "BORDEAUX_148\n\n[ADI2] T3 ISEN Physique/Info\nDS_SURV\n13:30 - 14:30\nMr LARROQUE",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132580",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-05-07T15:30:00+0200",
+            "end": "2026-05-07T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "66385466",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n13:00 - 16:00\nMr LARROQUE",
+            "start": "2026-05-11T13:00:00+0200",
+            "end": "2026-05-11T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "70740950",
+            "title": "BORDEAUX_282\n\n[ADI2] T3 ISEN Physique/Info\nEXAM_SURV\n10:30 - 11:30\nMs PAUL",
+            "start": "2026-05-12T10:30:00+0200",
+            "end": "2026-05-12T11:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66385615",
+            "title": "BORDEAUX_140\n\n[ADI2] Informatique ISEN\nCOURS_TD\n13:30 - 17:30\nMr MOKRANI",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66371558",
+            "title": "BORDEAUX_029\n\n[ADI2] Projets\nPROJET\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "66385488",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n13:00 - 16:00\nMr LARROQUE",
+            "start": "2026-05-18T13:00:00+0200",
+            "end": "2026-05-18T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66385502",
+            "title": "BORDEAUX_140\n\n[ADI2] T3 ISEN Physique/Info\nCOURS_TD\n09:00 - 12:00\nMr LARROQUE",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66371587",
+            "title": "J001_FABLAB\n\n[ADI1] Projets\nSOUTENANCE\n13:30 - 17:00\nMr VIOT",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70766706",
+            "title": "BORDEAUX_140\n\n[ADI2] Informatique ISEN\nEXAM_SURV\n13:30 - 14:30\nMr MOKRANI",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66132602",
+            "title": "\nASSOCIATIONS\n\nASSOCIATIF\n15:30 - 18:00\n ",
+            "start": "2026-05-21T15:30:00+0200",
+            "end": "2026-05-21T18:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ASSOCIATIF"
+        },
+        {
+            "id": "70759963",
+            "title": "BORDEAUX_148\n\n[ADI2] T3 ISEN Physique/Info\nEXAM_SURV\n13:30 - 14:30\nMr PONASSIE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T14:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        }
+    ]
+}

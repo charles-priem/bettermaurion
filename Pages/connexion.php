@@ -1,10 +1,61 @@
-<!DOCTYPE html>
+<?php
+session_start();
+require_once '../php/config.php';
+
+$error = '';
+$success = '';
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $email = trim($_POST['email'] ?? '');
+    $password = trim($_POST['password'] ?? '');
+    
+    if (empty($email) || empty($password)) {
+        $error = 'Email et mot de passe requis.';
+    } else {
+        $stmt = $conn->prepare('SELECT user_id, firstname, lastname, password, photo_profil FROM users WHERE email = ?');
+        $stmt->bind_param('s', $email);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        
+        if ($result->num_rows === 1) {
+            $user = $result->fetch_assoc();
+            if (password_verify($password, $user['password'])) {
+                $_SESSION['user_id'] = $user['user_id'];
+                $_SESSION['email'] = $email;
+                $_SESSION['firstname'] = $user['firstname'];
+                $_SESSION['lastname'] = $user['lastname'];
+                $_SESSION['photo_profil'] = $user['photo_profil'];
+                header('Location: ../Pages/index.php');
+                exit();
+            } else {
+                $error = 'Email ou mot de passe incorrect.';
+            }
+        } else {
+            $error = 'Email ou mot de passe incorrect.';
+        }
+        $stmt->close();
+    }
+}
+?>
+<!DOCTYPE html>>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Nom – Login</title>
   <link rel="stylesheet" href="../css/style_connexion.css" />
+  <style>
+    .bottom-links {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+      margin-top: 20px;
+    }
+    .bottom-links button {
+      width: 200px;
+    }
+  </style>
 
 </head>
 <body>
@@ -12,30 +63,40 @@
   <div class="card">
     <h2 class="card__title" id="card-title">Login</h2>
     <p class="card__subtitle" id="card-subtitle">Enter your Aurion credentials to access the app</p>
-    <div class="form-group">
-      <label for="email" id="email-label">Email</label>
-      <input
-        type="email"
-        id="email"
-        value=""
-        placeholder="name.surname@student.junia.com"
-        autocomplete="email"
-      />
-    </div>
-
-    <!-- Password -->
-    <div class="form-group">
-      <label for="password" id="password-label">Password</label>
-      <div class="input-wrap">
-        <input type="password" id="password" value="" placeholder="password1234" autocomplete="current-password"/>
-        <button class="toggle-pw" id="toggle-pw" aria-label="Show / hide password" onclick="togglePassword()">
-           
-        </button>
+    
+    <?php if ($error): ?>
+      <div style="color: #d32f2f; background: #ffebee; padding: 10px; border-radius: 4px; margin-bottom: 15px;">
+        <?= htmlspecialchars($error) ?>
       </div>
-    </div>
+    <?php endif; ?>
+    
+    <form method="POST" id="login-form">
+      <div class="form-group">
+        <label for="email" id="email-label">Email</label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          value=""
+          placeholder="name.surname@student.junia.com"
+          autocomplete="email"
+          required
+        />
+      </div>
 
-    <button class="btn-submit" id="submit-btn">Se connecter</button>
-  </div>
+      <!-- Password -->
+      <div class="form-group">
+        <label for="password" id="password-label">Password</label>
+        <div class="input-wrap">
+          <input type="password" id="password" name="password" value="" placeholder="password1234" autocomplete="current-password" required/>
+          <button class="toggle-pw" id="toggle-pw" aria-label="Show / hide password" type="button" onclick="togglePassword()">
+             
+          </button>
+        </div>
+      </div>
+
+      <button class="btn-submit" type="submit" id="submit-btn">Se connecter</button>
+    </form>
 
 
   <div class="lang-switcher">
@@ -81,6 +142,8 @@
         passwordLabel: 'Password',
         passwordPlaceholder: 'password1234',
         submitButton: 'Log in',
+        backToHomeButton: 'Back to Home',
+        signUpButton: 'Don\'t have an account? Sign up',
         langLabel: 'Language',
         togglePwAria: 'Show / hide password'
       },
@@ -93,6 +156,8 @@
         passwordLabel: 'Mot de passe',
         passwordPlaceholder: 'motdepasse1234',
         submitButton: 'Se connecter',
+        backToHomeButton: 'Retour à l\'accueil',
+        signUpButton: 'Vous n\'avez pas de compte ? S\'inscrire',
         langLabel: 'Langue',
         togglePwAria: 'Afficher / masquer le mot de passe'
       },
@@ -105,6 +170,8 @@
         passwordLabel: 'Contraseña',
         passwordPlaceholder: 'contrasena1234',
         submitButton: 'Iniciar sesión',
+        backToHomeButton: 'Volver al inicio',
+        signUpButton: '¿No tienes cuenta? Registrarse',
         langLabel: 'Idioma',
         togglePwAria: 'Mostrar / ocultar contraseña'
       }
@@ -126,6 +193,8 @@
       document.getElementById('password-label').textContent = t.passwordLabel;
       document.getElementById('password').placeholder = t.passwordPlaceholder;
       document.getElementById('submit-btn').textContent = t.submitButton;
+      document.getElementById('back-home-btn').textContent = t.backToHomeButton;
+      document.getElementById('sign-up-btn').textContent = t.signUpButton;
       document.getElementById('lang-label').lastChild.textContent = ` ${t.langLabel}`;
       document.getElementById('toggle-pw').setAttribute('aria-label', t.togglePwAria);
     }
@@ -135,8 +204,9 @@
       if (activeBtn) setLang(activeBtn);
     });
   </script>
-  <div>
-    <button onclick="window.location.href='../Pages/index.php'">Back to Home</button>
+  <div class="bottom-links">
+    <button class="lang-btn" onclick="window.location.href='../Pages/index.php'" id="back-home-btn">Back to Home</button>
+    <button class="lang-btn" onclick="window.location.href='../Pages/inscription.php'" id="sign-up-btn">Don't have an account? Sign up</button>
   </div>
 </body>
 </html>

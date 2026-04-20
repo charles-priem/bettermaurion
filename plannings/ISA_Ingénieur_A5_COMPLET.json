@@ -1,0 +1,949 @@
+{
+    "events": [
+        {
+            "id": "64807887",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-04-20T09:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66379942",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-04-20T09:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66379952",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807901",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807915",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-04-21T09:00:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250788",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-04-21T09:00:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250893",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807929",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250801",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-04-22T09:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807943",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-04-22T09:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807957",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250906",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250814",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807971",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807985",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250919",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67311967",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:30 - 12:30\nMadame TARHAN",
+            "start": "2026-04-24T08:30:00+0200",
+            "end": "2026-04-24T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250827",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64807999",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75250932",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64808013",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67311995",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame TARHAN",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67311981",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:30 - 12:30\nMadame TARHAN",
+            "start": "2026-04-27T08:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66525376",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame COMBELLES",
+            "start": "2026-04-27T09:00:00+0200",
+            "end": "2026-04-27T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66525503",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame COMBELLES",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312009",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame TARHAN",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312048",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n08:00 - 12:00\nMonsieur DEBUS",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525393",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DETRICHE",
+            "start": "2026-04-28T09:00:00+0200",
+            "end": "2026-04-28T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312114",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n13:00 - 16:00\nMonsieur DEBUS",
+            "start": "2026-04-28T13:00:00+0200",
+            "end": "2026-04-28T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525516",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame COMBELLES",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312063",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n08:00 - 12:00\nMonsieur DEBUS",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525406",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame COMBELLES",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312096",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n13:00 - 16:00\nMonsieur DEBUS",
+            "start": "2026-04-29T13:00:00+0200",
+            "end": "2026-04-29T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525529",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame COMBELLES",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312133",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n08:00 - 12:00\nMonsieur DEBUS",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525419",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DETRICHE",
+            "start": "2026-04-30T09:00:00+0200",
+            "end": "2026-04-30T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "67312083",
+            "title": "ALG Salle 207\n\n\n\nDestination ingénieur manager\nCOURS_TD\n13:00 - 16:00\nMonsieur DEBUS",
+            "start": "2026-04-30T13:00:00+0200",
+            "end": "2026-04-30T16:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66525542",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame COMBELLES",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66931929",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame MOLINIER",
+            "start": "2026-05-11T09:00:00+0200",
+            "end": "2026-05-11T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66931945",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de fin d'Etudes\nENCADREMENT_A_DISTANCE\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66931961",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame MOLINIER",
+            "start": "2026-05-12T09:00:00+0200",
+            "end": "2026-05-12T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66931977",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66931993",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de fin d'Etudes\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame MOLINIER",
+            "start": "2026-05-13T09:00:00+0200",
+            "end": "2026-05-13T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66932009",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66932055",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame MOLINIER",
+            "start": "2026-05-15T09:00:00+0200",
+            "end": "2026-05-15T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66932071",
+            "title": "\n\n\n\n\n\n\n\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-15T13:30:00+0200",
+            "end": "2026-05-15T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75915328",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:00 - 12:25\nMadame DESMYTTERE",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963610",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n09:00 - 12:25\nMonsieur BLONDEL",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66928783",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n09:00 - 12:00\nMonsieur DERMONT",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "66380049",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64808171",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-05-18T09:00:00+0200",
+            "end": "2026-05-18T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76356129",
+            "title": "ALG Salle 222 H\nLancement module\n\nNourrir le monde\nCOURS_TD\n09:05 - 12:25\nMonsieur TAISNE",
+            "start": "2026-05-18T09:05:00+0200",
+            "end": "2026-05-18T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75917879",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:55\nMadame DESMYTTERE",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66929001",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n13:30 - 17:00\nMonsieur DERMONT",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "64808185",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76481057",
+            "title": "ALG Salle 222 H\nAFDI et ses actions\n\n\nNourrir le monde\nCOURS_TD\n13:30 - 17:55\nMonsieur TAISNE",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66380059",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963750",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n13:30 - 17:30\nMonsieur BLONDEL",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75915609",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:00 - 12:25\nMadame DESMYTTERE",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963629",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n08:30 - 12:25\nMonsieur BLONDEL",
+            "start": "2026-05-19T08:30:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64808199",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75251006",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66928916",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n09:00 - 12:00\nMonsieur DERMONT",
+            "start": "2026-05-19T09:00:00+0200",
+            "end": "2026-05-19T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "76480955",
+            "title": "IC1_109\nFondation FARM\n\n\n\nNourrir le monde\nCOURS_TD\n09:05 - 12:25\nMonsieur TAISNE",
+            "start": "2026-05-19T09:05:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66929139",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n13:30 - 17:00\nMonsieur DERMONT",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "76481040",
+            "title": "IC1_109\nTravail projet\n\n\n\nNourrir le monde\nAUTO_APPR\n13:30 - 17:55\nMonsieur TAISNE",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "64808213",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963784",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n13:30 - 17:30\nMonsieur BLONDEL",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75917993",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:55\nMadame DESMYTTERE",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75251111",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76480989",
+            "title": "IC1_109\nTravail projet\n\n\n\nNourrir le monde\nAUTO_APPR\n08:00 - 12:25\nMonsieur TAISNE",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "75915629",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:00 - 12:25\nMadame DESMYTTERE",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963644",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n08:30 - 12:25\nMonsieur BLONDEL",
+            "start": "2026-05-20T08:30:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66928936",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n09:00 - 12:00\nMonsieur DERMONT",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "64808227",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75251019",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-05-20T09:00:00+0200",
+            "end": "2026-05-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66929159",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "64808241",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76481074",
+            "title": "ALG Salle 222 H\nCommerce international / Travail projet\n\n\n\nNourrir le monde\nCOURS_TD\n13:30 - 17:55\nMonsieur LENSINK",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75918012",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:55\nMonsieur ANDRIAMANDROSO",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75251124",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963799",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n13:30 - 17:30\nMonsieur BLONDEL",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75915578",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:00 - 12:25\nMadame DESMYTTERE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963659",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n08:30 - 12:25\nMonsieur BLONDEL",
+            "start": "2026-05-21T08:30:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64808255",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-05-21T09:00:00+0200",
+            "end": "2026-05-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66928956",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n09:00 - 12:00\nMonsieur DERMONT",
+            "start": "2026-05-21T09:00:00+0200",
+            "end": "2026-05-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "75251032",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-05-21T09:00:00+0200",
+            "end": "2026-05-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76480972",
+            "title": "IC2 C304 - Amphi JND     (H)\nPolitique de coopération de l'UE\n\n\n\nNourrir le monde\nCOURS_TD\n09:05 - 12:25\nMonsieur TAISNE",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75251137",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963814",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n13:30 - 17:30\nMonsieur BLONDEL",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66929179",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "76481091",
+            "title": "IC2 C304 - Amphi JND     (H)\nPrésentation projets\n\n\n\n\nNourrir le monde\nSOUTENANCE\n13:30 - 17:55\nMadame DESMYTTERE",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "75918031",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:55\nMadame DESMYTTERE",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64808269",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75915651",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n08:00 - 12:25\nMonsieur ANDRIAMANDROSO",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "76481023",
+            "title": "ALG Salle 222 H\nBilan\n\n\nNourrir le monde\nATELIER\n08:00 - 12:25\nMonsieur TAISNE",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74963674",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n08:30 - 12:25\nMonsieur BLONDEL",
+            "start": "2026-05-22T08:30:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64808283",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMadame STATNIK",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "75251045",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n09:00 - 12:00\nMonsieur DJOUAK",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "66928976",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n09:00 - 12:00\nMadame MOLINIER",
+            "start": "2026-05-22T09:00:00+0200",
+            "end": "2026-05-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "75918050",
+            "title": "ALG Salle 217\nSemaine dédiée au MFE\n\n\n\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:55\nMadame DESMYTTERE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "74963829",
+            "title": "Palais Rameau_103\n\nIndustrie du futur\nCOURS_TD\n13:30 - 17:30\nMonsieur BLONDEL",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66929199",
+            "title": "IC1_409\n\n\n\n\n\n\n\n\n\n\n\nImpact des procédés sur les qualités nutritionnelles des aliments\nCM\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "75251150",
+            "title": "\nRegroupement MFE \nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMonsieur DJOUAK",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        },
+        {
+            "id": "64808301",
+            "title": "\n\nMémoire de Fin d'Études\nENCADREMENT_A_DISTANCE\n13:30 - 17:30\nMadame STATNIK",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ENCADREMENT_A_DISTANCE"
+        }
+    ]
+}

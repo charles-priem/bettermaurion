@@ -1,0 +1,2146 @@
+{
+    "events": [
+        {
+            "id": "74028218",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028283",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028283",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028218",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-20T08:00:00+0200",
+            "end": "2026-04-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027950",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-20T09:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027950",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-20T09:00:00+0200",
+            "end": "2026-04-20T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027612",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74027612",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74027353",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame HARTMANN",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028268",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028268",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72280457",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72280457",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027353",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame HARTMANN",
+            "start": "2026-04-20T09:05:00+0200",
+            "end": "2026-04-20T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028090",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-20T13:00:00+0200",
+            "end": "2026-04-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028090",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-20T13:00:00+0200",
+            "end": "2026-04-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028233",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772273",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame HARTMANN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772273",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame HARTMANN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027117",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027117",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028253",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028253",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028297",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028297",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028233",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-20T13:30:00+0200",
+            "end": "2026-04-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027821",
+            "title": "IC1_412\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n14:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-20T14:00:00+0200",
+            "end": "2026-04-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74027821",
+            "title": "IC1_412\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n14:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-20T14:00:00+0200",
+            "end": "2026-04-20T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74028461",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028984",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028984",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028461",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-21T08:00:00+0200",
+            "end": "2026-04-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028037",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-21T09:00:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74028037",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-21T09:00:00+0200",
+            "end": "2026-04-21T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74737395",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772288",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame HARTMANN",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772288",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame HARTMANN",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737395",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028744",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028744",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027768",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74027768",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-21T09:05:00+0200",
+            "end": "2026-04-21T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "75648867",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-21T13:00:00+0200",
+            "end": "2026-04-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648867",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-21T13:00:00+0200",
+            "end": "2026-04-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028574",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772326",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame HARTMANN",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737410",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737410",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028857",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772326",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame HARTMANN",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029097",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029097",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028857",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028574",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-21T13:30:00+0200",
+            "end": "2026-04-21T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74027899",
+            "title": "IC1_106\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n14:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-21T14:00:00+0200",
+            "end": "2026-04-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74027899",
+            "title": "IC1_106\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n14:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-21T14:00:00+0200",
+            "end": "2026-04-21T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74028475",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028475",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028998",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028998",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-22T08:00:00+0200",
+            "end": "2026-04-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737426",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028758",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772304",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n09:05 - 12:05\n ",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772304",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n09:05 - 12:05\n ",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028758",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737426",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341037",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341037",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-22T09:05:00+0200",
+            "end": "2026-04-22T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "75648825",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n10:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-22T10:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75648825",
+            "title": "ALG Salle 221 H\n\n\nCOURS_TD\n10:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-22T10:00:00+0200",
+            "end": "2026-04-22T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75648889",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-22T13:00:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648889",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-22T13:00:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029111",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028588",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028588",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029111",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028871",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028871",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737464",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74737464",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772315",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772315",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-04-22T13:30:00+0200",
+            "end": "2026-04-22T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341074",
+            "title": "IC1_419\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n15:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-22T15:00:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74341074",
+            "title": "IC1_419\n\nGéopolitique, la guerre à travers le cinéma\nCOURS_TD\n15:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-22T15:00:00+0200",
+            "end": "2026-04-22T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74029012",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029012",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028489",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028489",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-23T08:00:00+0200",
+            "end": "2026-04-23T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028066",
+            "title": "ALG Salle 221 H\n\n\nAUTO_APPR\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028066",
+            "title": "ALG Salle 221 H\n\n\nAUTO_APPR\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-23T09:00:00+0200",
+            "end": "2026-04-23T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772341",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame LEVEAUX",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028772",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74341129",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341129",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74737546",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737546",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772341",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame LEVEAUX",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028772",
+            "title": "IC2 C956     (H)\n\n\nATELIER\n09:05 - 12:05\nMadame BRIGADEAU",
+            "start": "2026-04-23T09:05:00+0200",
+            "end": "2026-04-23T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648904",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-23T13:00:00+0200",
+            "end": "2026-04-23T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648904",
+            "title": "ALG Salle 221 H\n\n\nATELIER\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-23T13:00:00+0200",
+            "end": "2026-04-23T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772382",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame LEVEAUX",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029125",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029125",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028885",
+            "title": "IC2 C956     (H)\n\n\nAUTO_APPR\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028885",
+            "title": "IC2 C956     (H)\n\n\nAUTO_APPR\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772382",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n13:30 - 16:30\nMadame LEVEAUX",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737524",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737524",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74341154",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n13:30 - 17:30\nMonsieur DUVILLIER",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341154",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n13:30 - 17:30\nMonsieur DUVILLIER",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028602",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028602",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-23T13:30:00+0200",
+            "end": "2026-04-23T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029026",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74029026",
+            "title": "ALG Salle 225\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n08:00 - 12:25\nMonsieur IRRMANN",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028503",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028503",
+            "title": "\n\n\nATELIER\n08:00 - 12:25\nMadame BERTELOOT",
+            "start": "2026-04-24T08:00:00+0200",
+            "end": "2026-04-24T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75648925",
+            "title": "ALG Salle 221 H\n\n\nAUTO_APPR\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "75648925",
+            "title": "ALG Salle 221 H\n\n\nAUTO_APPR\n09:00 - 12:00\nMadame BENKHERIF",
+            "start": "2026-04-24T09:00:00+0200",
+            "end": "2026-04-24T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74737561",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74341169",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74341169",
+            "title": "ALG Salle 209 H\n\nGéopolitique, la guerre à travers le cinéma\nAUTO_APPR\n09:05 - 12:05\nMonsieur DUVILLIER",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028786",
+            "title": "IC2 C956     (H)\nevaluation finale : rapport écrit\n\nAUTO_APPR\n09:05 - 13:00\nMadame BRIGADEAU",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T13:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74737561",
+            "title": "ALG Salle 223\n\nBuilding multicultural teams - F. BOURDON\nATELIER\n09:05 - 12:05\nMadame BOURDON",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772356",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame LEVEAUX",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772356",
+            "title": "ALG Salle 208 H\n\nBuilding multicultural teams - H. HARTMANN\nATELIER\n09:05 - 12:05\nMadame LEVEAUX",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028786",
+            "title": "IC2 C956     (H)\nevaluation finale : rapport écrit\n\nAUTO_APPR\n09:05 - 13:00\nMadame BRIGADEAU",
+            "start": "2026-04-24T09:05:00+0200",
+            "end": "2026-04-24T13:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028210",
+            "title": "IC1_320_PROJET\n\n\nSOUTENANCE\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-24T13:00:00+0200",
+            "end": "2026-04-24T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74027941",
+            "title": "IC2 C304 - Amphi JND     (H)\n\nGéopolitique, la guerre à travers le cinéma\nSOUTENANCE\n13:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-24T13:00:00+0200",
+            "end": "2026-04-24T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74027941",
+            "title": "IC2 C304 - Amphi JND     (H)\n\nGéopolitique, la guerre à travers le cinéma\nSOUTENANCE\n13:00 - 17:00\nMonsieur DUVILLIER",
+            "start": "2026-04-24T13:00:00+0200",
+            "end": "2026-04-24T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74028210",
+            "title": "IC1_320_PROJET\n\n\nSOUTENANCE\n13:00 - 17:00\nMadame BENKHERIF",
+            "start": "2026-04-24T13:00:00+0200",
+            "end": "2026-04-24T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74029139",
+            "title": "IC2 B305     (H)\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74028616",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74737509",
+            "title": "IC2 A816 - VP\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74737509",
+            "title": "IC2 A816 - VP\n\nBuilding multicultural teams - F. BOURDON\nAUTO_APPR\n13:30 - 16:30\nMadame BOURDON",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74029139",
+            "title": "IC2 B305     (H)\n\n« Les nouveaux mondes du commerce et de l’entrepreneuriat : ESS, nouvelles filières, nouveaux comportements, nouvelles générations »\nATELIER\n13:30 - 17:55\nMonsieur IRRMANN",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74772371",
+            "title": "IC2 C955 - VP\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74772371",
+            "title": "IC2 C955 - VP\n\nBuilding multicultural teams - H. HARTMANN\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74028616",
+            "title": "\n\n\nATELIER\n13:30 - 17:55\nMadame BERTELOOT",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74591623",
+            "title": "IC2 C956     (H)\nevaluation finale : rapport écrit\n\nAUTO_APPR\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74591623",
+            "title": "IC2 C956     (H)\nevaluation finale : rapport écrit\n\nAUTO_APPR\n13:30 - 16:30\nMadame BRIGADEAU",
+            "start": "2026-04-24T13:30:00+0200",
+            "end": "2026-04-24T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74325134",
+            "title": "\nSalle 20RT, 20 rue de Toul\nHoraire TT : 7h30-10h10\nUEL2 Ecologie appliquée\nEXAM_SURV\n08:00 - 10:00\nMadame DRANSART",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70827389",
+            "title": "IC1_217\n\nUEL2 Agronomie appliquée aux grandes cultures et aux cultures spécialisées\nEXAM\n08:00 - 12:25\nMonsieur MUCHEMBLED",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "EXAM"
+        },
+        {
+            "id": "70827317",
+            "title": "ALG Salle 208 H\n\nUEL2 Grande distribution\nAUTO_APPR\n08:00 - 12:25\nMadame DHORNE",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70899405",
+            "title": "\n\nUEL2 Advanced marketing\nAUTO_APPR\n08:00 - 12:25\nMadame TARHAN",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70827365",
+            "title": "ALG Salle 209 H\nOral présentations\n\nUEL2 Livestock production systems\nSOUTENANCE\n09:05 - 12:25\nMadame LERUSTE",
+            "start": "2026-04-27T09:05:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "76307935",
+            "title": "\nAmphi ALG 002-003, ALG, 2 rue Norbert Ségard\nHoraire TT : 10h30-13h10\nUEL2 Procédés de transformation agroalimentaires\nEXAM_SURV\n10:30 - 12:30\nMonsieur BRICOUT",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75157988",
+            "title": "\nAmphi ALG 002-003, ALG, 2 rue Norbert Ségard\nUEL2 Food characterization\nEXAM_SURV\n10:30 - 12:30\nMadame HUNOT",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70827415",
+            "title": "ALG Salle 221 H\n\nUEL2 Ecologie appliquée\nSOUTENANCE\n10:30 - 12:25\nMadame LANOY",
+            "start": "2026-04-27T10:30:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695127",
+            "title": "\nFormulation Project practical part  - Results analysis + Oral presentation preparation\n\n\n\n\nS8 - Food Project - formulation\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70669702",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nPROJET_AUTO_GERE\n08:00 - 12:25\nMonsieur DESCAMPS",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71729116",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n08:00 - 12:25\nMonsieur CARRÉ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681765",
+            "title": "IC2 A816 - VP\n\nS8 - Projet en environnement\nSOUTENANCE\n08:00 - 12:25\nMadame COMBELLES",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669853",
+            "title": "\n\nS8 - Project in agriculture\nPROJET_AUTO_GERE\n08:00 - 12:25\nMadame LERUSTE",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "70669535",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nAUTO_APPR\n08:00 - 12:25\nMadame VU",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74695127",
+            "title": "\nFormulation Project practical part  - Results analysis + Oral presentation preparation\n\n\n\n\nS8 - Food Project - formulation\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74696695",
+            "title": "\nResults Interpretation\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74696695",
+            "title": "\nResults Interpretation\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70669788",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nPROJET_AUTO_GERE\n13:30 - 17:55\nMonsieur DESCAMPS",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "70669642",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nAUTO_APPR\n13:30 - 17:55\nMadame TARHAN",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70681650",
+            "title": "\n\nS8 - Project in agriculture\nPROJET_AUTO_GERE\n13:30 - 17:55\nMadame LERUSTE",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "70681872",
+            "title": "IC2 B802     (H)\n\nS8 - Projet en environnement\nSOUTENANCE\n13:30 - 17:55\nMadame COMBELLES",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729215",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n13:30 - 17:55\nMonsieur CARRÉ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "66365154",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 20:00\nMadame MATUSOVSKY",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T20:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66365154",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 20:00\nMadame MATUSOVSKY",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T20:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74104456",
+            "title": "\ncours en ligne surTEAMS\n\nUEL2 Advanced marketing\nCOURS_TD_DIST\n18:30 - 20:30\nMadame TARHAN",
+            "start": "2026-04-28T18:30:00+0200",
+            "end": "2026-04-28T20:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "64977809",
+            "title": "ALG Salle 221 H\n\nUEC6 Projet appliqué au changement climatique en agriculture\nSOUTENANCE\n08:00 - 12:25\nMadame DESMYTTERE",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "76127471",
+            "title": "\n\nUEC6 Gestion de la production\nEXAM_SURV\n08:00 - 11:00\nMonsieur BLONDEL",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T11:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76127391",
+            "title": "\n\nUEC6 Gestion des sites et sols pollués\nEXAM_SURV\n08:00 - 10:00\nMonsieur CASTELIN",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76127406",
+            "title": "\n\nUEC6 Ingredients\nEXAM_SURV\n08:00 - 10:00\nMadame MOLINIER",
+            "start": "2026-04-29T08:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76127382",
+            "title": "\nTHÉIA\nUEC6 Digital business\nEXAM_SURV\n10:30 - 12:30\nMadame GRIMONPONT",
+            "start": "2026-04-29T10:30:00+0200",
+            "end": "2026-04-29T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75860145",
+            "title": "\n\nUEC6 Gestion de la production\nVISITE\n13:30 - 17:55\nMonsieur BLONDEL",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "VISITE"
+        },
+        {
+            "id": "76279385",
+            "title": "\n\nUEC7 Economie des ressources naturelles et de la biodiversité\nEXAM_SURV\n08:00 - 10:00\nMonsieur COURTECUISSE",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "70554819",
+            "title": "IC1_102\n\nUEC7 Expérimentation végétale\nCOURS_TD\n08:00 - 12:25\nMadame JACQUIN",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74258906",
+            "title": "\n\nUEC7 Nutrition\nEXAM_SURV\n08:00 - 10:00\nMadame GABEREL",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "75584353",
+            "title": "\n\nUEC7 B to B Marketing\nEXAM_SURV\n08:00 - 10:00\nMadame TARHAN",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "76279563",
+            "title": "\nTHÉIA\nUEC7 Performance industrielle\nEXAM_SURV\n10:30 - 12:30\nMonsieur GIRAUDEAU",
+            "start": "2026-04-30T10:30:00+0200",
+            "end": "2026-04-30T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "66126748",
+            "title": "IC1_102\nPerception des enseignements\n\n\nREUNION\n13:30 - 15:35\nMadame DUPONT",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66126748",
+            "title": "IC1_102\nPerception des enseignements\n\n\nREUNION\n13:30 - 15:35\nMadame DUPONT",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66126748",
+            "title": "IC1_102\nPerception des enseignements\n\n\nREUNION\n13:30 - 15:35\nMadame DUPONT",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66126748",
+            "title": "IC1_102\nPerception des enseignements\n\n\nREUNION\n13:30 - 15:35\nMadame DUPONT",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "66126748",
+            "title": "IC1_102\nPerception des enseignements\n\n\nREUNION\n13:30 - 15:35\nMadame DUPONT",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "REUNION"
+        },
+        {
+            "id": "74696706",
+            "title": "\nResults Interpretation\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74696706",
+            "title": "\nResults Interpretation\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70669553",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n08:00 - 12:25\nMadame TARHAN",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729131",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n08:00 - 12:25\nMonsieur CARRÉ",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681780",
+            "title": "IC2 A816 - VP\n\nS8 - Projet en environnement\nSOUTENANCE\n08:00 - 12:25\nMadame COMBELLES",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669868",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nPROJET_AUTO_GERE\n08:00 - 12:25\nMadame LERUSTE",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "70669717",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n08:00 - 12:25\nMonsieur DESCAMPS",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695163",
+            "title": "PR Fab labo agro\nFormulation Project practical part  - Sensory analysis : preparation of the samples\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n09:00 - 12:00\nMonsieur RAYMOND",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74695163",
+            "title": "PR Fab labo agro\nFormulation Project practical part  - Sensory analysis : preparation of the samples\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n09:00 - 12:00\nMonsieur RAYMOND",
+            "start": "2026-05-04T09:00:00+0200",
+            "end": "2026-05-04T12:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70681665",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nPROJET_AUTO_GERE\n13:30 - 17:55\nMadame LERUSTE",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "70669803",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n13:30 - 17:55\nMonsieur DESCAMPS",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729230",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n13:30 - 17:55\nMonsieur CARRÉ",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695190",
+            "title": "PR Labo Senso\nFormulation Project practical part  - Sensory analysis : triangular test (1/2 group)\n\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74695190",
+            "title": "PR Labo Senso\nFormulation Project practical part  - Sensory analysis : triangular test (1/2 group)\n\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n13:30 - 17:00\nMadame MOLINIER",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70681887",
+            "title": "IC2 B802     (H)\n\nS8 - Projet en environnement\nSOUTENANCE\n13:30 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669657",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n13:30 - 17:55\nMadame TARHAN",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729153",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n08:00 - 12:25\nMonsieur CARRÉ",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669570",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n08:00 - 12:25\nMadame VU",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74696718",
+            "title": "\nPreparation Final presentation + video\n\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74696718",
+            "title": "\nPreparation Final presentation + video\n\n\n\n\n\nS8 - Food Project - technologie\nAUTO_APPR\n08:00 - 17:55\n ",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "70669732",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n08:00 - 12:25\nMonsieur DESCAMPS",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669883",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nSOUTENANCE\n08:00 - 12:25\nMadame LERUSTE",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681796",
+            "title": "IC2 A816 - VP\n\nS8 - Projet en environnement\nSOUTENANCE\n08:00 - 12:25\nMadame COMBELLES",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695218",
+            "title": "PR Labo Senso\nFormulation Project practical part  - Sensory analysis : triangular test (1/2 group)\n\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n09:00 - 12:25\nMadame MOLINIER",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74695218",
+            "title": "PR Labo Senso\nFormulation Project practical part  - Sensory analysis : triangular test (1/2 group)\n\n\n\n\n\n\nS8 - Food Project - formulation\nTP\n09:00 - 12:25\nMadame MOLINIER",
+            "start": "2026-05-05T09:00:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "70669672",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n13:30 - 17:55\nMadame VU",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681680",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nSOUTENANCE\n13:30 - 17:55\nMadame LERUSTE",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669818",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n13:30 - 17:55\nMonsieur DESCAMPS",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681917",
+            "title": "IC2 B802     (H)\n\nS8 - Projet en environnement\nSOUTENANCE\n13:30 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729245",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n13:30 - 17:55\nMonsieur CARRÉ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695255",
+            "title": "\nFormulation Project practical part  - Results analysis + Oral presentation preparation\n\n\n\n\n\n\nS8 - Food Project - formulation\nAUTO_APPR\n13:30 - 17:55\n ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74695255",
+            "title": "\nFormulation Project practical part  - Results analysis + Oral presentation preparation\n\n\n\n\n\n\nS8 - Food Project - formulation\nAUTO_APPR\n13:30 - 17:55\n ",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "66365164",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 20:00\nMadame MATUSOVSKY",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T20:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "66365164",
+            "title": "ALG Salle 204 avec TV pour projection\n\n\nCOURS_TD\n18:00 - 20:00\nMadame MATUSOVSKY",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T20:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71729171",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n08:00 - 12:25\nMonsieur CARRÉ",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669898",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nSOUTENANCE\n08:00 - 12:25\nMadame LERUSTE",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669747",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n08:00 - 12:25\nMonsieur DESCAMPS",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74696801",
+            "title": "ALG Salle 222 H\nFinal Presentation\n\n\n\n\n\nS8 - Food Project - technologie\nIO\n08:00 - 17:00\nMonsieur BLONDEL",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "IO"
+        },
+        {
+            "id": "74696801",
+            "title": "ALG Salle 222 H\nFinal Presentation\n\n\n\n\n\nS8 - Food Project - technologie\nIO\n08:00 - 17:00\nMonsieur BLONDEL",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "IO"
+        },
+        {
+            "id": "70669585",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n08:00 - 12:25\nMadame VU",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681811",
+            "title": "IC2 A816 - VP\n\nS8 - Projet en environnement\nSOUTENANCE\n08:00 - 12:25\nMadame COMBELLES",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695611",
+            "title": "Palais Rameau_104\nFormulation Project practical part - Oral presentations (1/2 group)\n\n\n\nS8 - Food Project - formulation\nCM\n09:00 - 12:25\nMonsieur DERMONT",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "74695611",
+            "title": "Palais Rameau_104\nFormulation Project practical part - Oral presentations (1/2 group)\n\n\n\nS8 - Food Project - formulation\nCM\n09:00 - 12:25\nMonsieur DERMONT",
+            "start": "2026-05-06T09:00:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "70669833",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n13:30 - 17:55\nMonsieur DESCAMPS",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669687",
+            "title": "ALG Salle 221 H\n\nS8 - International business development\nSOUTENANCE\n13:30 - 17:55\nMadame TARHAN",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74695638",
+            "title": "Palais Rameau_104\nFormulation Project practical part - Oral presentations (1/2 group)\n\n\n\nS8 - Food Project - formulation\nCM\n13:30 - 17:00\nMonsieur FAYTRE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "74695638",
+            "title": "Palais Rameau_104\nFormulation Project practical part - Oral presentations (1/2 group)\n\n\n\nS8 - Food Project - formulation\nCM\n13:30 - 17:00\nMonsieur FAYTRE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "70681932",
+            "title": "IC2 B802     (H)\n\nS8 - Projet en environnement\nSOUTENANCE\n13:30 - 17:55\nMadame COMBELLES",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70681695",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nSOUTENANCE\n13:30 - 17:55\nMadame LERUSTE",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729260",
+            "title": "ALG Salle 208 H\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n13:30 - 17:55\nMonsieur CARRÉ",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669614",
+            "title": "ALG Salle 225\n\nS8 - International business development\nSOUTENANCE\n08:00 - 12:25\nMadame TARHAN",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74696973",
+            "title": "ALG Salle 205 H\nFinal Presentation\n\n\n\n\n\nS8 - Food Project - technologie\nIO\n08:00 - 17:00\nMadame HUNOT",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "IO"
+        },
+        {
+            "id": "70681829",
+            "title": "IC2 A816 - VP\n\nS8 - Projet en environnement\nSOUTENANCE\n08:00 - 12:25\nMadame COMBELLES",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "71729200",
+            "title": "ALG Salle 211\n\nS8 - Projet de communication d'entreprise IS@Cup\nSOUTENANCE\n08:00 - 12:25\nMonsieur CARRÉ",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669913",
+            "title": "IC2 C956     (H)\nGroup work on project or Project defense\n\nS8 - Project in agriculture\nSOUTENANCE\n08:00 - 12:25\nMadame LERUSTE",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "70669770",
+            "title": "IC1_229\n\nS8 - Projet en agriculture\nSOUTENANCE\n08:00 - 12:25\nMonsieur DESCAMPS",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "SOUTENANCE"
+        },
+        {
+            "id": "74696973",
+            "title": "ALG Salle 205 H\nFinal Presentation\n\n\n\n\n\nS8 - Food Project - technologie\nIO\n08:00 - 17:00\nMadame HUNOT",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T17:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "IO"
+        }
+    ]
+}

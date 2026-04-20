@@ -1,0 +1,328 @@
+{
+    "events": [
+        {
+            "id": "74025494",
+            "title": "IC1_419\n\nCPI_214_Business Practices 1\nAUTO_APPR\n09:05 - 12:05\n ",
+            "start": "2026-04-27T09:05:00+0200",
+            "end": "2026-04-27T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71956004",
+            "title": "IC2 B804     (H)\n\nCPI_214_Business Practices 1\nCOURS_TD\n13:30 - 15:30\nMs VU",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72245701",
+            "title": "IC2 B804     (H)\n\nCPI_211_Electronics\nCOURS_TD\n15:50 - 17:50\nMr LATIF",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73574141",
+            "title": "IC2 B305     (H)\n\nChemistry S2\nCOURS_TD\n08:00 - 10:00\nMr FERNANDEZ",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75886972",
+            "title": "IC2 B305     (H)\n\nCPI_210_Mechanical design\nCOURS_TD\n10:20 - 12:20\nMr MOBASHERI",
+            "start": "2026-04-28T10:20:00+0200",
+            "end": "2026-04-28T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74025533",
+            "title": "ALG Salle 204 avec TV pour projection\n\nCPI_214_Business Practices 1\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74025504",
+            "title": "ALG Salle 208 H\n\nCPI_214_Business Practices 1\nAUTO_APPR\n09:05 - 12:05\n ",
+            "start": "2026-04-29T09:05:00+0200",
+            "end": "2026-04-29T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74026102",
+            "title": "IC2 A919\n\nCPI_214_Business Practices 1\nAUTO_APPR\n13:30 - 15:30\n ",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74026722",
+            "title": "IC2 B802     (H)\n\nCPI_214_Business Practices 1\nPROJET\n10:20 - 12:20\nMs RATAJ",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71945640",
+            "title": "IC1_229\n\nCPI_206_English\nCOURS_TD\n13:30 - 15:30\nMr BAMATRAF",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74026961",
+            "title": "IC2 B802     (H)\n\nCPI_214_Business Practices 1\nPROJET\n10:20 - 12:20\nMs RATAJ",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72245651",
+            "title": "IC2 C601  - VidéoProj\n\nCPI_211_Electronics\nCOURS_TD\n13:30 - 15:30\nMr LATIF",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74025585",
+            "title": "IC2 C601  - VidéoProj\n\nCPI_214_Business Practices 1\nAUTO_APPR\n15:50 - 17:50\n ",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "73574155",
+            "title": "IC2 B304     (H)\n\nChemistry S2\nCOURS_TD\n08:00 - 10:00\nMr FERNANDEZ",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75887019",
+            "title": "IC2 B304     (H)\n\nCPI_210_Mechanical design\nCOURS_TD\n10:20 - 12:20\nMr MOBASHERI",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71954663",
+            "title": "IC2 C601  - VidéoProj\n\nCPI_210_Mechanical design\nCOURS_TD\n13:30 - 15:30\nMr MOBASHERI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74042061",
+            "title": "IC2 C601  - VidéoProj\n\nCPI_214_Business Practices 1\nAUTO_APPR\n15:50 - 16:50\n ",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "72100230",
+            "title": "IC2 B804     (H)\n\nCPI_210_Mechanical design\nPROJET\n10:20 - 12:20\nMr MOBASHERI",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75674163",
+            "title": "IC2 B305     (H)\n\nCPI_210_Mechanical design\nPROJET\n13:30 - 15:30\nMr MOBASHERI",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "74025611",
+            "title": "IC2 B803     (H)\n\nCPI_214_Business Practices 1\nAUTO_APPR\n15:50 - 17:50\n ",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "72246044",
+            "title": "IC2 B305     (H)\n\nCPI_211_Electronics\nCOURS_TD\n08:00 - 10:00\nMr LATIF",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71954649",
+            "title": "IC2 B305     (H)\n\nCPI_210_Mechanical design\nPROJET\n10:20 - 12:20\nMr MOBASHERI",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "75886781",
+            "title": "IC2 B305     (H)\n\nCPI_210_Mechanical design\nPROJET\n13:30 - 16:50\nMr MOBASHERI",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T16:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71956018",
+            "title": "IC2 B804     (H)\n\nCPI_214_Business Practices 1\nCOURS_TD\n10:20 - 12:20\nMs VU",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "73574235",
+            "title": "IC2 B804     (H)\n\nChemistry S2\nCOURS_TD\n13:30 - 15:30\nMr FERNANDEZ",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72245891",
+            "title": "IC2 B804     (H)\n\nCPI_211_Electronics\nCOURS_TD\n15:50 - 17:50\nMr LATIF",
+            "start": "2026-05-11T15:50:00+0200",
+            "end": "2026-05-11T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "75886884",
+            "title": "IC2 B804     (H)\n\nCPI_214_Business Practices 1\nAUTO_APPR\n09:05 - 12:05\n ",
+            "start": "2026-05-12T09:05:00+0200",
+            "end": "2026-05-12T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "71945502",
+            "title": "IC1_229\n\nCPI_206_English\nCOURS_TD\n13:30 - 15:30\nMr BAMATRAF",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "76204467",
+            "title": "IC1_229\n\nCPI_214_Business Practices 1\nAUTO_APPR\n15:50 - 17:50\n ",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:50:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "72245305",
+            "title": "MF H107 24+1 postes vidéo\n\nCPI_211_Electronics\nTP\n09:05 - 12:05\nMr LATIF",
+            "start": "2026-05-13T09:05:00+0200",
+            "end": "2026-05-13T12:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "75674214",
+            "title": "IC2 A811\n\nCPI_214_Business Practices 1\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "72410467",
+            "title": "IC2 C601  - VidéoProj\n\nCPI_214_Business Practices 1\nCOURS_TD\n10:20 - 12:20\nMs VU",
+            "start": "2026-05-18T10:20:00+0200",
+            "end": "2026-05-18T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74025710",
+            "title": "IC2 B803     (H)\n\nCPI_214_Business Practices 1\nAUTO_APPR\n13:30 - 16:30\n ",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "AUTO_APPR"
+        },
+        {
+            "id": "74023816",
+            "title": "IC1_229\n\nCPI_214_Business Practices 1\nPROJET\n08:00 - 12:20\nMs RATAJ",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T12:20:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72245318",
+            "title": "MF H116 26+1 postes vidéo\n\nCPI_211_Electronics\nTP\n13:30 - 16:30\nMr LATIF",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T16:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "73574483",
+            "title": "IC2 B804     (H)\n\nChemistry S2\nCOURS_TD\n09:05 - 12:25\nMr FERNANDEZ",
+            "start": "2026-05-21T09:05:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        }
+    ]
+}

@@ -1,0 +1,2677 @@
+{
+    "events": [
+        {
+            "id": "71697153",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-04-27T08:00:00+0200",
+            "end": "2026-04-27T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "71716039",
+            "title": "IC1_130\n\nBiochimie structurale\nTD\n10:20 - 12:25\nMonsieur DUMORTIER",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "64973701",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71716039",
+            "title": "IC1_130\n\nBiochimie structurale\nTD\n10:20 - 12:25\nMonsieur DUMORTIER",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74705306",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71716039",
+            "title": "IC1_130\n\nBiochimie structurale\nTD\n10:20 - 12:25\nMonsieur DUMORTIER",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "64973701",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71716039",
+            "title": "IC1_130\n\nBiochimie structurale\nTD\n10:20 - 12:25\nMonsieur DUMORTIER",
+            "start": "2026-04-27T10:20:00+0200",
+            "end": "2026-04-27T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "64973829",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952242",
+            "title": "IC1_412\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame OLLA",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71952242",
+            "title": "IC1_412\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame OLLA",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72087229",
+            "title": "ALG Salle 209 H\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame DE LORIOL",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72087229",
+            "title": "ALG Salle 209 H\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame DE LORIOL",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "64973829",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71716583",
+            "title": "ALG Salle 222 H\n\nBiochimie structurale\nTD\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71716583",
+            "title": "ALG Salle 222 H\n\nBiochimie structurale\nTD\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71716583",
+            "title": "ALG Salle 222 H\n\nBiochimie structurale\nTD\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-27T13:30:00+0200",
+            "end": "2026-04-27T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71877246",
+            "title": "ALG Amphi 002 H\n\nMathématiques 2\nCM\n15:50 - 17:55\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-27T15:50:00+0200",
+            "end": "2026-04-27T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71715919",
+            "title": "ALG Amphi 001 H\n\nBiochimie structurale\nCM\n08:00 - 10:05\nMadame GOUDOT",
+            "start": "2026-04-28T08:00:00+0200",
+            "end": "2026-04-28T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71881920",
+            "title": "\n\nMicrobiologie\nEXAM_SURV\n10:30 - 12:30\nMadame CHOMA",
+            "start": "2026-04-28T10:30:00+0200",
+            "end": "2026-04-28T12:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71878677",
+            "title": "ALG Salle 209 H\n\nMathématiques 2\nTD\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878677",
+            "title": "ALG Salle 209 H\n\nMathématiques 2\nTD\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "64973954",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64973954",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089319",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089319",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089184",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089184",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088876",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72088876",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-04-28T13:30:00+0200",
+            "end": "2026-04-28T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089471",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64975217",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64975217",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72088737",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72088737",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089032",
+            "title": "ALG Salle 224\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089032",
+            "title": "ALG Salle 224\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089471",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089623",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089623",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "74704819",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n15:50 - 17:55\nMonsieur FOUKANI",
+            "start": "2026-04-28T15:50:00+0200",
+            "end": "2026-04-28T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72101439",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101193",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102297",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102297",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098670",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098670",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099003",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099003",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72644938",
+            "title": "ALG Salle 208 H\n\nPortugais\nCOURS_TD\n18:00 - 19:30\nMonsieur PONCIANO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72644938",
+            "title": "ALG Salle 208 H\n\nPortugais\nCOURS_TD\n18:00 - 19:30\nMonsieur PONCIANO",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101439",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101193",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-04-28T18:00:00+0200",
+            "end": "2026-04-28T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71879250",
+            "title": "\n\nMathématiques 2\nINTERRO_SURV\n09:00 - 10:00\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-29T09:00:00+0200",
+            "end": "2026-04-29T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64975250",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64975250",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74704705",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952073",
+            "title": "IC1_229\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71952073",
+            "title": "IC1_229\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-04-29T10:20:00+0200",
+            "end": "2026-04-29T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71879591",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n13:30 - 15:35\nMonsieur FOLLET",
+            "start": "2026-04-29T13:30:00+0200",
+            "end": "2026-04-29T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71878697",
+            "title": "IC1_130\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74705958",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71878697",
+            "title": "IC1_130\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878697",
+            "title": "IC1_130\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-04-29T15:50:00+0200",
+            "end": "2026-04-29T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72102099",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102464",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102464",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102099",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099988",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099988",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-04-29T18:00:00+0200",
+            "end": "2026-04-29T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71697548",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-04-30T08:00:00+0200",
+            "end": "2026-04-30T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "74708206",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72087051",
+            "title": "IC1_106\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72087051",
+            "title": "IC1_106\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71878732",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878732",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878732",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-04-30T10:20:00+0200",
+            "end": "2026-04-30T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75600050",
+            "title": "ALG Salle 223\nPortFolio 2\nMon Portfolio\nTP\n13:30 - 15:35\nMadame DEMDOUM",
+            "start": "2026-04-30T13:30:00+0200",
+            "end": "2026-04-30T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71697948",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-04T08:00:00+0200",
+            "end": "2026-05-04T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "71879101",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879101",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879101",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "64975793",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64975793",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952262",
+            "title": "IC1_106\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71952262",
+            "title": "IC1_106\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-04T10:20:00+0200",
+            "end": "2026-05-04T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71879117",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "64975811",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74705385",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n13:30 - 15:35\nMonsieur FOUKANI",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64975811",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71879117",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879117",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879117",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-04T13:30:00+0200",
+            "end": "2026-05-04T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879616",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n15:50 - 17:55\nMonsieur FOLLET",
+            "start": "2026-05-04T15:50:00+0200",
+            "end": "2026-05-04T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71902711",
+            "title": "ALG Amphi 001 H\n\nEconomie Générale\nCM\n08:00 - 10:05\nMadame CERIANI BAILLIF",
+            "start": "2026-05-05T08:00:00+0200",
+            "end": "2026-05-05T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71877260",
+            "title": "ALG Amphi 001 H\n\nMathématiques 2\nCM\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-05T10:20:00+0200",
+            "end": "2026-05-05T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "74708718",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n13:30 - 15:35\nMonsieur FOUKANI",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089334",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089199",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64975864",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64975864",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089199",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088891",
+            "title": "ALG Salle 205 H\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71878837",
+            "title": "ALG Salle 209 H\n\nMathématiques 2\nTD\n13:30 - 15:35\nMonsieur COUPIER",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878837",
+            "title": "ALG Salle 209 H\n\nMathématiques 2\nTD\n13:30 - 15:35\nMonsieur COUPIER",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "72088891",
+            "title": "ALG Salle 205 H\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089334",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-05T13:30:00+0200",
+            "end": "2026-05-05T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089637",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089637",
+            "title": "ALG Salle 223\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64975921",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74704880",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089490",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64975921",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089490",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088752",
+            "title": "ALG Salle 205 H\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088752",
+            "title": "ALG Salle 205 H\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-05-05T15:50:00+0200",
+            "end": "2026-05-05T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099021",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101207",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101207",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101454",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101454",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102311",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102311",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098684",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098684",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099021",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-05T18:00:00+0200",
+            "end": "2026-05-05T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71721840",
+            "title": "\n\nBiochimie structurale\nINTERRO_SURV\n08:00 - 09:00\nMadame GOUDOT",
+            "start": "2026-05-06T08:00:00+0200",
+            "end": "2026-05-06T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "71699951",
+            "title": "\n\nGestion agricole\nINTERRO_SURV\n09:30 - 10:00\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-06T09:30:00+0200",
+            "end": "2026-05-06T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "74710076",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "64975953",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952087",
+            "title": "IC1_217\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "64975953",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74710076",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "74710076",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71952087",
+            "title": "IC1_217\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74710076",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T10:20:00+0200",
+            "end": "2026-05-06T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71715943",
+            "title": "ALG Amphi 001 H\n\nBiochimie structurale\nCM\n13:30 - 15:35\nMonsieur DUMORTIER",
+            "start": "2026-05-06T13:30:00+0200",
+            "end": "2026-05-06T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71878852",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74710103",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71878852",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74710103",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71878852",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "74710103",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "74704723",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n15:50 - 17:55\nMonsieur MAAZOUZ",
+            "start": "2026-05-06T15:50:00+0200",
+            "end": "2026-05-06T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72102117",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72100006",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72100006",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102478",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102478",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102117",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-06T18:00:00+0200",
+            "end": "2026-05-06T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71698313",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-07T08:00:00+0200",
+            "end": "2026-05-07T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "72087066",
+            "title": "IC1_120\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72087066",
+            "title": "IC1_120\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74706225",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71878869",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878869",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878869",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-07T10:20:00+0200",
+            "end": "2026-05-07T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75600064",
+            "title": "ALG Salle 223\nPortFolio 2\nMon Portfolio\nTP\n13:30 - 15:35\nMadame DEMDOUM",
+            "start": "2026-05-07T13:30:00+0200",
+            "end": "2026-05-07T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71698743",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-11T08:00:00+0200",
+            "end": "2026-05-11T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "71952281",
+            "title": "IC1_102\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71879134",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "64976978",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64976978",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71879134",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879134",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72087244",
+            "title": "ALG Salle 222 H\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71952281",
+            "title": "IC1_102\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72087244",
+            "title": "ALG Salle 222 H\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame DE LORIOL",
+            "start": "2026-05-11T10:20:00+0200",
+            "end": "2026-05-11T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "71879151",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "64977022",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64977022",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71879151",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879151",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879151",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n13:30 - 15:35\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "74705426",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n13:30 - 15:35\nMonsieur MAAZOUZ",
+            "start": "2026-05-11T13:30:00+0200",
+            "end": "2026-05-11T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71879636",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n15:50 - 17:55\nMonsieur FOLLET",
+            "start": "2026-05-11T15:50:00+0200",
+            "end": "2026-05-11T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71880201",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n08:00 - 10:05\nMonsieur FOLLET",
+            "start": "2026-05-12T08:00:00+0200",
+            "end": "2026-05-12T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71905262",
+            "title": "ALG Amphi 001 H\n\nEconomie Générale\nCM\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-12T10:20:00+0200",
+            "end": "2026-05-12T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71952101",
+            "title": "IC1_120\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame OLLA",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72089593",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "64977039",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64977039",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n13:30 - 15:35\nMadame GOUDOT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089798",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089798",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089798",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089798",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "74704741",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n13:30 - 15:35\nMonsieur FOUKANI",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952101",
+            "title": "IC1_120\n\nCommunication et Culture Générale S2\nATELIER\n13:30 - 15:35\nMadame OLLA",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "72089593",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame DERYCKE",
+            "start": "2026-05-12T13:30:00+0200",
+            "end": "2026-05-12T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089748",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "64977073",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089748",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72089748",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "74708750",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n15:50 - 17:55\nMonsieur FOUKANI",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "64977073",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n15:50 - 17:55\nMadame GOUDOT",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72089748",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-12T15:50:00+0200",
+            "end": "2026-05-12T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72174502",
+            "title": "\n\nFertilisation des grandes cultures\nEXAM_SURV\n09:00 - 10:00\nMonsieur ANDRIANARISOA",
+            "start": "2026-05-13T09:00:00+0200",
+            "end": "2026-05-13T10:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "64977089",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952295",
+            "title": "IC1_220\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "74704898",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n10:20 - 12:25\nMonsieur MAAZOUZ",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71952295",
+            "title": "IC1_220\n\nCommunication et Culture Générale S2\nATELIER\n10:20 - 12:25\nMadame OLLA",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "ATELIER"
+        },
+        {
+            "id": "75945890",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "75945890",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "64977089",
+            "title": "ALG Labo 320\n\nBiochimie structurale\nTP\n10:20 - 12:25\nMadame GOUDOT",
+            "start": "2026-05-13T10:20:00+0200",
+            "end": "2026-05-13T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71880117",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n13:30 - 15:35\nMonsieur FOLLET",
+            "start": "2026-05-13T13:30:00+0200",
+            "end": "2026-05-13T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71907065",
+            "title": "ALG Amphi 001 H\n\nEconomie Générale\nCM\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-13T15:50:00+0200",
+            "end": "2026-05-13T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71699093",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-18T08:00:00+0200",
+            "end": "2026-05-18T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "72173888",
+            "title": "ALG Amphi 002 H\n\nInitiation à la Démarche scientifique\nCM\n10:20 - 11:25\nMonsieur DESCAMPS",
+            "start": "2026-05-18T10:20:00+0200",
+            "end": "2026-05-18T11:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71880132",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n13:30 - 15:35\nMonsieur FOLLET",
+            "start": "2026-05-18T13:30:00+0200",
+            "end": "2026-05-18T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "74710123",
+            "title": "\nProjet physique AUTOGERE\nProjet Sciences Physiques 2\nPROJET_AUTO_GERE\n15:50 - 17:55\nMonsieur FOUKANI",
+            "start": "2026-05-18T15:50:00+0200",
+            "end": "2026-05-18T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "72101235",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-18T18:00:00+0200",
+            "end": "2026-05-18T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101235",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-18T18:00:00+0200",
+            "end": "2026-05-18T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71715994",
+            "title": "ALG Amphi 001 H\n\nBiochimie structurale\nCM\n08:00 - 10:05\nMonsieur DUMORTIER",
+            "start": "2026-05-19T08:00:00+0200",
+            "end": "2026-05-19T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71877274",
+            "title": "ALG Amphi 001 H\n\nMathématiques 2\nCM\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-19T10:20:00+0200",
+            "end": "2026-05-19T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "72089046",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame ROZAN",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089349",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089349",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089046",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame ROZAN",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089214",
+            "title": "IC1_122\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089214",
+            "title": "IC1_122\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame VERVUURT",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71918360",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n13:30 - 15:35\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71918360",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n13:30 - 15:35\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71918360",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n13:30 - 15:35\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "72088906",
+            "title": "IC1_520\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088906",
+            "title": "IC1_520\n\nLV1 Anglais S2\nCOURS_TD\n13:30 - 15:35\nMadame MILSOM",
+            "start": "2026-05-19T13:30:00+0200",
+            "end": "2026-05-19T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088767",
+            "title": "IC1_520\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71918389",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71918389",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "71918389",
+            "title": "\nProjet\n\nEconomie Générale\nPROJET_AUTO_GERE\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET_AUTO_GERE"
+        },
+        {
+            "id": "72089505",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089505",
+            "title": "ALG Salle 220\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame CHERIK",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089651",
+            "title": "IC1_122\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089651",
+            "title": "IC1_122\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame DERYCKE",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089060",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72089060",
+            "title": "ALG Salle 207\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame ROZAN",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72088767",
+            "title": "IC1_520\n\nLV1 Anglais S2\nCOURS_TD\n15:50 - 17:55\nMadame MILSOM",
+            "start": "2026-05-19T15:50:00+0200",
+            "end": "2026-05-19T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099036",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102325",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098698",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101221",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101221",
+            "title": "ALG Salle 225\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SOLA LOPEZ",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72644972",
+            "title": "ALG Salle 208 H\n\nPortugais\nCOURS_TD\n18:00 - 19:30\nMonsieur PONCIANO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72644972",
+            "title": "ALG Salle 208 H\n\nPortugais\nCOURS_TD\n18:00 - 19:30\nMonsieur PONCIANO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72099036",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101469",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72098698",
+            "title": "ALG Salle 224\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame SARTI",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72101469",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102325",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-19T18:00:00+0200",
+            "end": "2026-05-19T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71932054",
+            "title": "\n\nEconomie Générale\nINTERRO_SURV\n08:00 - 09:00\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T08:00:00+0200",
+            "end": "2026-05-20T09:00:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "est-epreuve"
+        },
+        {
+            "id": "72491808",
+            "title": "\nTP Biologie animale - en salle RZ 313B au 41 rue du Port, Bâtiment Rizomm, 3ème étage bas.\nBiologie Animale\nTP\n10:20 - 12:25\nMonsieur FOLLET",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72491808",
+            "title": "\nTP Biologie animale - en salle RZ 313B au 41 rue du Port, Bâtiment Rizomm, 3ème étage bas.\nBiologie Animale\nTP\n10:20 - 12:25\nMonsieur FOLLET",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71878933",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878933",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878933",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71918453",
+            "title": "IC1_402\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71918453",
+            "title": "IC1_402\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71918453",
+            "title": "IC1_402\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T10:20:00+0200",
+            "end": "2026-05-20T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71715966",
+            "title": "ALG Amphi 001 H\n\nBiochimie structurale\nCM\n13:30 - 15:35\nMonsieur DUMORTIER",
+            "start": "2026-05-20T13:30:00+0200",
+            "end": "2026-05-20T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        },
+        {
+            "id": "71918492",
+            "title": "IC1_130\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71918492",
+            "title": "IC1_130\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71918492",
+            "title": "IC1_130\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "71878949",
+            "title": "IC1_222\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878949",
+            "title": "IC1_222\n\nMathématiques 2\nTD\n15:50 - 17:55\nMonsieur COUPIER",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71918492",
+            "title": "IC1_130\nProjet coaché par l'enseignante\n\nEconomie Générale\nPROJET\n15:50 - 17:55\nMadame CERIANI BAILLIF",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "PROJET"
+        },
+        {
+            "id": "72491921",
+            "title": "\nTP Biologie animale - en salle RZ 313B au 41 rue du Port, Bâtiment Rizomm, 3ème étage bas.\nBiologie Animale\nTP\n15:50 - 17:55\nMonsieur FOLLET",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72491921",
+            "title": "\nTP Biologie animale - en salle RZ 313B au 41 rue du Port, Bâtiment Rizomm, 3ème étage bas.\nBiologie Animale\nTP\n15:50 - 17:55\nMonsieur FOLLET",
+            "start": "2026-05-20T15:50:00+0200",
+            "end": "2026-05-20T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72102132",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72100022",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102492",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102492",
+            "title": "ALG Salle 205 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame ERAZO",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72100022",
+            "title": "ALG Salle 220\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMadame GONZALEZ-FIDALGO",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "72102132",
+            "title": "ALG Salle 221 H\n\nLV2 S2\nCOURS_TD\n18:00 - 19:30\nMonsieur RUBALCAVA",
+            "start": "2026-05-20T18:00:00+0200",
+            "end": "2026-05-20T19:30:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD"
+        },
+        {
+            "id": "71699424",
+            "title": "\n\nGestion agricole\nCOURS_TD_DIST\n08:00 - 10:05\nMadame GENEAU DE LAMARLIERE",
+            "start": "2026-05-21T08:00:00+0200",
+            "end": "2026-05-21T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "COURS_TD_DIST"
+        },
+        {
+            "id": "71878964",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMonsieur COUPIER",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71918937",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71918937",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71918937",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71918937",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n10:20 - 12:25\nMadame CERIANI BAILLIF",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71878964",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMonsieur COUPIER",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "71878964",
+            "title": "IC1_220\n\nMathématiques 2\nTD\n10:20 - 12:25\nMonsieur COUPIER",
+            "start": "2026-05-21T10:20:00+0200",
+            "end": "2026-05-21T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TD"
+        },
+        {
+            "id": "75600078",
+            "title": "ALG Salle 207\nPortFolio 2\nMon Portfolio\nTP\n13:30 - 15:35\nMadame DEMDOUM",
+            "start": "2026-05-21T13:30:00+0200",
+            "end": "2026-05-21T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "71919287",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n08:00 - 10:05\nMadame CERIANI BAILLIF",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71919287",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n08:00 - 10:05\nMadame CERIANI BAILLIF",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71919287",
+            "title": "\nE-Learning\n\n\nEconomie Générale\nE_LEARNING\n08:00 - 10:05\nMadame CERIANI BAILLIF",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879176",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n08:00 - 10:05\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879176",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n08:00 - 10:05\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879176",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n08:00 - 10:05\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T08:00:00+0200",
+            "end": "2026-05-22T10:05:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879192",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T10:20:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879192",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T10:20:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879192",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T10:20:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71879192",
+            "title": "\n\nMathématiques 2\nE_LEARNING\n10:20 - 12:25\nMadame CARPENTIER-BENEDITO",
+            "start": "2026-05-22T10:20:00+0200",
+            "end": "2026-05-22T12:25:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "76307550",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "72173738",
+            "title": "ALG Salle 225\n\nInitiation à la Démarche scientifique\nTP\n13:30 - 15:35\nMonsieur TAISNE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "72173738",
+            "title": "ALG Salle 225\n\nInitiation à la Démarche scientifique\nTP\n13:30 - 15:35\nMonsieur TAISNE",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "74707915",
+            "title": "MF H401_labo chimie analytique\nTP Physique\nSciences Physiques 2\nTP\n13:30 - 15:35\nMonsieur MAAZOUZ",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "TP"
+        },
+        {
+            "id": "76307550",
+            "title": "\n\nLV1 Anglais S2\nE_LEARNING\n13:30 - 15:35\nMadame CHERIK",
+            "start": "2026-05-22T13:30:00+0200",
+            "end": "2026-05-22T15:35:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "E_LEARNING"
+        },
+        {
+            "id": "71880167",
+            "title": "ALG Amphi 001 H\n\nBiologie Animale\nCM\n15:50 - 17:55\nMonsieur FOLLET",
+            "start": "2026-05-22T15:50:00+0200",
+            "end": "2026-05-22T17:55:00+0200",
+            "allDay": false,
+            "editable": true,
+            "className": "CM"
+        }
+    ]
+}
