@@ -1,0 +1,157 @@
+================================================================================
+                    RÉCAP API AURION - INFOS IMPORTANTES
+================================================================================
+
+📌 ENDPOINTS
+================================================================================
+Login:      POST https://aurion.junia.com/login
+Planning:   POST https://aurion.junia.com/faces/Planning.xhtml
+Planning:   GET  https://aurion.junia.com/faces/Planning.xhtml
+
+
+🔐 LOGIN
+================================================================================
+URL:        https://aurion.junia.com/login
+Method:     POST
+Content-Type: application/x-www-form-urlencoded
+
+Paramètres:
+  - username     : Email utilisateur (ex: prenom.nom@student.junia.com)
+  - password     : Mot de passe
+  - j_idt28      : (vide)
+
+Réponse:
+  - Status: 302 Found
+  - Set-Cookie: JSESSIONID (nouveau cookie de session)
+  - Location: https://aurion.junia.com/
+
+Erreur:
+  - Status !== 200 et !== 302 = Login échoué
+
+
+📅 RÉCUPÉRER LES ÉVÉNEMENTS
+================================================================================
+
+1️⃣ GET Planning page pour extraire ViewState et idInit
+   URL:    https://aurion.junia.com/faces/Planning.xhtml
+   Method: GET
+   Cookie: JSESSIONID (du login)
+   
+   À extraire du HTML:
+   - javax.faces.ViewState (regex: name="javax\.faces\.ViewState"[^>]*value="([^"]+)")
+   - form:idInit (regex: name="form:idInit"[^>]*value="([^"]+)")
+
+
+2️⃣ POST AJAX pour récupérer les événements
+   URL:    https://aurion.junia.com/faces/Planning.xhtml
+   Method: POST
+   Cookie: JSESSIONID
+   
+   Headers:
+   - Content-Type: application/x-www-form-urlencoded
+   - Faces-Request: partial/ajax
+   - X-Requested-With: XMLHttpRequest
+   
+   Body (URL-encoded):
+   {
+     "javax.faces.partial.ajax": "true",
+     "javax.faces.source": "form:j_idt118",
+     "javax.faces.partial.execute": "form:j_idt118",
+     "javax.faces.partial.render": "form:j_idt118",
+     "form:j_idt118": "form:j_idt118",
+     "form:j_idt118_start": <timestamp_ms>,
+     "form:j_idt118_end": <timestamp_ms>,
+     "form": "form",
+     "form:largeurDivCenter": "1200",
+     "form:idInit": <idInit_extrait>,
+     "form:date_input": "06/04/2026",          // JJ/MM/YYYY
+     "form:week": "15-2026",                   // semaine-année
+     "form:j_idt118_view": "agendaWeek",
+     "form:offsetFuseauNavigateur": "-3600000",
+     "form:onglets_activeIndex": "0",
+     "form:onglets_scrollState": "0",
+     "javax.faces.ViewState": <viewState_extrait>
+   }
+   
+   Réponse:
+   - Format XML avec CDATA JSON encodé
+   - À extraire: /<!\[CDATA\[(.*?)\]\]>/s
+   - JSON contient: { "events": [...] }
+
+
+📊 STRUCTURE DES ÉVÉNEMENTS
+================================================================================
+Chaque événement contient:
+{
+  "id": "...",
+  "title": "Salle\nMatière\nType (COURS/TP/TD/EXAM/PROJET)\nProfesseur",
+  "start": "2026-04-06T09:00:00+02:00",
+  "end": "2026-04-06T11:00:00+02:00",
+  "className": "COURS" (ou TP, TD, EXAM, PROJET, etc.)
+}
+
+Parsing du titre:
+  Ligne 1: Salle
+  Ligne 2: Matière
+  Ligne 3: Type d'activité
+  Ligne 4: Professeur
+
+
+🎨 TYPES D'ACTIVITÉS ET COULEURS
+================================================================================
+Type        | Couleur      | Code CSS
+------------|--------------|----------
+COURS       | Bleu clair   | type-cours
+TP          | Vert clair   | type-tp
+TD          | Jaune clair  | type-td
+PROJET      | Violet clair | type-projet
+EXAM/CC/DS  | Rouge clair  | type-exam
+
+
+🔄 FLUX COMPLET
+================================================================================
+1. Login POST → Récupérer JSESSIONID
+2. GET Planning → Récupérer ViewState + idInit
+3. POST AJAX Planning → Récupérer événements (JSON dans XML/CDATA)
+4. Parser les événements → Afficher par jour
+
+
+⚠️ POINTS IMPORTANTS
+================================================================================
+- Les timestamps sont en MILLISECONDES (pas secondes)
+- ViewState expire rapidement → Récupérer un nouveau avant chaque POST AJAX
+- JSESSIONID doit rester valide durant tout le process
+- Offset fuseau: -3600000 ms = UTC+1 (heure d'hiver)
+- L'URL reste la même pour tous les plannings (Planning.xhtml)
+- Seul le body AJAX change les paramètres
+
+
+🛠️ IMPLÉMENTATION PHP
+================================================================================
+- Utiliser cURL avec COOKIEJAR pour gérer les sessions
+- Parser HTML avec preg_match() ou DOMDocument
+- Extraire JSON depuis XML/CDATA avec regex
+- Stocker credentials en SESSION (sécurisé en HTTPOnly)
+
+
+📱 PLANNINGS DISPONIBLES
+================================================================================
+- Planning CPI Lille (A1, A2, A3)
+- Planning HEI Ingénieur (A3, A4, A5)
+- Planning HEI Prépa
+- Planning ISEN CIR (CIR1, CIR2, CIR3)
+- Planning ISEN CSI (CSI1, CSI2, CSI3)
+- Planning ISEN CPG (CPG1, CPG2)
+- Planning ISEN AP
+- Planning ISEN Master
+- Planning ISA Ingénieur
+- Planning ISA Enviro
+- Planning ADIMAKER (Bordeaux A1/A2, Lille A1/A2)
+
+Note: Chaque planning se navigue via le menu lateral
+      Sélectionner l'option dans les checkboxes
+      Cliquer "View Schedule"
+
+================================================================================
+                              FIN RÉCAP
+================================================================================

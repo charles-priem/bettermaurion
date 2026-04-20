@@ -1,0 +1,69 @@
+📁 Planning ADIMAKER  - captured choice idInit=webscolaapp.ChoixPlanning_-3657043874578780369, codes=1
+
+└─ Planning ADIMAKER Bordeaux A1[heartbeat] page=choice planning=Planning ADIMAKER Bordeaux A1 | idInit=webscolaapp.ChoixPlanning_-5804494880939167338[heartbeat] planning=Planning ADIMAKER Bordeaux A1 | idInit=webscolaapp.Planning_-8676974696173545353
+└─ Planning ADIMAKER Bordeaux A2 [heartbeat] page=choice planning=Planning ADIMAKER Bordeaux A2 | idInit=webscolaapp.ChoixPlanning_-7938799542948322773[heartbeat] planning=Planning ADIMAKER Bordeaux A2 | idInit=webscolaapp.Planning_3774189837788727099
+└─ Planning ADIMAKER Lille A1[heartbeat] page=choice planning=Planning ADIMAKER Lille A1 | idInit=webscolaapp.ChoixPlanning_5283489623351038006[heartbeat] planning=Planning ADIMAKER Lille A1 | idInit=webscolaapp.Planning_-3772395629803609880
+└─ Planning ADIMAKER Lille A2[heartbeat] page=choice planning=Planning ADIMAKER Lille A2 | idInit=webscolaapp.ChoixPlanning_-463477538227533834[heartbeat] planning=Planning ADIMAKER Lille A2 | idInit=webscolaapp.Planning_5386805422762712009
+
+📁 Planning CPI  - captured choice idInit=webscolaapp.ChoixPlanning_-463477538227533834, codes=6
+└─ Planning CPI Lille A1 [heartbeat] page=choice planning=Planning CPI Lille A1 | idInit=webscolaapp.ChoixPlanning_5292330836454385567[heartbeat] planning=Planning CPI Lille A1 | idInit=webscolaapp.Planning_-1496674055735833911
+└─ Planning CPI Lille A2[heartbeat] page=choice planning=Planning CPI Lille A2 | idInit=webscolaapp.ChoixPlanning_-5988852700765829156[heartbeat] planning=Planning CPI Lille A2 | idInit=webscolaapp.Planning_-3563850455934738526
+└─ Planning CPI Lille A3[heartbeat] page=choice planning=Planning CPI Lille A3 | idInit=webscolaapp.ChoixPlanning_139583480496124497[heartbeat] planning=Planning CPI Lille A3 | idInit=webscolaapp.Planning_-313050349902730730
+
+📁 Planning HEI Ingénieur   - captured choice idInit=webscolaapp.ChoixPlanning_139583480496124497, codes=1
+└─ HEI Ingénieur A3[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_228284304249725176[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_-1917402329678416015
+└─ HEI Ingénieur A4[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_2828398958135582550[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_7502175791711000862
+└─ HEI Ingénieur A5[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_-965027052606785967[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_5259303172149461069
+└─ HEI Ingénieur en Alternance A3[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_-7912102274920496540[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_2893585607924593540
+└─ HEI Ingénieur en Alternance A4[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_3600745669899348287[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_-8438714916013380404
+└─ HEI Ingénieur en Alternance A5[heartbeat] page=choice planning=Planning HEI Ingénieur | idInit=webscolaapp.ChoixPlanning_-2943607691095117707[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_4805872626180903995
+
+📁 Planning HEI Prépa  - captured choice idInit=webscolaapp.ChoixPlanning_-2943607691095117707, codes=1
+└─ Planning HEI Prépa A1[heartbeat] page=choice planning=Planning HEI PREPA A1 | idInit=webscolaapp.ChoixPlanning_-9052450686922573285[heartbeat] planning=Planning HEI PREPA A1 | idInit=webscolaapp.Planning_-1086866812774901161
+└─ Planning HEI Prépa A2[heartbeat] page=choice planning=Planning HEI PREPA A2 | idInit=webscolaapp.ChoixPlanning_3628807046638859210[heartbeat] planning=Planning HEI PREPA A2 | idInit=webscolaapp.Planning_8767473114643614871
+
+📁 Planning ISA Enviro  - captured choice idInit=webscolaapp.ChoixPlanning_3628807046638859210, codes=20
+└─ Planning ISA Enviro L3[heartbeat] page=choice planning=Planning ISA Enviro L3 | idInit=webscolaapp.ChoixPlanning_7767189521437174421
+└─ Planning ISA Enviro M1[heartbeat] page=choice planning=Planning ISA Enviro M1 | idInit=webscolaapp.ChoixPlanning_-3918168073714087595
+└─ Planning ISA Enviro M2[heartbeat] page=choice planning=Planning ISA Enviro M2 | idInit=webscolaapp.ChoixPlanning_6693594645155559167
+
+📁 Planning ISA Ingénieur  - captured choice idInit=webscolaapp.ChoixPlanning_6693594645155559167, codes=0
+└─ Planning ISA Ingénieur A1[heartbeat] page=choice planning=Planning ISA Ingénieur A1 | idInit=webscolaapp.ChoixPlanning_-5644000097504664377[heartbeat] planning=Planning ISA Ingénieur A1 | idInit=webscolaapp.Planning_8797500696534092107
+└─ Planning ISA Ingénieur A2[heartbeat] page=choice planning=Planning ISA Ingénieur A2 | idInit=webscolaapp.ChoixPlanning_9016460775006499813[heartbeat] planning=Planning ISA Ingénieur A2 | idInit=webscolaapp.Planning_-7100294632290865845
+└─ Planning ISA Ingénieur A3[heartbeat] page=choice planning=Planning ISA Ingénieur A3 | idInit=webscolaapp.ChoixPlanning_1304804344305221900[heartbeat] planning=Planning ISA Ingénieur A3 | idInit=webscolaapp.Planning_-436380932814655197
+└─ Planning ISA Ingénieur A4[heartbeat] page=choice planning=Planning ISA Ingénieur A4 | idInit=webscolaapp.ChoixPlanning_-1264599551136093695[heartbeat] planning=Planning ISA Ingénieur A4 | idInit=webscolaapp.Planning_621974147953468710
+└─ Planning ISA Ingénieur A5[heartbeat] page=choice planning=Planning ISA Ingénieur A5 | idInit=webscolaapp.ChoixPlanning_3946701710126793035[heartbeat] planning=Planning ISA Ingénieur A5 | idInit=webscolaapp.Planning_6282478058145663204
+└─ Planning ISA Ingénieur par alternance A3[heartbeat] page=choice planning=Planning ISA Ingénieur par Alternance A3 | idInit=webscolaapp.ChoixPlanning_-1826150165472750615[heartbeat] planning=Planning ISEN AP3 | idInit=webscolaapp.Planning_-1553793963739531137
+└─ Planning ISA Ingénieur par alternance A4[heartbeat] page=choice planning=Planning ISA Ingénieur par Alternance A4 | idInit=webscolaapp.ChoixPlanning_2488021258866679819[heartbeat] planning=Planning ISEN AP4 | idInit=webscolaapp.Planning_5123854347716536712
+└─ Planning ISA Ingénieur par alternance A5[heartbeat] page=choice planning=Planning ISA Ingénieur par Alternance A5 | idInit=webscolaapp.ChoixPlanning_1948287778946144739[heartbeat] planning=Planning ISEN AP5 | idInit=webscolaapp.Planning_-3417264934014997381
+
+
+📁 Planning ISEN AP  - captured choice idInit=webscolaapp.ChoixPlanning_1948287778946144739, codes=0
+└─ Planning ISEN AP3[heartbeat] page=choice planning=Planning ISEN AP3 | idInit=webscolaapp.ChoixPlanning_6607246756883558324[heartbeat] planning=Planning ISEN Bordeaux AP3 | idInit=webscolaapp.Planning_-5432159517327699333
+└─ Planning ISEN AP4[heartbeat] page=choice planning=Planning ISEN AP4 | idInit=webscolaapp.ChoixPlanning_-6724420985626892722[heartbeat] planning=Planning ISEN Bordeaux AP4 | idInit=webscolaapp.Planning_4179486390334455483
+└─ Planning ISEN AP5 [heartbeat] page=choice planning=Planning ISEN AP5 | idInit=webscolaapp.ChoixPlanning_9150243153037748653[heartbeat] planning=Planning ISEN Bordeaux AP5 | idInit=webscolaapp.Planning_5672265986043550526
+└─ Planning ISEN  Bordeaux AP3[heartbeat] page=choice planning=Planning ISEN Bordeaux AP3 | idInit=webscolaapp.ChoixPlanning_4402570713357572629
+└─ Planning ISEN  Bordeaux AP4[heartbeat] page=choice planning=Planning ISEN Bordeaux AP4 | idInit=webscolaapp.ChoixPlanning_-8974161546800784356
+└─ Planning ISEN  Bordeaux AP5[heartbeat] page=choice planning=Planning ISEN Bordeaux AP5 | idInit=webscolaapp.ChoixPlanning_5414191645495228541
+
+📁 Planning ISEN CIR  - captured choice idInit=webscolaapp.ChoixPlanning_5414191645495228541, codes=3
+└─ Planning ISEN CIR1[heartbeat] page=choice planning=Planning ISEN CIR1 | idInit=webscolaapp.ChoixPlanning_-7386507018896310030[heartbeat] planning=Planning ISEN CIR1 | idInit=webscolaapp.Planning_6646291742987403287
+└─ Planning ISEN CIR2[heartbeat] page=choice planning=Planning ISEN CIR2 | idInit=webscolaapp.ChoixPlanning_-2797146495903976118[heartbeat] planning=Planning ISEN CIR2 | idInit=webscolaapp.Planning_6083570398781150491
+└─ Planning ISEN CIR3[heartbeat] page=choice planning=Planning ISEN CIR3 | idInit=webscolaapp.ChoixPlanning_3813878958002149253[heartbeat] planning=Planning ISEN CIR3 | idInit=webscolaapp.Planning_2612069696014121851
+
+
+📁 Planning ISEN CNB  - captured choice idInit=webscolaapp.ChoixPlanning_3813878958002149253, codes=16
+└─ Planning ISEN CNB1[heartbeat] page=choice planning=Planning ISEN CNB1 | idInit=webscolaapp.ChoixPlanning_-8766823948385575541
+└─ Planning ISEN CNB2[heartbeat] page=choice planning=Planning ISEN CNB2 | idInit=webscolaapp.ChoixPlanning_5391231347909912658
+└─ Planning ISEN CNB3[heartbeat] page=choice planning=Planning ISEN CNB3 | idInit=webscolaapp.ChoixPlanning_-5043839597111296956
+
+📁 Planning ISEN CPG  - captured choice idInit=webscolaapp.ChoixPlanning_-5043839597111296956, codes=0
+└─ Planning ISEN CPG1[heartbeat] page=choice planning=Planning ISEN CPG1 | idInit=webscolaapp.ChoixPlanning_-3251401849716060924[heartbeat] planning=Planning ISEN CPG1 | idInit=webscolaapp.Planning_4447445279515839803
+└─ Planning ISEN CPG2[heartbeat] page=choice planning=Planning ISEN CPG2 | idInit=webscolaapp.ChoixPlanning_-3151563373935217075[heartbeat] planning=Planning ISEN CPG2 | idInit=webscolaapp.Planning_7358664556201517118
+
+📁 Planning ISEN CSI  - captured choice idInit=webscolaapp.ChoixPlanning_-3151563373935217075, codes=19
+└─ Planning ISEN CSI3[heartbeat] page=choice planning=Planning ISEN CSI3 | idInit=webscolaapp.ChoixPlanning_-1111869647271587455[heartbeat] planning=Planning ISEN CSI3 | idInit=webscolaapp.Planning_8780947817012353549
+
+📁 Planning ISEN Master  - captured choice idInit=webscolaapp.ChoixPlanning_-1111869647271587455, codes=20
+└─ Planning ISEN M1[heartbeat] page=choice planning=Planning ISEN M1 | idInit=webscolaapp.ChoixPlanning_885117079018108724[heartbeat] planning=Planning ISEN M1 | idInit=webscolaapp.Planning_304685177208373117
+└─ Planning ISEN M2[heartbeat] page=choice planning=Planning ISEN M2 | idInit=webscolaapp.ChoixPlanning_-1842438578524149205[heartbeat] planning=Planning ISEN M2 | idInit=webscolaapp.Planning_-7018767735719965664

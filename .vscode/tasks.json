@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Aurion: capture choice ids",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"aurion_capture_python.py",
+				"--choice-capture",
+				"--output",
+				"data/capture_choix.json"
+			],
+			"isBackground": false,
+			"group": "none"
+		}
+	]
+}

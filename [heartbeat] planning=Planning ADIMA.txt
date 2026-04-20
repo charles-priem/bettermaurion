@@ -1,0 +1,37 @@
+[heartbeat] planning=Planning ADIMAKER Bordeaux A1 | idInit=webscolaapp.Planning_-8676974696173545353
+[heartbeat] planning=Planning ADIMAKER Bordeaux A2 | idInit=webscolaapp.Planning_3774189837788727099
+[heartbeat] planning=Planning ADIMAKER Lille A1 | idInit=webscolaapp.Planning_-3772395629803609880
+[heartbeat] planning=Planning ADIMAKER Lille A2 | idInit=webscolaapp.Planning_5386805422762712009
+[heartbeat] planning=Planning CPI Lille A1 | idInit=webscolaapp.Planning_-1496674055735833911
+[heartbeat] planning=Planning CPI Lille A2 | idInit=webscolaapp.Planning_-3563850455934738526
+[heartbeat] planning=Planning CPI Lille A3 | idInit=webscolaapp.Planning_-313050349902730730
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_-1917402329678416015
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_7502175791711000862
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_5259303172149461069
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_2893585607924593540
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_-8438714916013380404
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_4805872626180903995
+[heartbeat] planning=Planning HEI Ingénieur | idInit=webscolaapp.Planning_7354140722037886474
+[heartbeat] planning=Planning HEI PREPA A1 | idInit=webscolaapp.Planning_-1086866812774901161
+[heartbeat] planning=Planning HEI PREPA A2 | idInit=webscolaapp.Planning_8767473114643614871
+[heartbeat] planning=Planning ISA Ingénieur A1 | idInit=webscolaapp.Planning_8797500696534092107
+[heartbeat] planning=Planning ISA Ingénieur A2 | idInit=webscolaapp.Planning_-7100294632290865845
+[heartbeat] planning=Planning ISA Ingénieur A3 | idInit=webscolaapp.Planning_-436380932814655197
+[heartbeat] planning=Planning ISA Ingénieur A4 | idInit=webscolaapp.Planning_6219741479534687100
+[heartbeat] planning=Planning ISA Ingénieur A5 | idInit=webscolaapp.Planning_6282478058145663204
+[heartbeat] planning=Planning ISEN AP3 | idInit=webscolaapp.Planning_-1553793963739531137
+[heartbeat] planning=Planning ISEN AP4 | idInit=webscolaapp.Planning_5123854347716536712
+[heartbeat] planning=Planning ISEN AP5 | idInit=webscolaapp.Planning_-3417264934014997381
+[heartbeat] planning=Planning ISEN Bordeaux AP3 | idInit=webscolaapp.Planning_-5432159517327699333
+[heartbeat] planning=Planning ISEN Bordeaux AP4 | idInit=webscolaapp.Planning_4179486390334455483
+[heartbeat] planning=Planning ISEN Bordeaux AP5 | idInit=webscolaapp.Planning_5672265986043550526
+[heartbeat] planning=Planning ISEN CIR1 | idInit=webscolaapp.Planning_6646291742987403287
+[heartbeat] planning=Planning ISEN CIR2 | idInit=webscolaapp.Planning_6083570398781150491
+[heartbeat] planning=Planning ISEN CIR3 | idInit=webscolaapp.Planning_2612069696014121851
+[heartbeat] planning=Planning ISEN CPG1 | idInit=webscolaapp.Planning_4447445279515839803
+[heartbeat] planning=Planning ISEN CPG2 | idInit=webscolaapp.Planning_7358664556201517118
+[heartbeat] planning=Planning ISEN CSI3 | idInit=webscolaapp.Planning_8780947817012353549
+[heartbeat] planning=Planning ISEN CSI3 | idInit=webscolaapp.Planning_8780947817012353549
+[heartbeat] planning=Planning ISEN M1 | idInit=webscolaapp.Planning_304685177208373117
+[heartbeat] planning=Planning ISEN M2 | idInit=webscolaapp.Planning_-7018767735719965664
+-----------------------------------------------------------------------------------------------

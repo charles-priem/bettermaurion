@@ -1,0 +1,373 @@
+{
+  "promotions": {
+    "CIR2-A": [
+      {
+        "id": "72271597",
+        "title": "IC2 A913 (H)\n\nMathematics #8: Algebraic Structures\nCOURS_TD\nMs EL YAAGOUBI",
+        "start": "2026-04-07T08:00:00+0200",
+        "end": "2026-04-07T10:00:00+0200",
+        "className": "COURS_TD"
+      },
+      {
+        "id": "72321303",
+        "title": "IC2 C955 - VP\n\nDigital Electronics\nTP\nMs PHILIPPE",
+        "start": "2026-04-07T13:30:00+0200",
+        "end": "2026-04-07T15:30:00+0200",
+        "className": "TP"
+      },
+      {
+        "id": "72280701",
+        "title": "MF H201 labo automatique\n\nSequential Automatic Control - Semester 2\nTP\nMr DEBAY",
+        "start": "2026-04-08T09:15:00+0200",
+        "end": "2026-04-08T12:15:00+0200",
+        "className": "est-epreuve"
+      },
+      {
+        "id": "72280380",
+        "title": "ALG Salle 221 H\n\nSequential Automatic Control - Semester 2\nPROJET\nMr WATTEL",
+        "start": "2026-04-08T13:30:00+0200",
+        "end": "2026-04-08T15:30:00+0200",
+        "className": "PROJET"
+      }
+    ],
+    "CIR2-B": [
+      {
+        "id": "82270001",
+        "title": "IC1_117\n\nWeb Development - Semester 2\nCOURS_TD\nMr KEBOUR",
+        "start": "2026-04-09T08:00:00+0200",
+        "end": "2026-04-09T10:00:00+0200",
+        "className": "COURS_TD"
+      },
+      {
+        "id": "82270002",
+        "title": "ALG Salle 208 H\n\nDigital Electronics\nTD\nMs PHILIPPE",
+        "start": "2026-04-09T10:20:00+0200",
+        "end": "2026-04-09T12:20:00+0200",
+        "className": "TD"
+      }
+    ]
+  },
+  "planningCatalog": [
+    {
+      "label": "Planning ADIMAKER",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-3657043874578780369",
+      "codes": 1,
+      "children": [
+        {
+          "label": "Planning ADIMAKER Bordeaux A1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-5804494880939167338",
+          "planningIdInit": "webscolaapp.Planning_-5087501499012295022"
+        },
+        {
+          "label": "Planning ADIMAKER Bordeaux A2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-7938799542948322773",
+          "planningIdInit": "webscolaapp.Planning_-7457135490837107835"
+        },
+        {
+          "label": "Planning ADIMAKER Lille A1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_5283489623351038006",
+          "planningIdInit": "webscolaapp.Planning_-6185616723552139767"
+        },
+        {
+          "label": "Planning ADIMAKER Lille A2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-463477538227533834",
+          "planningIdInit": "webscolaapp.Planning_7191135614251913639"
+        }
+      ]
+    },
+    {
+      "label": "Planning CPI",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-463477538227533834",
+      "codes": 6,
+      "children": [
+        {
+          "label": "Planning CPI Lille A1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_5292330836454385567",
+          "planningIdInit": "webscolaapp.Planning_-2222878082088244341"
+        },
+        {
+          "label": "Planning CPI Lille A2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-5988852700765829156",
+          "planningIdInit": "webscolaapp.Planning_-3812014292530963642"
+        },
+        {
+          "label": "Planning CPI Lille A3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_139583480496124497",
+          "planningIdInit": "webscolaapp.Planning_8774515453493418427"
+        }
+      ]
+    },
+    {
+      "label": "Planning HEI Ingénieur",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_139583480496124497",
+      "codes": 1,
+      "children": [
+        {
+          "label": "HEI Ingénieur A3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_228284304249725176",
+          "planningIdInit": "webscolaapp.Planning_-1917402329678416015",
+          "choiceLabel": "Planning HEI Ingénieur"
+        },
+        {
+          "label": "HEI Ingénieur A4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_2828398958135582550",
+          "planningIdInit": "webscolaapp.Planning_7502175791711000862",
+          "choiceLabel": "Planning HEI Ingénieur"
+        },
+        {
+          "label": "HEI Ingénieur A5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-965027052606785967",
+          "planningIdInit": "webscolaapp.Planning_5259303172149461069",
+          "choiceLabel": "Planning HEI Ingénieur"
+        },
+        {
+          "label": "HEI Ingénieur en Alternance A3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-7912102274920496540",
+          "planningIdInit": "webscolaapp.Planning_2893585607924593540",
+          "choiceLabel": "Planning HEI Ingénieur"
+        },
+        {
+          "label": "HEI Ingénieur en Alternance A4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_3600745669899348287",
+          "planningIdInit": "webscolaapp.Planning_-8438714916013380404",
+          "choiceLabel": "Planning HEI Ingénieur"
+        },
+        {
+          "label": "HEI Ingénieur en Alternance A5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-2943607691095117707",
+          "planningIdInit": "webscolaapp.Planning_4805872626180903995",
+          "choiceLabel": "Planning HEI Ingénieur"
+        }
+      ]
+    },
+    {
+      "label": "Planning HEI Prépa",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-2943607691095117707",
+      "codes": 1,
+      "children": [
+        {
+          "label": "Planning HEI Prépa A1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-9052450686922573285",
+          "planningIdInit": "webscolaapp.Planning_-1086866812774901161",
+          "choiceLabel": "Planning HEI PREPA A1"
+        },
+        {
+          "label": "Planning HEI Prépa A2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_3628807046638859210",
+          "planningIdInit": "webscolaapp.Planning_8767473114643614871",
+          "choiceLabel": "Planning HEI PREPA A2"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISA Enviro",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_3628807046638859210",
+      "codes": 20,
+      "children": [
+        {
+          "label": "Planning ISA Enviro L3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_7767189521437174421",
+          "planningIdInit": null
+        },
+        {
+          "label": "Planning ISA Enviro M1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-3918168073714087595",
+          "planningIdInit": null
+        },
+        {
+          "label": "Planning ISA Enviro M2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_6693594645155559167",
+          "planningIdInit": null
+        }
+      ]
+    },
+    {
+      "label": "Planning ISA Ingénieur",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_6693594645155559167",
+      "codes": 0,
+      "children": [
+        {
+          "label": "Planning ISA Ingénieur A1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-5644000097504664377",
+          "planningIdInit": "webscolaapp.Planning_8797500696534092107"
+        },
+        {
+          "label": "Planning ISA Ingénieur A2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_9016460775006499813",
+          "planningIdInit": "webscolaapp.Planning_-7100294632290865845"
+        },
+        {
+          "label": "Planning ISA Ingénieur A3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_1304804344305221900",
+          "planningIdInit": "webscolaapp.Planning_-436380932814655197"
+        },
+        {
+          "label": "Planning ISA Ingénieur A4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-1264599551136093695",
+          "planningIdInit": "webscolaapp.Planning_6219741479534687100"
+        },
+        {
+          "label": "Planning ISA Ingénieur A5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_3946701710126793035",
+          "planningIdInit": "webscolaapp.Planning_6282478058145663204"
+        },
+        {
+          "label": "Planning ISA Ingénieur par alternance A3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-1826150165472750615",
+          "planningIdInit": "webscolaapp.Planning_-1553793963739531137",
+          "resolvedLabel": "Planning ISEN AP3"
+        },
+        {
+          "label": "Planning ISA Ingénieur par alternance A4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_2488021258866679819",
+          "planningIdInit": "webscolaapp.Planning_5123854347716536712",
+          "resolvedLabel": "Planning ISEN AP4"
+        },
+        {
+          "label": "Planning ISA Ingénieur par alternance A5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_1948287778946144739",
+          "planningIdInit": "webscolaapp.Planning_-3417264934014997381",
+          "resolvedLabel": "Planning ISEN AP5"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN AP",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_1948287778946144739",
+      "codes": 0,
+      "children": [
+        {
+          "label": "Planning ISEN AP3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_6607246756883558324",
+          "planningIdInit": "webscolaapp.Planning_6286561832745194214",
+          "resolvedLabel": "Planning ISEN Bordeaux AP3"
+        },
+        {
+          "label": "Planning ISEN AP4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-6724420985626892722",
+          "planningIdInit": "webscolaapp.Planning_5839006462048256767",
+          "resolvedLabel": "Planning ISEN Bordeaux AP4"
+        },
+        {
+          "label": "Planning ISEN AP5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_9150243153037748653",
+          "planningIdInit": "webscolaapp.Planning_1327065463146091713",
+          "resolvedLabel": "Planning ISEN Bordeaux AP5"
+        },
+        {
+          "label": "Planning ISEN  Bordeaux AP3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_4402570713357572629",
+          "planningIdInit": "webscolaapp.Planning_1574874736728582669",
+          "choiceLabel": "Planning ISEN Bordeaux AP3"
+        },
+        {
+          "label": "Planning ISEN  Bordeaux AP4",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-8974161546800784356",
+          "planningIdInit": "webscolaapp.Planning_-6253200906685448553",
+          "choiceLabel": "Planning ISEN Bordeaux AP4"
+        },
+        {
+          "label": "Planning ISEN  Bordeaux AP5",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_5414191645495228541",
+          "planningIdInit": "webscolaapp.Planning_7652909815515765927",
+          "choiceLabel": "Planning ISEN Bordeaux AP5"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN CIR",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_5414191645495228541",
+      "codes": 3,
+      "children": [
+        {
+          "label": "Planning ISEN CIR1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-7386507018896310030",
+          "planningIdInit": "webscolaapp.Planning_-1337321509589326337"
+        },
+        {
+          "label": "Planning ISEN CIR2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-2797146495903976118",
+          "planningIdInit": "webscolaapp.Planning_8892597876892166974"
+        },
+        {
+          "label": "Planning ISEN CIR3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_3813878958002149253",
+          "planningIdInit": "webscolaapp.Planning_7079373111786210892"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN CNB",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_3813878958002149253",
+      "codes": 16,
+      "children": [
+        {
+          "label": "Planning ISEN CNB1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-8766823948385575541",
+          "planningIdInit": null
+        },
+        {
+          "label": "Planning ISEN CNB2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_5391231347909912658",
+          "planningIdInit": null
+        },
+        {
+          "label": "Planning ISEN CNB3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-5043839597111296956",
+          "planningIdInit": null
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN CPG",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-5043839597111296956",
+      "codes": 0,
+      "children": [
+        {
+          "label": "Planning ISEN CPG1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-3251401849716060924",
+          "planningIdInit": "webscolaapp.Planning_1950681753766751097"
+        },
+        {
+          "label": "Planning ISEN CPG2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-3151563373935217075",
+          "planningIdInit": "webscolaapp.Planning_7904809322095921375"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN CSI",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-3151563373935217075",
+      "codes": 19,
+      "children": [
+        {
+          "label": "Planning ISEN CSI3",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-1111869647271587455",
+          "planningIdInit": "webscolaapp.Planning_4614711679856065044"
+        }
+      ]
+    },
+    {
+      "label": "Planning ISEN Master",
+      "choiceIdInit": "webscolaapp.ChoixPlanning_-1111869647271587455",
+      "codes": 20,
+      "children": [
+        {
+          "label": "Planning ISEN M1",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_885117079018108724",
+          "planningIdInit": "webscolaapp.Planning_-6071430638119122117"
+        },
+        {
+          "label": "Planning ISEN M2",
+          "choiceIdInit": "webscolaapp.ChoixPlanning_-1842438578524149205",
+          "planningIdInit": "webscolaapp.Planning_9191636683749145269"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Planing.txt",
+    "updatedFrom": "Captured planning ids",
+    "generatedAt": "2026-04-17"
+  }
+}

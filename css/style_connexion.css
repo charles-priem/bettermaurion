@@ -1,0 +1,193 @@
+/* Style for the "Connexion"  */
+    :root {
+      --shadow-black: 26, 26, 26;
+      --black: #000000;
+      --shadow: #aeadad;
+      --bg:        #f5f0f0;
+      --card-bg:   #ede6e6;
+      --brand:     #1a1a1a;
+      --accent:    #958888;
+      --label:     #1a1a1a;
+      --subtext:   #6d6d6d;
+      --input-bg:  #f9f9f9;
+      --input-border: #d9d2d2;
+      --input-focus: #aeadad;
+      --btn-bg:    #1a1a1a;
+      --btn-text:  #ffffff;
+      --lang-sel:  #1a1a1a;
+      --lang-text: #6d6d6d;
+      --radius-card: 18px;
+      --radius-input: 10px;
+      --radius-btn:  12px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--bg);
+      font-family: 'DM Sans', sans-serif;
+      gap: 40px;
+      padding: 32px 16px;
+    }
+
+    .logo {
+      font-family: 'Sora', sans-serif;
+      font-weight: 800;
+      font-size: clamp(2.4rem, 6vw, 3rem);
+      color: var(--brand);
+      letter-spacing: -0.03em;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius-card);
+      padding: 36px 32px 40px;
+      width: 100%;
+      max-width: 440px;
+      box-shadow: 0 4px 24px rgba(var(--shadow-black), 0.12);
+      animation: fadeUp 0.45s ease both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card__title {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      font-size: 1.45rem;
+      color: var(--label);
+      margin-bottom: 6px;
+    }
+
+    .card__subtitle {
+      font-size: 0.875rem;
+      color: var(--subtext);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+
+    label {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--label);
+    }
+
+    .input-wrap {
+      position: relative;
+    }
+
+    input[type="email"],
+    input[type="password"],
+    input[type="text"] {
+      width: 100%;
+      padding: 13px 16px;
+      background: var(--input-bg);
+      border: 1.5px solid var(--input-border);
+      border-radius: var(--radius-input);
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.9375rem;
+      color: var(--brand);
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    input:focus {
+      border-color: var(--input-focus);
+      box-shadow: 0 0 0 3px rgba(var(--shadow-black), 0.16);
+    }
+
+    /* password right-side icon */
+    .input-wrap input[type="password"],
+    .input-wrap input[type="text"] {
+      padding-right: 46px;
+    }
+
+    .toggle-pw {
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--subtext);
+      display: flex;
+      align-items: center;
+      padding: 4px;
+      transition: color 0.15s;
+    }
+    .toggle-pw:hover { color: var(--brand); }
+
+    .btn-submit {
+      width: 100%;
+      padding: 15px;
+      margin-top: 8px;
+      background: var(--btn-bg);
+      color: var(--btn-text);
+      font-family: 'Roboto', sans-serif;
+      font-weight: 500;
+      font-size: 1rem;
+      border: none;
+      border-radius: var(--radius-btn);
+      cursor: pointer;
+      letter-spacing: 0.01em;
+      transition: background 0.2s, transform 0.12s;
+    }
+
+    .btn-submit:hover  { background: var(--accent); }
+    .btn-submit:active { transform: scale(0.985); }
+
+    .lang-switcher {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      animation: fadeUp 0.55s 0.15s ease both;
+    }
+
+    .lang-label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8125rem;
+      color: var(--subtext);
+    }
+
+    .lang-label svg { opacity: 0.65; }
+
+    .lang-options {
+      display: flex;
+      gap: 4px;
+    }
+
+    .lang-btn {
+      padding: 6px 16px;
+      border-radius: 8px;
+      border: none;
+      background: transparent;
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.875rem;
+      color: var(--lang-text);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .lang-btn:hover { background: rgba(var(--shadow-black), 0.08); }
+
+    .lang-btn.active {
+      background: var(--lang-sel);
+      color: #fff;
+    }
