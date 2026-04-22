@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (empty($email) || empty($password)) {
         $error = 'Email et mot de passe requis.';
     } else {
-        $stmt = $conn->prepare('SELECT user_id, firstname, lastname, password, photo_profil FROM users WHERE email = ?');
+        $stmt = $conn->prepare('SELECT user_id, firstname, lastname, password, photo_profil, is_admin FROM users WHERE email = ?');
         $stmt->bind_param('s', $email);
         $stmt->execute();
         $result = $stmt->get_result();
@@ -25,6 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $_SESSION['firstname'] = $user['firstname'];
                 $_SESSION['lastname'] = $user['lastname'];
                 $_SESSION['photo_profil'] = $user['photo_profil'];
+                $_SESSION['is_admin'] = $user['is_admin'];
                 header('Location: ../Pages/index.php');
                 exit();
             } else {
@@ -37,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />

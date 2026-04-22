@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost:3306
--- Généré le : mar. 21 avr. 2026 à 14:56
+-- Généré le : mer. 22 avr. 2026 à 15:05
 -- Version du serveur : 5.7.24
 -- Version de PHP : 8.3.1
 
@@ -21,31 +21,11 @@ SET time_zone = "+00:00";
 -- Base de données : `bettermaurion`
 --
 
-
-
 -- --------------------------------------------------------
 
 --
--- Structure de la table `room_reservations`
+-- Structure de la table `buildings`
 --
-
-CREATE TABLE `room_reservations` (
-  `reservation_id` int(11) NOT NULL AUTO_INCREMENT,
-  `user_id` int(11) NOT NULL,
-  `building_code` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `room_name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `start_time` datetime NOT NULL,
-  `end_time` datetime NOT NULL,
-  `duration_minutes` int(11) NOT NULL DEFAULT '120',
-  `status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'confirmed',
-  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  PRIMARY KEY (`reservation_id`),
-  UNIQUE KEY `uniq_room_slot` (`building_code`,`room_name`,`start_time`,`end_time`),
-  KEY `idx_building_room_time` (`building_code`,`room_name`,`start_time`,`end_time`),
-  KEY `idx_user_id` (`user_id`),
-  KEY `idx_start_time` (`start_time`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 CREATE TABLE `buildings` (
   `building_id` int(11) NOT NULL,
@@ -165,6 +145,44 @@ INSERT INTO `rooms` (`room_id`, `room_name`, `building_id`, `capacity`, `type`, 
 -- --------------------------------------------------------
 
 --
+-- Structure de la table `room_reservations`
+--
+
+CREATE TABLE `room_reservations` (
+  `reservation_id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `building_code` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `room_name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `start_time` datetime NOT NULL,
+  `end_time` datetime NOT NULL,
+  `duration_minutes` int(11) NOT NULL DEFAULT '120',
+  `status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'confirmed',
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Déchargement des données de la table `room_reservations`
+--
+
+INSERT INTO `room_reservations` (`reservation_id`, `user_id`, `building_code`, `room_name`, `start_time`, `end_time`, `duration_minutes`, `status`, `created_at`, `updated_at`) VALUES
+(1, 1, 'IC1', 'IC1_017', '2026-04-21 08:00:00', '2026-04-21 10:00:00', 120, 'confirmed', '2026-04-21 16:01:38', '2026-04-21 16:01:38'),
+(2, 1, 'IC1', 'IC1_017', '2026-04-21 10:00:00', '2026-04-21 12:00:00', 120, 'confirmed', '2026-04-21 16:01:38', '2026-04-21 16:01:38'),
+(3, 1, 'IC1', 'IC1_102', '2026-04-21 18:00:00', '2026-04-21 20:00:00', 120, 'confirmed', '2026-04-21 16:01:45', '2026-04-21 16:01:45'),
+(4, 1, 'IC1', 'IC1_427', '2026-04-22 08:00:00', '2026-04-22 10:00:00', 120, 'confirmed', '2026-04-22 14:35:17', '2026-04-22 14:35:17'),
+(5, 1, 'IC1', 'IC1_427', '2026-04-22 10:00:00', '2026-04-22 12:00:00', 120, 'confirmed', '2026-04-22 14:35:17', '2026-04-22 14:35:17'),
+(6, 1, 'IC1', 'IC1_427', '2026-04-22 13:00:00', '2026-04-22 15:00:00', 120, 'confirmed', '2026-04-22 14:35:24', '2026-04-22 14:35:24'),
+(7, 1, 'IC1', 'IC1_427', '2026-04-22 15:00:00', '2026-04-22 17:00:00', 120, 'confirmed', '2026-04-22 14:35:24', '2026-04-22 14:35:24'),
+(8, 1, 'IC1', 'IC1_427', '2026-04-22 18:00:00', '2026-04-22 20:00:00', 120, 'confirmed', '2026-04-22 14:35:24', '2026-04-22 14:35:24'),
+(9, 1, 'IC1', 'IC1_419', '2026-04-22 08:00:00', '2026-04-22 10:00:00', 120, 'confirmed', '2026-04-22 14:35:28', '2026-04-22 14:35:28'),
+(10, 1, 'IC1', 'IC1_419', '2026-04-22 10:00:00', '2026-04-22 12:00:00', 120, 'confirmed', '2026-04-22 14:35:28', '2026-04-22 14:35:28'),
+(11, 1, 'IC1', 'IC1_419', '2026-04-22 13:00:00', '2026-04-22 15:00:00', 120, 'confirmed', '2026-04-22 14:35:28', '2026-04-22 14:35:28'),
+(12, 1, 'IC1', 'IC1_419', '2026-04-22 15:00:00', '2026-04-22 17:00:00', 120, 'confirmed', '2026-04-22 14:35:28', '2026-04-22 14:35:28'),
+(13, 1, 'IC1', 'IC1_419', '2026-04-22 18:00:00', '2026-04-22 20:00:00', 120, 'confirmed', '2026-04-22 14:35:28', '2026-04-22 14:35:28');
+
+-- --------------------------------------------------------
+
+--
 -- Structure de la table `users`
 --
 
@@ -177,8 +195,17 @@ CREATE TABLE `users` (
   `photo_profil` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT 'default_profile.png',
   `promotion` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `is_admin` tinyint(1) DEFAULT '0',
+  `is_banned` tinyint(1) DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Déchargement des données de la table `users`
+--
+
+INSERT INTO `users` (`user_id`, `email`, `password`, `firstname`, `lastname`, `photo_profil`, `promotion`, `created_at`, `updated_at`, `is_admin`, `is_banned`) VALUES
+(1, 'fz@student.junia.com', '$2y$10$lF7uB41DLSbccSfalaiSo.r43.jIsvLzobDvhe903B8w.LajLqw.a', 'jaen', 'fz', 'profil_1.png', NULL, '2026-04-21 16:01:17', '2026-04-22 15:02:42', 1, 0);
 
 -- --------------------------------------------------------
 
@@ -245,6 +272,16 @@ ALTER TABLE `rooms`
   ADD KEY `idx_building_id` (`building_id`);
 
 --
+-- Index pour la table `room_reservations`
+--
+ALTER TABLE `room_reservations`
+  ADD PRIMARY KEY (`reservation_id`),
+  ADD UNIQUE KEY `uniq_room_slot` (`building_code`,`room_name`,`start_time`,`end_time`),
+  ADD KEY `idx_building_room_time` (`building_code`,`room_name`,`start_time`,`end_time`),
+  ADD KEY `idx_user_id` (`user_id`),
+  ADD KEY `idx_start_time` (`start_time`);
+
+--
 -- Index pour la table `users`
 --
 ALTER TABLE `users`
@@ -295,10 +332,16 @@ ALTER TABLE `rooms`
   MODIFY `room_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
+-- AUTO_INCREMENT pour la table `room_reservations`
+--
+ALTER TABLE `room_reservations`
+  MODIFY `reservation_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+
+--
 -- AUTO_INCREMENT pour la table `users`
 --
 ALTER TABLE `users`
-  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `user_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT pour la table `user_preferences`

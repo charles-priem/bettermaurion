@@ -60,16 +60,19 @@ if (session_status() === PHP_SESSION_NONE) {
                 <button class="dropbtn" onclick="window.location.href='reservation_salle.php'">Réserver une salle</button>
             </li>
             <li class="nav_connection">
-                <?php if (isset($_SESSION['user_id'])): ?>
-                    <div class="nav_item_dropdown">
-                        <button class="dropbtn">
-                            <?php if (!empty($_SESSION['photo_profil'])): ?>
-                                <img src="../images/profils/<?php echo htmlspecialchars($_SESSION['photo_profil']); ?>" alt="Photo de Profil" class="profile-photo">
-                            <?php else: ?>
-                                <img src="../images/profils/default.png" alt="Photo de Profil par défaut" class="profile-photo">
-                            <?php endif; ?>
-                            Mon Profil <i class="fa fa-caret-down"></i>
-                        </button>
+               <?php if (isset($_SESSION['user_id'])): ?>
+
+    <?php if (isset($_SESSION['is_admin']) && $_SESSION['is_admin'] == 1): ?>
+        <li class="nav_item">
+            <a href="admin.php" class="dropbtn">🛠️ Admin</a>
+        </li>
+    <?php endif; ?>
+
+    <div class="nav_item_dropdown">
+        <button class="dropbtn">
+            <img src="../images/profils/<?php echo htmlspecialchars($_SESSION['photo_profil'] ?? 'default.png'); ?>" class="profile-photo">
+            Mon Profil <i class="fa fa-caret-down"></i>
+        </button>
                         <div class="dropdown-content">
                             <a href="profil.php">Voir mon profil</a>
                             <a href="profil.php?logout=true">Se déconnecter</a>
