@@ -417,9 +417,99 @@ session_start();
                 </div>
             </div>
         </section>
+
+    <section class="reservation-card" id="my-reservations-section" style="margin-top: 32px;">
+        <h2>Mes réservations</h2>
+        <div id="my-reservations-message" class="message" aria-live="polite"></div>
+        <div class="table-wrap">
+            <table class="rooms-table">
+                <thead>
+                    <tr>
+                        <th>Bâtiment</th>
+                        <th>Salle</th>
+                        <th>Début</th>
+                        <th>Fin</th>
+                        <th>Statut</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="my-reservations-body">
+                    <tr><td colspan="6" class="empty-state">Chargement...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
     </main>
 
     <script>
+    // --- MES RESERVATIONS ---
+    async function loadMyReservations() {
+        const body = document.getElementById('my-reservations-body');
+        const msg = document.getElementById('my-reservations-message');
+        msg.className = 'message';
+        msg.textContent = '';
+        body.innerHTML = '<tr><td colspan="6" class="empty-state">Chargement...</td></tr>';
+        try {
+            const res = await fetch('../php/my_reservations.php');
+            if (!res.ok) throw new Error('Erreur HTTP ' + res.status);
+            const data = await res.json();
+            if (data.error) {
+                body.innerHTML = `<tr><td colspan="6" class="error-state">${data.error}</td></tr>`;
+                return;
+            }
+            if (!data.reservations || data.reservations.length === 0) {
+                body.innerHTML = '<tr><td colspan="6" class="empty-state">Aucune réservation trouvée.</td></tr>';
+                return;
+            }
+            body.innerHTML = '';
+            for (const r of data.reservations) {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${r.building_code}</td>
+                    <td>${r.room_name}</td>
+                    <td>${formatTime(r.start_time)}</td>
+                    <td>${formatTime(r.end_time)}</td>
+                    <td>${r.status}</td>
+                    <td><button class="search-btn secondary-btn" data-id="${r.reservation_id}" onclick="deleteReservation(${r.reservation_id}, this)">Supprimer</button></td>
+                `;
+                body.appendChild(tr);
+            }
+        } catch (e) {
+            body.innerHTML = `<tr><td colspan="6" class="error-state">${e.message}</td></tr>`;
+        }
+    }
+
+    async function deleteReservation(id, btn) {
+        if (!confirm('Supprimer cette réservation ?')) return;
+        btn.disabled = true;
+        const msg = document.getElementById('my-reservations-message');
+        msg.className = 'message';
+        msg.textContent = '';
+        try {
+            const res = await fetch('../php/my_reservations.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams({ action: 'delete', reservation_id: id })
+            });
+            const data = await res.json();
+            if (data.success) {
+                msg.className = 'message success';
+                msg.textContent = 'Réservation supprimée.';
+                loadMyReservations();
+            } else {
+                msg.className = 'message error';
+                msg.textContent = data.error || 'Erreur lors de la suppression.';
+                btn.disabled = false;
+            }
+        } catch (e) {
+            msg.className = 'message error';
+            msg.textContent = e.message;
+            btn.disabled = false;
+        }
+    }
+
+    // Charger la liste au chargement de la page
+    window.addEventListener('DOMContentLoaded', loadMyReservations);
         const searchButton = document.getElementById('search-button');
         const buildingSelect = document.getElementById('building-select');
         const dateSelect = document.getElementById('date-select');
@@ -477,11 +567,19 @@ session_start();
         }
 
         function formatTime(value) {
+            // Si déjà formaté (ex: "08:00"), retourne direct
+            if (/^\d{2}:\d{2}$/.test(value)) return value;
             const date = new Date(value);
             if (Number.isNaN(date.getTime())) {
                 return value;
             }
-
+            // Si la date contient aussi la date, on affiche date + heure
+            if (value.length > 10) {
+                return date.toLocaleString('fr-FR', {
+                    year: 'numeric', month: '2-digit', day: '2-digit',
+                    hour: '2-digit', minute: '2-digit'
+                });
+            }
             return date.toLocaleTimeString('fr-FR', {
                 hour: '2-digit',
                 minute: '2-digit'
