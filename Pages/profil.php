@@ -126,10 +126,11 @@ if (isset($_GET['logout'])) {
         }
 
         .photo-upload-label {
-            background-color: #1a1a1a;
-            color: white;
+            background-color: #f5f0f0;
+            color: #1a1a1a;
             padding: 10px 20px;
             border-radius: 5px;
+            border: 1px solid #ddd;
             cursor: pointer;
             font-size: 14px;
             display: inline-block;
@@ -137,7 +138,7 @@ if (isset($_GET['logout'])) {
         }
 
         .photo-upload-label:hover {
-            background-color: #333;
+            background-color: #ede6e6;
         }
 
         .form-group {
@@ -287,39 +288,7 @@ if (isset($_GET['logout'])) {
     </style>
 </head>
 <body>
-    <header class="header">
-        <nav class="nav">
-            <ul class="nav_list">
-                <li class="nav_item _dropdown">
-                    <button class="dropbtn">Emploi du temps <i class="fa fa-caret-down"></i></button>
-                    <div class="dropdown-content">
-                        <a href="../Pages/EDT_perso.php">Mon emploi du temps</a>
-                        <a href="../Pages/EDT_promotions.php">Emploi du temps par promotions</a>
-                    </div>
-                </li>
-                <li class="nav_item_dropdown">
-                    <button class="dropbtn">Bâtiments <i class="fa fa-caret-down"></i></button>
-                    <div class="dropdown-content">
-                        <a href="#">IC1</a>
-                        <a href="#">IC2</a>
-                        <a href="#">ALG</a>
-                        <a href="#">MF</a>
-                    </div>
-                </li>
-                <li class="nav_item_dropdown">
-                    <button class="dropbtn">Services junia <i class="fa fa-caret-down"></i></button>
-                    <div class="dropdown-content">
-                        <a href="#">Aurion</a>
-                        <a href="#">Junia learning</a>
-                        <a href="#">OneDrive</a>
-                    </div>
-                </li>
-                <li class="nav_connection">
-                    <a href="profil.php?logout=true"><button>Se déconnecter</button></a>
-                </li>
-            </ul>
-        </nav>
-    </header>
+    <?php require_once 'header.php'; ?>
     <div class="profile-container">
         <h1 id="title">Mon Profil</h1>
         <p id="subtitle">Gérez vos informations personnelles</p>

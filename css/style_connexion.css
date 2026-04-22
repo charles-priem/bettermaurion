@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800&display=swap');
+
 /* Style for the "Connexion"  */
     :root {
       --shadow-black: 26, 26, 26;
@@ -30,13 +32,13 @@
       align-items: center;
       justify-content: center;
       background-color: var(--bg);
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Roboto', serif;
       gap: 40px;
       padding: 32px 16px;
     }
 
     .logo {
-      font-family: 'Sora', sans-serif;
+      font-family: 'Roboto', serif;
       font-weight: 800;
       font-size: clamp(2.4rem, 6vw, 3rem);
       color: var(--brand);
@@ -59,7 +61,7 @@
     }
 
     .card__title {
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto', serif;
       font-weight: 700;
       font-size: 1.45rem;
       color: var(--label);
@@ -97,7 +99,7 @@
       background: var(--input-bg);
       border: 1.5px solid var(--input-border);
       border-radius: var(--radius-input);
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto', serif;
       font-size: 0.9375rem;
       color: var(--brand);
       outline: none;
@@ -137,7 +139,7 @@
       margin-top: 8px;
       background: var(--btn-bg);
       color: var(--btn-text);
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto', serif;
       font-weight: 500;
       font-size: 1rem;
       border: none;
@@ -178,7 +180,7 @@
       border-radius: 8px;
       border: none;
       background: transparent;
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto', serif;
       font-size: 0.875rem;
       color: var(--lang-text);
       cursor: pointer;

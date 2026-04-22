@@ -333,7 +333,7 @@ $todayStr = (new DateTime())->format('Y-m-d');
   <title>Emploi du temps par promotions</title>
   <link rel="stylesheet" href="../css/style.css" />
   <style>
-    body { font-family: Arial, sans-serif; background: #f4f4f4; }
+    body { font-family: 'Roboto', serif; background-color: #f5f0f0; color: #1a1a1a; }
     .wrap { max-width: 1280px; margin: 24px auto; padding: 0 16px; }
 
     .toolbar { display:flex; gap:12px; align-items:center; justify-content:space-between; margin-bottom:12px; flex-wrap:wrap; }
@@ -408,47 +408,7 @@ $todayStr = (new DateTime())->format('Y-m-d');
   </style>
 </head>
 <body>
-  <header class="header">
-    <nav class="nav">
-      <ul class="nav_list">
-        <li class="nav_item _dropdown">
-          <button class="dropbtn">Emploi du temps <i class="fa fa-caret-down"></i></button>
-          <div class="dropdown-content">
-            <a href="../Pages/EDT_perso.php">Mon emploi du temps</a>
-            <a href="../Pages/EDT_promotions.php">Emploi du temps par promotions</a>
-          </div>
-        </li>
-        <li class="nav_item_dropdown">
-          <button class="dropbtn">Bâtiments <i class="fa fa-caret-down"></i></button>
-          <div class="dropdown-content">
-            <a href="#">IC1 </a>
-            <a href="#">IC2 </a>
-            <a href="#">ALG </a>
-            <a href="#">MF </a>
-          </div>
-        </li>
-        <li class="nav_item_dropdown">
-          <button class="dropbtn">Services junia <i class="fa fa-caret-down"></i></button>
-          <div class="dropdown-content">
-            <a href="#">Aurion</a>
-            <a href="#">Junia learning</a>
-            <a href="#">OneDrive</a>
-          </div>
-        </li>
-        <li class="nav_connection">
-          <?php if (isset($_SESSION['user_id'])): ?>
-            <a href="../Pages/profil.php">
-              <img src="../uploads/<?= $_SESSION['photo_profil']; ?>" alt="Photo de Profil" class="profile-photo" width="40" height="40" style="border-radius: 50%; border: 2px solid #fff;">
-            </a>
-            <a href="../Pages/profil.php?logout=true"><button>Se déconnecter</button></a>
-          <?php else: ?>
-            <a class="nav_connection" href="../Pages/connexion.php">Connexion</a>
-            <a href="../Pages/inscription.php">S'inscrire</a>
-          <?php endif; ?>
-        </li>
-      </ul>
-    </nav>
-  </header>
+  <?php require_once 'header.php'; ?>
 
   <main class="wrap">
     <div class="toolbar">

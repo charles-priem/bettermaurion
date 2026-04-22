@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800&display=swap');
+
 :root {
   --shadow-black: 26, 26, 26;
   --black: #000000;
@@ -63,7 +65,7 @@ body {
 .navbar {
   overflow: hidden;
   background-color: #333;
-  font-family: Arial;
+  font-family: 'Roboto', serif;
 }
 
 /* Links inside the navbar */

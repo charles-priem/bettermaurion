@@ -304,7 +304,7 @@ function parseTitleParts(?string $title): array {
   <title>Mon emploi du temps - ProjetBetterMoroomia</title>
   <link rel="stylesheet" href="../css/style.css" />
   <style>
-    body { font-family: Arial, sans-serif; background: #f4f4f4; }
+    body { font-family: 'Roboto', serif; background-color: #f5f0f0; color: #1a1a1a; }
     .wrap { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
     .login-form { background: #fff; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
     .form-group { margin-bottom: 15px; }
@@ -329,19 +329,7 @@ function parseTitleParts(?string $title): array {
   </style>
 </head>
 <body>
-  <header class="header">
-    <nav class="nav">
-      <ul class="nav_list">
-        <li class="nav_item _dropdown">
-          <button class="dropbtn">Emploi du temps</button>
-          <div class="dropdown-content">
-            <a href="EDT_perso.php">Mon emploi du temps</a>
-            <a href="EDT_promotions.php">Emploi du temps par promotions</a>
-          </div>
-        </li>
-      </ul>
-    </nav>
-  </header>
+  <?php require_once 'header.php'; ?>
 
   <main class="wrap">
     <h1>Mon emploi du temps personnel</h1>

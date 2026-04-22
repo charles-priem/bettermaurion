@@ -237,7 +237,7 @@ function renderEvent(array $ev): string {
   <title>EDT — Vue comparée</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -258,7 +258,7 @@ function renderEvent(array $ev): string {
     }
 
     body {
-      font-family: 'DM Mono', monospace;
+      font-family: 'Roboto', serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -279,7 +279,7 @@ function renderEvent(array $ev): string {
       z-index: 100;
     }
     .topbar-title {
-      font-family: 'Syne', sans-serif;
+      font-family: 'Roboto', serif;
       font-size: 20px;
       font-weight: 800;
       letter-spacing: -0.5px;
@@ -305,7 +305,7 @@ function renderEvent(array $ev): string {
       transition: background .15s;
     }
     .week-nav a:hover, .week-nav .today-btn:hover { background: var(--accent); }
-    .week-nav .today-btn { width: auto; padding: 0 12px; font-size: 12px; font-family: 'DM Mono', monospace; }
+    .week-nav .today-btn { width: auto; padding: 0 12px; font-size: 12px; font-family: 'Roboto', serif; }
     .week-label {
       font-size: 13px;
       font-weight: 500;
@@ -327,7 +327,7 @@ function renderEvent(array $ev): string {
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 6px 10px;
-      font-family: 'DM Mono', monospace;
+      font-family: 'Roboto', serif;
       font-size: 12px;
       cursor: pointer;
     }
@@ -357,7 +357,7 @@ function renderEvent(array $ev): string {
       gap: 10px;
       padding: 14px 18px;
       border-bottom: 1px solid var(--border);
-      font-family: 'Syne', sans-serif;
+      font-family: 'Roboto', serif;
       font-weight: 700;
       font-size: 14px;
       letter-spacing: .3px;
@@ -395,7 +395,7 @@ function renderEvent(array $ev): string {
       gap: 8px;
     }
     .day-name {
-      font-family: 'Syne', sans-serif;
+      font-family: 'Roboto', serif;
       font-size: 11px;
       font-weight: 700;
       text-transform: uppercase;
@@ -405,7 +405,7 @@ function renderEvent(array $ev): string {
     .day-num {
       font-size: 18px;
       font-weight: 700;
-      font-family: 'Syne', sans-serif;
+      font-family: 'Roboto', serif;
       color: var(--text);
       line-height: 1;
     }
@@ -458,7 +458,7 @@ function renderEvent(array $ev): string {
       letter-spacing: .5px;
     }
     .ev-matiere {
-      font-family: 'Syne', sans-serif;
+      font-family: 'Roboto', serif;
       font-size: 12px;
       font-weight: 700;
       color: var(--text);
@@ -604,7 +604,7 @@ function renderEvent(array $ev): string {
 </main>
 
 <div class="legend">
-  <span style="font-family:'Syne',sans-serif;font-weight:700;color:var(--text);">Légende :</span>
+  <span style="font-family:'Roboto',serif;font-weight:700;color:var(--text);">Légende :</span>
   <span class="legend-item"><span class="legend-dot" style="background:var(--cours-bd)"></span>Cours</span>
   <span class="legend-item"><span class="legend-dot" style="background:var(--tp-bd)"></span>TP</span>
   <span class="legend-item"><span class="legend-dot" style="background:var(--td-bd)"></span>TD</span>
