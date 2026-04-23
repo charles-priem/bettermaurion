@@ -136,12 +136,28 @@ body {
 }
 
 
-.image_fond_acceuil{
-  width: auto;
-    height: 776px;
-    object-fit: contain;
-  object-position: center;
-  display: block;
+
+
+.image_fond_acceuil {
+  width: 100vw;
+  min-height: 100vh;
+  height: 100vh;
+  background: url('../Image/Isen_horizontal_2.JPG') center center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.image_fond_overlay {
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 700px;
+  width: 90vw;
 }
 
 
@@ -175,68 +191,198 @@ li.nav_connection {
 }
 
 /* ====== Styles fusionnés depuis Pages/EDT_perso.php ====== */
-body.EDT_perso, .EDT_perso .wrap { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
-.EDT_perso .login-form { background: #fff; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
-.EDT_perso .form-group { margin-bottom: 15px; }
-.EDT_perso .form-group label { display: block; margin-bottom: 5px; font-weight: bold; }
-.EDT_perso .form-group input { padding: 8px; width: 100%; max-width: 300px; border: 1px solid #ccc; border-radius: 4px; }
-.EDT_perso .form-group button { padding: 10px 20px; background: #0066cc; color: white; border: none; border-radius: 4px; cursor: pointer; }
-.EDT_perso .form-group button:hover { background: #0052a3; }
-.EDT_perso .notice { background: #fff3cd; border: 1px solid #ffe69c; padding: 10px 12px; border-radius: 8px; margin-bottom: 10px; }
-.EDT_perso .notice.error { background: #f8d7da; border-color: #f5c6cb; color: #721c24; }
-.EDT_perso table { width: 100%; border-collapse: collapse; table-layout: fixed; background: #fff; border: 1px solid #ddd; }
-.EDT_perso th, .EDT_perso td { border: 1px solid #ddd; vertical-align: top; padding: 8px; }
-.EDT_perso th { background: #fafafa; text-align: center; }
-.EDT_perso .ev { padding: 8px; border-left: 4px solid #999; border-radius: 6px; margin-bottom: 7px; background: #f7f7f7; font-size: 13px; }
-.EDT_perso .ev-time { font-size: 12px; font-weight: 700; }
-.EDT_perso .ev-matiere { font-weight: 700; margin: 3px 0; }
-.EDT_perso .ev-meta { color: #555; font-size: 12px; }
-.EDT_perso .type-cours { background: #dbeafe; border-color: #60a5fa; }
-.EDT_perso .type-tp { background: #dcfce7; border-color: #4ade80; }
-.EDT_perso .type-td { background: #fef3c7; border-color: #f59e0b; }
-.EDT_perso .type-projet { background: #ede9fe; border-color: #8b5cf6; }
-.EDT_perso .type-exam { background: #fee2e2; border-color: #ef4444; }
+/* ===== EDT GLOBAL ===== */
+body.EDT {
+  font-family: 'Roboto', serif;
+  background-color: #f5f0f0;
+  color: #1a1a1a;
+}
 
-/* ====== Styles fusionnés depuis Pages/EDT_promotions.php ====== */
-body.EDT_promotions, .EDT_promotions .wrap { max-width: 1280px; margin: 24px auto; padding: 0 16px; }
-.EDT_promotions .toolbar { display:flex; gap:12px; align-items:center; justify-content:space-between; margin-bottom:12px; flex-wrap:wrap; }
-.EDT_promotions .toolbar h1 { margin:0; font-size:24px; }
-.EDT_promotions .filters { display:flex; gap:10px; align-items:center; flex-wrap:nowrap; }
-.EDT_promotions .selection-form { display:flex; gap:10px; align-items:center; flex-wrap:nowrap; }
-.EDT_promotions .selection-form label { font-weight:600; white-space:nowrap; }
-.EDT_promotions .selection-form select { min-width: 170px; height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px; }
-.EDT_promotions .week-nav { display:flex; gap:8px; align-items:center; }
-.EDT_promotions .week-label { min-width:260px; text-align:center; font-weight:600; }
-.EDT_promotions .filters a, .EDT_promotions .week-nav a, .EDT_promotions .type-filters button { height:36px; border:1px solid #ccc; border-radius:8px; background:#fff; padding:0 10px; text-decoration:none; color:#111; display:inline-flex; align-items:center; }
-.EDT_promotions .selection-summary { font-size:13px; color:#555; margin-bottom:10px; }
-.EDT_promotions .type-filters { display:flex; gap:12px; flex-wrap:wrap; align-items:center; padding:12px 14px; background:#fff; border:1px solid #ddd; border-radius:12px; margin-bottom:12px; }
-.EDT_promotions .type-filters strong { margin-right:4px; }
-.EDT_promotions .type-filters label { display:inline-flex; gap:6px; align-items:center; font-size:13px; background:#f8fafc; border:1px solid #e5e7eb; border-radius:999px; padding:6px 10px; cursor:pointer; }
-.EDT_promotions .type-filters input { accent-color:#111; }
-.EDT_promotions .timeline { background:#fff; border:1px solid #ddd; border-radius:10px; overflow:hidden; }
-.EDT_promotions .timeline-header { display:grid; grid-template-columns: 90px repeat(6, 1fr); }
-.EDT_promotions .timeline-head { padding:10px 6px; text-align:center; background:#fafafa; border-right:1px solid #ddd; }
-.EDT_promotions .timeline-head:last-child { border-right:0; }
-.EDT_promotions .timeline-head.is-today { background:#111; color:#fff; }
-.EDT_promotions .timeline-body { display:grid; grid-template-columns: 90px repeat(6, 1fr); }
-.EDT_promotions .hours-col { position:relative; background:#fafafa; border-right:1px solid #ddd; }
-.EDT_promotions .hour-label { position:absolute; left:8px; transform: translateY(-50%); font-size:12px; color:#666; }
-.EDT_promotions .day-col { position:relative; border-right:1px solid #ddd; overflow:hidden; }
-.EDT_promotions .day-col:last-child { border-right:0; }
-.EDT_promotions .hour-line { position:absolute; left:0; right:0; height:1px; background:#f1f5f9; }
-.EDT_promotions .lunch-band { position:absolute; left:0; right:0; background: repeating-linear-gradient(45deg,rgba(0,0,0,0.04),rgba(0,0,0,0.04) 6px,rgba(0,0,0,0.00) 6px,rgba(0,0,0,0.00) 12px); border-top: 2px solid rgba(0,0,0,0.12); border-bottom: 2px solid rgba(0,0,0,0.12); pointer-events:none; }
-.EDT_promotions .ev { padding:8px; border-left:4px solid #999; border-radius:6px; background:#f7f7f7; font-size:13px; box-sizing:border-box; }
-.EDT_promotions .ev.is-hidden { display:none; }
-.EDT_promotions .ev-time { font-size:12px; font-weight:700; }
-.EDT_promotions .ev-badge { display:inline-block; margin-left:8px; padding:2px 8px; border-radius:999px; background:rgba(255,255,255,0.75); font-size:11px; font-weight:700; }
-.EDT_promotions .ev-matiere { font-weight:700; margin:3px 0; }
-.EDT_promotions .ev-meta { color:#555; font-size:12px; }
-.EDT_promotions .ev-abs { position:absolute; left:6px; right:6px; overflow:hidden; }
-.EDT_promotions .type-cours { background:#dbeafe; border-color:#60a5fa; }
-.EDT_promotions .type-tp { background:#dcfce7; border-color:#4ade80; }
-.EDT_promotions .type-td { background:#fef3c7; border-color:#f59e0b; }
-.EDT_promotions .type-projet { background:#ede9fe; border-color:#8b5cf6; }
-.EDT_promotions .type-exam { background:#fee2e2; border-color:#ef4444; }
+.EDT .wrap {
+  max-width: 1280px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+/* ===== TOOLBAR ===== */
+.EDT .toolbar {
+  display:flex;
+  gap:12px;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:12px;
+  flex-wrap:wrap;
+}
+
+.EDT .toolbar h1 {
+  margin:0;
+  font-size:24px;
+}
+
+.EDT .week-nav {
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+.EDT .week-label {
+  min-width:260px;
+  text-align:center;
+  font-weight:600;
+}
+
+.EDT a.btn {
+  height:36px;
+  border:1px solid #ccc;
+  border-radius:8px;
+  background:#fff;
+  padding:0 10px;
+  text-decoration:none;
+  color:#111;
+  display:inline-flex;
+  align-items:center;
+}
+
+/* ===== TIMELINE ===== */
+.EDT .timeline {
+  background:#fff;
+  border:1px solid #ddd;
+  border-radius:10px;
+  overflow:hidden;
+  margin-top:24px;
+}
+
+.EDT .timeline-header {
+  display:grid;
+  grid-template-columns: 90px repeat(6, 1fr);
+}
+
+.EDT .timeline-head {
+  padding:10px 6px;
+  text-align:center;
+  background:#fafafa;
+  border-right:1px solid #ddd;
+}
+
+.EDT .timeline-head:last-child {
+  border-right:0;
+}
+
+.EDT .timeline-head.is-today {
+  background:#111;
+  color:#fff;
+}
+
+.EDT .timeline-body {
+  display:grid;
+  grid-template-columns: 90px repeat(6, 1fr);
+}
+
+.EDT .hours-col {
+  position:relative;
+  background:#fafafa;
+  border-right:1px solid #ddd;
+}
+
+.EDT .hour-label {
+  position:absolute;
+  left:8px;
+  transform: translateY(-50%);
+  font-size:12px;
+  color:#666;
+}
+
+.EDT .day-col {
+  position:relative;
+  border-right:1px solid #ddd;
+  overflow:hidden;
+}
+
+.EDT .day-col:last-child {
+  border-right:0;
+}
+
+.EDT .hour-line {
+  position:absolute;
+  left:0;
+  right:0;
+  height:1px;
+  background:#f1f5f9;
+}
+
+/* ===== PAUSE MIDI ===== */
+.EDT .lunch-band {
+  position:absolute;
+  left:0;
+  right:0;
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(0,0,0,0.04),
+    rgba(0,0,0,0.04) 6px,
+    rgba(0,0,0,0.00) 6px,
+    rgba(0,0,0,0.00) 12px
+  );
+  border-top: 2px solid rgba(0,0,0,0.12);
+  border-bottom: 2px solid rgba(0,0,0,0.12);
+  pointer-events:none;
+}
+
+/* ===== EVENTS ===== */
+.EDT .ev {
+  padding:8px;
+  border-left:4px solid #999;
+  border-radius:6px;
+  background:#f7f7f7;
+  font-size:13px;
+  box-sizing:border-box;
+}
+
+.EDT .ev-abs {
+  position:absolute;
+  left:6px;
+  right:6px;
+  overflow:hidden;
+}
+
+.EDT .ev-time {
+  font-size:12px;
+  font-weight:700;
+}
+
+.EDT .ev-badge {
+  display:inline-block;
+  margin-left:8px;
+  padding:2px 8px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.75);
+  font-size:11px;
+  font-weight:700;
+}
+
+.EDT .ev-matiere {
+  font-weight:700;
+  margin:3px 0;
+}
+
+.EDT .ev-meta {
+  color:#555;
+  font-size:12px;
+}
+
+/* ===== TYPES ===== */
+.EDT .type-cours  { background:#dbeafe; border-color:#60a5fa; }
+.EDT .type-tp     { background:#dcfce7; border-color:#4ade80; }
+.EDT .type-td     { background:#fef3c7; border-color:#f59e0b; }
+.EDT .type-projet { background:#ede9fe; border-color:#8b5cf6; }
+.EDT .type-exam   { background:#fee2e2; border-color:#ef4444; }
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 800px) {
+  .EDT .timeline-header,
+  .EDT .timeline-body {
+    grid-template-columns: 60px repeat(6, 1fr);
+  }
+}
 
 /* ====== Styles fusionnés depuis Pages/connexion.php et inscription.php ====== */
 .bottom-links { display: flex; flex-direction: column; gap: 10px; align-items: center; margin-top: 20px; }

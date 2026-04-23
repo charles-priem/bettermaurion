@@ -40,20 +40,11 @@ if (session_status() === PHP_SESSION_NONE) {
                 </div>
             </li>
             <li class="nav_item_dropdown">
-                <button class="dropbtn">Bâtiments <i class="fa fa-caret-down"></i></button>
-                <div class="dropdown-content">
-                    <a href="../Pages/batiments.php?id=1">IC1</a>
-                    <a href="../Pages/batiments.php?id=2">IC2</a>
-                    <a href="../Pages/batiments.php?id=3">ALG</a>
-                    <a href="../Pages/batiments.php?id=4">MF</a>
-                </div>
-            </li>
-            <li class="nav_item_dropdown">
                 <button class="dropbtn">Services junia <i class="fa fa-caret-down"></i></button>
                 <div class="dropdown-content">
-                    <a href="aurion.php">Aurion</a>
-                    <a href="Junia_Learning.php">Junia learning</a>
-                    <a href="#">OneDrive</a>
+                    <a href="https://aurion.junia.com/faces/Login.xhtml">Aurion</a>
+                    <a href="https://junia-learning.com/my/">Junia learning</a>
+                    <a href="https://myjunia-my.sharepoint.com/">OneDrive-Junia sharepoint</a>
                 </div>
             </li>
             <li class="nav_item_dropdown">
@@ -79,8 +70,8 @@ if (session_status() === PHP_SESSION_NONE) {
                         </div>
                     </div>
                 <?php else: ?>
-                    <button class="dropbtn" onclick="window.location.href='connexion.php'">Connexion</button>
-                    <button class="dropbtn" onclick="window.location.href='inscription.php'">S'inscrire</button>
+                    <button class="search-btn" style="margin-right:8px;" onclick="window.location.href='connexion.php'">Connexion</button>
+                    <button class="search-btn secondary-btn" onclick="window.location.href='inscription.php'">S'inscrire</button>
                 <?php endif; ?>
             </li>
         </ul>

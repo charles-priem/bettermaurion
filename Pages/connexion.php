@@ -26,6 +26,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $_SESSION['lastname'] = $user['lastname'];
                 $_SESSION['photo_profil'] = $user['photo_profil'];
                 $_SESSION['is_admin'] = $user['is_admin'];
+                    $_SESSION['aurion_user'] = $email;
+                   $_SESSION['aurion_pass'] = $password;
                 header('Location: ../Pages/index.php');
                 exit();
             } else {

@@ -314,7 +314,6 @@ if (isset($_GET['logout'])) {
         <form method="POST" enctype="multipart/form-data">
             <div class="info-box">
                 <p><strong id="email-label">Email :</strong> <?php echo htmlspecialchars($user['email']); ?></p>
-                <p id="promotion-label"><strong>Promotion :</strong> <?php echo htmlspecialchars($user['promotion'] ?? 'Non définie'); ?></p>
             </div>
 
             <div class="form-group">
