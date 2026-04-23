@@ -20,7 +20,7 @@
 **Clonage du projet**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/BetterMoroomia.git
+   git clone https://github.com/charles-priem/bettermaurion.git
    cd BetterMoroomia
    ```
 
