@@ -31,6 +31,5 @@
 
 **Configuration base**
    - Ouvrez le projet sur votre serveur web local (MAMP, XAMPP...) ou déployez sur votre hébergement PHP.
-   - Vérifiez que le dossier `plannings/` est accessible en lecture au processus PHP.
 
 ---
