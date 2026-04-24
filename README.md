@@ -21,7 +21,7 @@
 
    ```bash
    git clone https://github.com/charles-priem/bettermaurion.git
-   cd BetterMoroomia
+   cd bettermaurion
    ```
 
 **Configuration du dossier plannings**
