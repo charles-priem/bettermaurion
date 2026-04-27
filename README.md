@@ -41,4 +41,5 @@ Afin d'accéder au panel admin vous avez deux possibilitées :
 • Utiliser le compte admin déjà présent dans la base de données : 
 mail : fz@student.junia.com
 Password : password 
+
 Et une fois connecté, vous aurez accès au panel admin .
