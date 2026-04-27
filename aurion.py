@@ -6,7 +6,7 @@ import time
 # =====================================================================
 # 🎯 CONFIGURATION DU SNIPER AUTOMATIQUE
 # =====================================================================
-MON_JSESSIONID = "SESSIONID_VALUE_FROM_BROWSER" # À récupérer depuis les cookies de ton navigateur après t'être connecté à Aurion
+MON_JSESSIONID = "B8299800E1DEB4C1619C0726280D237D" # À récupérer depuis les cookies de ton navigateur après t'être connecté à Aurion
 
 # 5 semaines : S0 (actuelle), S1, S2, S3, S4
 NB_SEMAINES = 5 
@@ -18,99 +18,99 @@ MISSIONS = [
     # ==========================================
     # 🟦 ADIMAKER
     # # ==========================================
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
-    #     "classe": "Planning ADIMAKER Lille A1"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
-    #     "classe": "Planning ADIMAKER Lille A2"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
-    #     "classe": "Planning ADIMAKER Bordeaux A1"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
-    #     "classe": "Planning ADIMAKER Bordeaux A2"
-    # },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
+         "classe": "Planning ADIMAKER Lille A1"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
+         "classe": "Planning ADIMAKER Lille A2"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
+         "classe": "Planning ADIMAKER Bordeaux A1"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ADIMAKER"],
+         "classe": "Planning ADIMAKER Bordeaux A2"
+     },
     # # ==========================================
     # # CPI
     # # ==========================================
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
-    #     "classe": "Planning CPI Lille A1"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
-    #     "classe": "Planning CPI Lille A2"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
-    #     "classe": "Planning CPI Lille A3"
-    # },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
+         "classe": "Planning CPI Lille A1"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
+         "classe": "Planning CPI Lille A2"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning CPI"],
+         "classe": "Planning CPI Lille A3"
+     },
     # # ==========================================
     # #  HEI INGÉNIEUR
     # # ==========================================
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-    #     "classe": "HEI Ingénieur A3"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-    #     "classe": "HEI Ingénieur A4"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-    #     "classe": "HEI Ingénieur A5"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-    #     "classe": "HEI Ingénieur en Alternance A3"
-    # },
-    # {
-    #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-    #     "classe": "HEI Ingénieur en Alternance A4"
-    # },
-    #{
-     #   "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
-      #  "classe": "HEI Ingénieur en Alternance A5"
-    #},
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+         "classe": "HEI Ingénieur A3"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+         "classe": "HEI Ingénieur A4"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+         "classe": "HEI Ingénieur A5"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+         "classe": "HEI Ingénieur en Alternance A3"
+     },
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+         "classe": "HEI Ingénieur en Alternance A4"
+     },
+    {
+       "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning HEI Ingénieur"],
+      "classe": "HEI Ingénieur en Alternance A5"
+    },
     # ==========================================
     # 🟧 ISA
     # ==========================================
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur A1"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur A2"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur A3"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur A4"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur A5"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur par Alternance A3"
-    #},
-    #{
-   #     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-   #     "classe": "Planning ISA Ingénieur par Alternance A4"
-    #},
-    #{
-    #    "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
-    #    "classe": "Planning ISA Ingénieur par Alternance A5"
-    #},
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur A1"
+    },
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur A2"
+    },
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur A3"
+    },
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur A4"
+    },
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur A5"
+    },
+    {
+       "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+       "classe": "Planning ISA Ingénieur par Alternance A3"
+   },
+   {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+       "classe": "Planning ISA Ingénieur par Alternance A4"
+    },
+    {
+        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISA Ingénieur"],
+        "classe": "Planning ISA Ingénieur par Alternance A5"
+    },
     # ==========================================
     # 🟧 ISEN AP
     # ==========================================
@@ -130,29 +130,29 @@ MISSIONS = [
         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN AP"],
         "classe": "Planning ISEN Bordeaux AP3"
     },
-    {
-        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN AP"],
+   {
+     "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN AP"],
         "classe": "Planning ISEN Bordeaux AP4"
     },
-    {
-        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN AP"],
+   {
+       "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN AP"],
         "classe": "Planning ISEN Bordeaux AP5"
     },
     # ==========================================
     # 🟧 ISEN CIR
     # ==========================================
-    {
-        "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN CIR"],
+     {
+         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN CIR"],
         "classe": "Planning ISEN CIR1"
-    },
+     },
     {
         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN CIR"],
-        "classe": "Planning ISEN CIR2"
-    },
-    {
+       "classe": "Planning ISEN CIR2"
+     },
+     {
         "chemin_menu": [ONGLET_SCHEDULES, "Plannings Groupés par Promotion", "Planning ISEN CIR"],
-        "classe": "Planning ISEN CIR3"
-    },
+       "classe": "Planning ISEN CIR3"
+     },
     # ==========================================
     # 🟧 ISEN CPG
     # ==========================================
