@@ -47,3 +47,6 @@ Vous pouvez maintenant profiter du panel admin
 
 
 Et une fois connecté, vous aurez accès au panel admin .
+
+**Participants**
+Cousin Faustine - Vanneufville Ian - Delattre Gauthier - Priem Charles
