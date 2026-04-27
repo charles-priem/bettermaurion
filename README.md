@@ -27,7 +27,8 @@
 
 **Configuration**
 Dans un premier temps veillez à mettre le dossier du projet dans votre dossier htdoc de votre MAMP
-Une fois cela fait ouvrer votre phpMyAdmin ```http://localhost/phpMyAdmin5/``` puis créer une nouvelle base de données :bettermaurion. Ensuite insérez le fichier:  bettermaurion.sql compris dans le dossier 📁 bdd
+Une fois cela fait ouvrer votre phpMyAdmin ```http://localhost/phpMyAdmin5/``` puis créer une nouvelle base de données :bettermaurion. Ensuite insérez le fichier: bettermaurion.sql compris dans le dossier 📁 bdd du projet.
+
 Une fois cela fait vous pouvez ensuite aller dans votre localhost
 ```http://localhost/ProjetBetterMoroomia/Pages/```
 Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de passe aurion afin d'avoi accès à votre emplois du temps personnel compris sur le site.
