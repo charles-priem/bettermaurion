@@ -1,6 +1,6 @@
-# BetterMoroomia - Portail Emploi du Temps Junia/Aurion
+# BetterMaurion - Portail Emploi du Temps Junia/Aurion
 
-**BetterMoroomia** est une application web PHP permettant de consulter facilement l’emploi du temps issu d’Aurion/Junia :  
+**BetterMaurion** est une application web PHP permettant de consulter facilement l’emploi du temps issu d’Aurion/Junia :  
 • par promotion/groupe (ex : CIR2 A, AP3, etc.)  
 • par planning personnalisé (emploi du temps individuel)
 
