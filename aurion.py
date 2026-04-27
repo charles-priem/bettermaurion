@@ -6,7 +6,7 @@ import time
 # =====================================================================
 # 🎯 CONFIGURATION DU SNIPER AUTOMATIQUE
 # =====================================================================
-MON_JSESSIONID = "B8299800E1DEB4C1619C0726280D237D" # À récupérer depuis les cookies de ton navigateur après t'être connecté à Aurion
+MON_JSESSIONID = "" # À récupérer depuis les cookies de ton navigateur après t'être connecté à Aurion
 
 # 5 semaines : S0 (actuelle), S1, S2, S3, S4
 NB_SEMAINES = 5 
