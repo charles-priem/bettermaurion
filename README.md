@@ -44,6 +44,5 @@ password: password
 
 Vous pouvez maintenant profiter du panel admin
 
-Password : password 
 
 Et une fois connecté, vous aurez accès au panel admin .
