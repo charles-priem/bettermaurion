@@ -31,7 +31,7 @@ Une fois cela fait ouvrer votre phpMyAdmin ```http://localhost/phpMyAdmin5/``` p
 
 Une fois cela fait vous pouvez ensuite aller dans votre localhost
 ```http://localhost/ProjetBetterMoroomia/Pages/```
-Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de passe aurion afin d'avoi accès à votre emplois du temps personnel compris sur le site.
+Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de passe aurion afin d'avoir accès à votre emplois du temps personnel compris sur le site.
 
 ---
 🔒**Panel admin:**
