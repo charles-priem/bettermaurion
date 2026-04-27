@@ -24,12 +24,17 @@
    cd bettermaurion
    ```
 
-**Configuration du dossier plannings**
 
-   - Placez tous vos fichiers `*.json` générés (un par planning/ressource) dans le dossier :  
-     `plannings/` à la racine du projet.
-
-**Configuration base**
-   - Ouvrez le projet sur votre serveur web local (MAMP, XAMPP...) ou déployez sur votre hébergement PHP.
-
----
+**Configuration**
+Dans un premier temps veillez à mettre le dossier du projet dans votre dossier htdoc de votre MAMP
+Une fois cela fait ouvrer votre phpMyAdmin ```http://localhost/phpMyAdmin5/``` puis créer une nouvelle base de données :bettermaurion. Ensuite insérez le fichier:  bettermaurion.sql compris dans le dossier 📁 bdd
+Une fois cela fait vous pouvez ensuite aller dans votre localhost
+```http://localhost/ProjetBetterMoroomia/Pages/```
+Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de passe aurion afin d'avoi accès à votre emplois du temps personnel compris sur le site.
+🔒**Panel admin:**
+Afin d'accéder au panel admin vous avez deux possibilitées :
+• Via PHPMYADMIN : vous pouvez vous mettre admin via la table user de php my admin
+• Utiliser le compte admin déjà présent dans la base de données : 
+mail : fz@student.junia.com
+Password : password 
+Et une fois connecté, vous aurez accès au panel admin .
