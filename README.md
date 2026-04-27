@@ -36,6 +36,7 @@ Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de pass
 ---
 🔒**Panel admin:**
 Afin d'accéder au panel admin vous avez deux possibilitées :
+
 • Via PHPMYADMIN : vous pouvez vous mettre admin via la table user de php my admin
 
 • Utiliser le compte admin déjà présent dans la base de données : 
