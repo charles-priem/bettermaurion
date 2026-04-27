@@ -26,12 +26,24 @@
 
 
 **Configuration**
-Dans un premier temps, veillez à mettre le dossier du projet dans votre dossier htdoc de votre MAMP. Une fois cela fait, ouvrez votre phpMyAdmin : http://localhost/phpMyAdmin5/ puis créez une nouvelle base de données :  Ensuite insérez le fichier : bettermaurion.sql compris dans le dossier 📁 bdd du projet.
+Dans un premier temps veillez à mettre le dossier du projet dans votre dossier htdoc de votre MAMP
+Une fois cela fait ouvrer votre phpMyAdmin ```http://localhost/phpMyAdmin5/``` puis créer une nouvelle base de données :bettermaurion. Ensuite insérez le fichier: bettermaurion.sql compris dans le dossier 📁 bdd du projet.
 
-Une fois cela fait, vous pouvez ensuite aller dans votre localhost : http://localhost/ProjetBetterMoroomia/Pages/. Vous pouvez ensuite créer un compte avec vos identifiants Aurion et mot de passe Aurion afin d'avoir accès à votre emploi du temps personnel compris sur le site.
+Une fois cela fait vous pouvez ensuite aller dans votre localhost
+```http://localhost/ProjetBetterMoroomia/Pages/```
+Vous pouvez ensuite créer un compte avec vos identifiants aurion et mot de passe aurion afin d'avoir accès à votre emplois du temps personnel compris sur le site.
 
-🔒 Panel admi :: Afin d'accéder au paneladmin,n vous avez deuxpossibilitéss : • Via PHPMYADMIN : vous pouvez vous mettre admin via la table user de phpMyAdmin.
+---
+🔒**Panel admin:**
+Afin d'accéder au panel admin vous avez deux possibilitées :
+• Via PHPMYADMIN : vous pouvez vous mettre admin via la table user de php my admin
 
-• Utiliser le compte admin déjà présent dans la base de données : Mail : fz@student.junia.com Password : password
+• Utiliser le compte admin déjà présent dans la base de données : 
+mail : fz@student.junia.com
+password: password
 
-Et une fois connecté, vous aurez accès au panel admin.
+Vous pouvez maintenant profiter du panel admin
+
+Password : password 
+
+Et une fois connecté, vous aurez accès au panel admin .
